@@ -30,7 +30,9 @@ The specific information disclosed, how it enabled suppression, their prior rela
 
 ### The person who blames her
 
-This person was harmed by a decision Later Her made, a decision Earlier Her cannot imagine making. The act, circumstances, and distribution of responsibility remain open.
+This person blames Later Her for refusing a compromise. They believe a tolerable settlement was possible and that her refusal prolonged the conflict, causing harm they suffered. Earlier Her struggles to imagine making that decision.
+
+The refusal and this person's grievance are established. The settlement's actual viability, its terms, Later Her's reasons for rejecting it, the specific harm, and the distribution of responsibility remain open. The person's belief that the conflict could have ended does not settle whether they are right. This is a separate character from the person who betrayed her.
 
 ### The person who believes in her
 
@@ -49,6 +51,7 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - What is the child's present status, and what do they know about the bargain?
 - What did The Board say about a peaceful resolution, and what did each side understand that to mean?
 - What consequences do they fear now?
+- What compromise did Later Her refuse, why did she refuse it, and what harm does the blaming character attribute to that decision?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?

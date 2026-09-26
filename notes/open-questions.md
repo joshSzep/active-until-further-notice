@@ -116,7 +116,10 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What information did they disclose, and how did it help The Board suppress the revolutionary persistence system?
 - When and how does Earlier Her discover the betrayal?
 - What consequences does the betrayer fear from Earlier Her or Later Her's possible return?
-- Who are the people who blame and believe in her, and what histories ground those responses?
+- What compromise did Later Her refuse, and was it actually a viable settlement?
+- Why did she reject it, and what harm does the person who blames her attribute to the refusal?
+- Who is that person, and what relationship did they have with Later Her?
+- Who is the former revolutionary who believes in her, and what history grounds that belief?
 - What does each want from Earlier Her now, and how do their new relationships develop?
 - Who is the first person to tell the waking protagonist something about herself she cannot emotionally accept?
 - What does she most desperately want to ask her later self about who she became?

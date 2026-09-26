@@ -421,3 +421,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This establishes the terms for this child. General embodiment policy for children remains open.
 
 **Still open:** The child's identity and present circumstances; what they know about the bargain; how the parent judges its benefits against the consequences of suppression; the exact promise wording.
+
+## 2026-09-26 — 028: Blame for refusing a compromise
+
+**Question:** What decision caused the harm attributed to Later Her by the separate character who blames her?
+
+**Options offered:** Accepting casualties; denying access to independent life support; refusing a compromise; concealing a danger.
+
+**Author's answer:** "3" — refusing a compromise.
+
+**Decision:** This character blames Later Her for refusing a compromise they believe could have ended the conflict on tolerable terms. They believe her refusal prolonged the conflict and caused harm they suffered.
+
+**Reasoning:** The author selected this source of blame without adding a rationale. It establishes a grievance about her refusal without deciding whether the proposed settlement was actually viable or acceptable.
+
+**Scope:** This remains a separate character from the betrayer. Later Her's refusal and the character's belief are established; the full causal and moral assessment remains open.
+
+**Still open:** The compromise's terms; Later Her's reasons; the specific harm; this person's identity and relationship to her; whether the settlement could have worked.

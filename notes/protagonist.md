@@ -85,7 +85,7 @@ Four distinct people confront her with different aspects of that later life:
 
 - her adult child, born after her restored persistence state, who approaches with love, intimacy, and trust from a life Earlier Her has never shared
 - someone who exposed Later Her's work to The Board, helping it suppress the revolutionary persistence system, and now fears recognition and consequences despite Earlier Her's missing memories
-- someone who blames her for a harmful decision she cannot imagine making
+- someone who blames Later Her for refusing a compromise they believe could have ended the conflict on tolerable terms, a decision Earlier Her struggles to imagine making
 - a former revolutionary who believes in her and expects conviction and courage she does not recognize in herself
 
 All four are different people. The adult child's relationship is established; names, further relationship details, and encounter order remain open. See [Supporting characters](supporting-characters.md).
