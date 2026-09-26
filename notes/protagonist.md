@@ -84,7 +84,7 @@ The protagonist wakes into a world where people knew a later version of her that
 Four distinct people confront her with different aspects of that later life:
 
 - her adult child, born after her restored persistence state, who approaches with love, intimacy, and trust from a life Earlier Her has never shared
-- someone who fears her, revealing the frightening power Later Her held
+- someone who betrayed Later Her and fears recognition and consequences, despite knowing Earlier Her lacks those memories
 - someone who blames her for a harmful decision she cannot imagine making
 - a former revolutionary who believes in her and expects conviction and courage she does not recognize in herself
 

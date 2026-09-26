@@ -18,9 +18,11 @@ Earlier Her's initial response is intense curiosity. She wants to know the child
 
 The child's name, gender, age, other parent or family structure, and political views remain open. Being the person who loves her does not establish that their relationship with Later Her was uncomplicated. Wanting their mother restored does not establish indifference to Earlier Her.
 
-### The person who fears her
+### The person who fears her — someone who betrayed Later Her
 
-An ordinary interaction reveals that Later Her held frightening power. The source of that power and the events behind this person's fear remain open.
+This person betrayed Later Her. They fear recognition and consequences when encountering Earlier Her, even though they understand that she lacks the relevant memories. An ordinary interaction can reveal that fear to the protagonist.
+
+The betrayal, their prior relationship, their motive, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open.
 
 ### The person who blames her
 
@@ -38,6 +40,7 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - What does Earlier Her first seek to learn about Later Her through the child?
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?
+- How did the fearful person betray Later Her, why did they do it, and what consequences do they fear now?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?

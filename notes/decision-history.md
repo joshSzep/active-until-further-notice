@@ -325,3 +325,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Her maternal presence is established, not merely an unverified idealization by the child. It does not invalidate the fear or harm experienced by other characters or settle the details of her political actions.
 
 **Still open:** The memories and habits that convey this care; how Earlier Her responds to learning about it; how motherhood related to Later Her's revolutionary life.
+
+## 2026-09-26 — 022: The fearful person betrayed Later Her
+
+**Question:** Who is the person who fears her?
+
+**Options offered:** A former opponent; a former ally; someone under her authority; someone who betrayed her.
+
+**Author's answer:** "4" — someone who betrayed her.
+
+**Decision:** This person betrayed Later Her and fears recognition and consequences, even knowing Earlier Her lacks the relevant memories.
+
+**Reasoning:** The author selected this relationship without adding a rationale. The fear is grounded in the person's betrayal and anticipated consequences.
+
+**Scope:** The betrayal and fear are established. Their prior relationship, motive, and the nature of the betrayal remain open. Fear does not by itself establish that either version of the protagonist would retaliate.
+
+**Still open:** The betrayal; the person's identity and motivation; what consequences they fear; how they respond to the possibility of Later Her's restoration; what Earlier Her initially notices.
