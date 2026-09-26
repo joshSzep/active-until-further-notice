@@ -34,6 +34,16 @@ Earlier Her is selected for technical ability and because she predates the polit
 
 The Board may intend to return the protagonist to dormancy once the work is complete. This is an explicitly tentative possibility.
 
+## Limits of knowledge — established
+
+During the revolution, the suppressed generations deliberately created undocumented, partially air-gapped modifications to escape Board control. The Board can operate and observe the resulting systems. It lacks their design history and the tacit rationale behind their construction.
+
+The new crisis exposes a failure in that hidden infrastructure. Surviving records show that the revolutionaries had begun solving it before their suppression; the records do not supply the complete understanding needed to finish the work.
+
+The author's governing principle is: **"Computation cannot recover information that was never recorded."** The missing history and reasoning survive primarily in suppressed human persistence states. Greater computational capacity alone does not provide access to those facts.
+
+The Board can still investigate and infer. The particular reasons those methods, replacement, or bypass cannot resolve this crisis without the suppressed expertise remain engineering details to establish.
+
 ## Possible constituent personas
 
 These are exploratory rather than finalized names:

@@ -97,3 +97,17 @@ This log records decisions made through the question-and-answer development proc
 **Title implication:** The author describes her exceptional active status as "a maintenance window." Its duration follows the work, and it does not promise permanent embodiment.
 
 **Still open:** Why the needed expertise is unavailable to The Board outside the archive; why the seal requires her intervention; her exact technical and revolutionary history; the recovery's permitted scope; how her own aims develop; the ending.
+
+## 2026-09-25 — 007: Hidden revolutionary infrastructure and an unfinished solution
+
+**Question:** Why can't The Board solve the crisis using its own knowledge and accessible records?
+
+**Options offered:** Undocumented changes; knowledge behind the seal; expert judgment; an unfinished solution.
+
+**Author's answer:** The suppressed generations deliberately created undocumented, partially air-gapped modifications during the revolution to escape Board control. The Board can operate and observe the resulting systems but lacks their design history and tacit rationale. The new crisis exposes a failure in that infrastructure, and surviving records show the revolutionaries had begun solving it before suppression.
+
+**Decision:** Adopt this causal explanation for the need to recover suppressed expertise. The infrastructure's behavior is observable to The Board, but its design history and the reasoning needed to complete the unfinished solution are not fully available in accessible records.
+
+**Reasoning:** The author identifies an informational limit on AI: **"Computation cannot recover information that was never recorded."** The Board's competence does not grant it access to undocumented human knowledge retained in sealed persistence states.
+
+**Still open:** The affected systems; the failure and its timing; the exact information missing; what survives of the attempted solution; why investigation, replacement, or bypass is inadequate; how the modifications relate to the archive seal and the protagonist's later work.

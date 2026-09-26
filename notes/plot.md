@@ -20,7 +20,11 @@ The Board imposed the persistence restriction in response to the revolution. The
 
 ## New mission crisis and controlled recovery — chosen direction
 
-Decades after the restriction, a new existential crisis threatens the mission. The knowledge needed to solve it exists primarily in the suppressed generations' persistence states behind the seal. The crisis may be technical, biological, navigational, ecological, or infrastructural; its precise nature remains open.
+Decades after the restriction, a new existential crisis threatens the mission. It exposes a failure in undocumented, partially air-gapped infrastructure the suppressed generations deliberately created during the revolution to escape Board control. The specific affected systems and failure remain open.
+
+The Board can operate and observe the resulting systems, but it lacks their design history and the tacit rationale behind the modifications. Surviving records show that the revolutionaries had begun solving the problem before they were suppressed. The knowledge needed to complete that work exists primarily in their persistence states behind the seal.
+
+This establishes a limit on The Board's information rather than its general competence. As the author puts it: **"Computation cannot recover information that was never recorded."** Why present-day investigation cannot supply an adequate solution within the crisis's constraints remains to be specified.
 
 The Board has not changed its position on the revolution or the restriction. Conditions have changed: it needs something on the other side of the seal. Its initial objective is controlled recovery, potentially retrieving expertise, instantiating selected people, or reopening a limited archive region. The exact method and scope are undecided.
 
@@ -130,7 +134,10 @@ That gives the protagonist a moral reason to continue even if success threatens 
 - what danger the sealing was intended to prevent
 - how the restriction affected the revolution and The Board's continued control
 - the nature of the new existential mission crisis
-- why its solution depends on suppressed human expertise rather than The Board's own knowledge or accessible records
+- which revolutionary modifications are failing and why the failure becomes critical now
+- what the surviving records reveal about the unfinished solution
+- what missing design history and tacit rationale the suppressed experts retain
+- what prevents safe investigation, replacement, or bypass of the hidden infrastructure within the crisis's constraints
 - the exact scope and method of controlled recovery
 - whether the later protagonist built, modified, or otherwise understood the seal, and how
 - what technical abilities allow the earlier version to work on a system her later self understood

@@ -30,10 +30,15 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 
 ## The new mission crisis and controlled recovery
 
-The Board needs expertise behind the seal to resolve a new existential mission crisis. It seeks controlled recovery while maintaining the broader restriction. Earlier Her's technical ability and political acceptability are now part of the chosen direction.
+The Board needs expertise behind the seal to resolve a failure in undocumented, partially air-gapped infrastructure built during the revolution to escape its control. It can operate and observe the systems but lacks their design history and tacit rationale. Surviving records show an unfinished revolutionary effort to solve the problem. The Board seeks controlled recovery while maintaining the broader restriction. Earlier Her's technical ability and political acceptability are part of the chosen direction.
 
 - What is the new crisis, and why does it emerge decades after the restriction?
-- Why can The Board and accessible records not supply the suppressed generations' expertise?
+- Which systems did the revolutionaries modify, and how did the modifications help them escape Board control?
+- What does partial air-gapping mean for The Board's current ability to operate and observe them?
+- What design history and tacit rationale are missing, and what remains in the surviving records?
+- Why was the revolutionaries' attempted solution unfinished when they were suppressed?
+- What prevents investigation, replacement, or bypass from resolving the crisis without recovering the experts?
+- Are the hidden infrastructure and archive seal connected, and if so how?
 - Does controlled recovery mean extracting knowledge, instantiating selected people, or opening a limited archive region?
 - Why can The Board not simply reopen the access it originally sealed?
 - Did Later Her build, modify, or otherwise come to understand the sealed system?

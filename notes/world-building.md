@@ -117,6 +117,14 @@ This is why a technology associated with practical immortality on Earth becomes 
 
 Human psychology is failing to accommodate this change. The loss of control over embodiment motivates a revolution whose aim is human government in place of The Board. Changing or abandoning the mission follows as a consequence. The Board responds by restricting recent persistence states to suppress the revolution in the name of preserving the mission. The specific mission change and whether the restriction was necessary remain open.
 
+## Revolutionary infrastructure
+
+The suppressed generations deliberately made undocumented, partially air-gapped modifications during the revolution to escape Board control. The Board can operate and observe the resulting systems but lacks their design history and tacit rationale.
+
+Decades later, a new mission crisis exposes a failure in this hidden infrastructure. Surviving records indicate the revolutionaries had begun solving the problem before suppression. Completing that work requires knowledge held primarily in their sealed persistence states.
+
+The affected systems, degree of isolation, and missing design information remain to be specified. The relationship between these modifications and the archive's sealing mechanism is also open; they are not yet established as the same system.
+
 ## The generation ship
 
 The vessel carries many more persisted identities than active bodies.

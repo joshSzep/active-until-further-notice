@@ -20,6 +20,8 @@ The catastrophe is a deliberate restriction imposed by The Board to suppress a r
 
 Decades later, a new existential mission crisis requires expertise held primarily by the suppressed generations. The Board still believes in the restriction and wants controlled recovery, not a general restoration. It selects the protagonist's earlier state for her technical ability and because she predates the political and psychological changes that made her later self dangerous to it.
 
+The crisis exposes a failure in undocumented, partially air-gapped infrastructure built during the revolution to escape Board control. The Board can operate and observe it but lacks its design history and tacit rationale. Surviving records show that the suppressed people had begun solving the problem.
+
 Her later self understood the sealed system; whether she helped build or modify it remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
 
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
