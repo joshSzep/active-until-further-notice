@@ -101,7 +101,7 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 ## Plot
 
 - What did the later protagonist become?
-- What history grounds the adult child's love for Later Her?
+- What specific memories and habits show the deeply present, patient, attentive mother the child knew?
 - How does the child express their primary wish for Earlier Her to recover their mother?
 - What does Earlier Her first want to learn about Later Her through the child, and how does the child respond to her curiosity?
 - How does Earlier Her's curiosity develop into a relationship with the child in their own right?

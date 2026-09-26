@@ -92,6 +92,8 @@ All four are different people. The adult child's relationship is established; na
 
 The child cares about Earlier Her, but primarily wants her help recovering Later Her, the mother they remember. This initially aligns with Earlier Her's private desire to meet her later self and understand who she became. How that shared objective affects their relationship as Earlier Her develops her own life remains open.
 
+Later Her was a deeply present, patient, attentive mother. The child knew that care firsthand, even while other people experienced her as frightening or harmful. The specific memories that convey this side of her remain open.
+
 Earlier Her initially responds to the child with intense curiosity. She wants to know them partly for what they can reveal about Later Her. This response follows her private drive to understand who she became; the development of affection or maternal feelings remains open.
 
 The Board treats the identity as continuous.

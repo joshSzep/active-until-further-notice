@@ -309,3 +309,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Curiosity is the chosen initial response; this does not establish that she feels no affection or that maternal feelings can never develop.
 
 **Still open:** What she asks or notices first; how the child responds; what she learns about Later Her; how their relationship develops beyond that initial curiosity.
+
+## 2026-09-26 — 021: Later Her was a deeply present mother
+
+**Question:** What was Later Her like as a mother?
+
+**Options offered:** Loving but often absent; deeply present; loving and demanding; changed by the revolution from warmth to secrecy and distance.
+
+**Author's answer:** "2" — deeply present.
+
+**Decision:** Later Her was a patient, attentive, deeply present mother. Whatever others feared about her, the child knew that care firsthand.
+
+**Reasoning:** The author selected this characterization without adding a rationale. It grounds the child's love and wish for restoration in an experienced relationship with an attentive mother.
+
+**Scope:** Her maternal presence is established, not merely an unverified idealization by the child. It does not invalidate the fear or harm experienced by other characters or settle the details of her political actions.
+
+**Still open:** The memories and habits that convey this care; how Earlier Her responds to learning about it; how motherhood related to Later Her's revolutionary life.

@@ -99,6 +99,8 @@ Her own history becomes almost archaeological.
 
 Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
 
+The child's memories are of a deeply present, patient, attentive mother. That care is an established aspect of Later Her, alongside the power and harmful decisions other characters encountered. How the protagonist learns these different aspects remains open.
+
 Earlier Her's initial response to the child is intense curiosity: she wants to know them partly because they can reveal who Later Her became. How that interest develops beyond seeking answers about herself remains open.
 
 The technical recovery problem and the identity problem should increasingly become the same problem.
