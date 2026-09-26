@@ -451,3 +451,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected these terms without adding a rationale. The offer would have ended the revolution through surrender rather than granting its demands for autonomy or human government.
 
 **Still open:** The precise wording and scope; Later Her's reasons for refusal; whether the settlement could have worked; the resulting harm; its chronology relative to the betrayal and suppression.
+
+## 2026-09-26 — 030: Refusal for freedom and those who depended on it
+
+**Question:** Why did Later Her refuse the amnesty-for-surrender offer?
+
+**Options offered:** Amnesty offered no lasting security; freedom mattered too much; she believed victory was possible; others depended on her refusal.
+
+**Author's answer:** "2 + 4".
+
+**Decision:** Later Her understood the offer and considered returning to Board control unacceptable. She also would not surrender systems other people relied on for independent lives. Her refusal combined commitment to freedom with responsibility toward those people.
+
+**Reasoning:** The author selected both the value of freedom and the dependence of others on the systems she was being asked to surrender.
+
+**Scope:** Her reasons are established without settling whether refusing was the right choice or whether the compromise could have worked. No belief in inevitable victory or hidden defect in the amnesty terms is established by this choice.
+
+**Still open:** Who depended on the systems and what they wanted; the harm attributed to refusal; Earlier Her's response to these reasons; the settlement's actual viability and the moral assessment of the decision.

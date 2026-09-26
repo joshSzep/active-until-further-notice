@@ -102,6 +102,8 @@ Humans may not.
 
 ## The later version
 
+Later Her refused amnesty in exchange for surrendering the revolutionary systems and accepting Board governance. She understood the offer but considered returning to that control unacceptable. She would not surrender the systems people relied on for independent lives. Her commitment to freedom and responsibility toward those people are established; the costs and moral assessment of her refusal remain open.
+
 If the inaccessible archive is restored, a much later persistence state of the protagonist could become available.
 
 The protagonist fully understands how persistence works, as everyone in this society does. From the outset, she knows that her restored later self would be a separate person. She does not expect to absorb that woman's memories, merge with her, or become whole through restoration.

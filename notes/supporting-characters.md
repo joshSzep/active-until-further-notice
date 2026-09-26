@@ -32,7 +32,9 @@ The specific information disclosed, how it enabled suppression, their prior rela
 
 This person blames Later Her for refusing amnesty in exchange for surrender. The offer promised no punishment for participating in the revolution, provided the revolutionaries surrendered their independent systems and accepted Board governance. This person believes those were tolerable terms and that her refusal prolonged the conflict, causing harm they suffered. Earlier Her struggles to imagine making that decision.
 
-The offer, refusal, and this person's grievance are established. The settlement's actual viability, precise wording and scope, Later Her's reasons for rejecting it, the specific harm, and the distribution of responsibility remain open. The person's belief that the conflict could have ended does not settle whether they are right. This is a separate character from the person who betrayed her.
+Later Her understood the offer and considered returning to Board control unacceptable. She also refused to surrender systems that other people relied on for independent lives. Her refusal combined commitment to freedom with responsibility toward those people.
+
+The offer, refusal, reasons, and this person's grievance are established. The settlement's actual viability, precise wording and scope, the specific harm, and the distribution of responsibility remain open. The person's belief that the conflict could have ended does not settle whether they are right. This is a separate character from the person who betrayed her.
 
 ### The person who believes in her
 
@@ -51,7 +53,7 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - What is the child's present status, and what do they know about the bargain?
 - What did The Board say about a peaceful resolution, and what did each side understand that to mean?
 - What consequences do they fear now?
-- Why did Later Her refuse amnesty in exchange for surrender, and what harm does the blaming character attribute to that decision?
+- What harm does the blaming character attribute to Later Her's refusal of amnesty, and how do they judge her commitment to others' independence?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?

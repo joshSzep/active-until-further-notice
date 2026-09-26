@@ -34,7 +34,9 @@ This creates a tension to develop with The Board's commitment to preserving peop
 
 The proposed settlement offered no punishment for participating in the revolution, conditional on surrendering the revolutionaries' independent systems and accepting Board governance. Later Her refused. A separate character blames her for prolonging the conflict by rejecting these terms.
 
-The exact wording, scope of amnesty, reasons for refusal, and settlement's practical viability remain open. The chronology relative to the betrayal and suppression is not yet detailed. The Board's inability to tell outright lies applies to its representations; it does not settle whether accepting the terms would have been tolerable to the revolutionaries.
+Later Her understood the offer and rejected returning to Board control as unacceptable. She would not surrender systems that other people depended on for independent lives. Commitment to freedom and responsibility toward those people motivated her refusal.
+
+The exact wording, scope of amnesty, and settlement's practical viability remain open. The chronology relative to the betrayal and suppression is not yet detailed. The Board's inability to tell outright lies applies to its representations; it does not settle whether accepting the terms would have been tolerable to the revolutionaries.
 
 ## Information obtained through a protection bargain
 

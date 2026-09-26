@@ -118,7 +118,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What consequences does the betrayer fear from Earlier Her or Later Her's possible return?
 - Could the amnesty-for-surrender settlement have worked, and what were its exact terms and scope?
 - How did the amnesty offer relate in time to the betrayer's protection bargain and the suppression?
-- Why did she reject it, and what harm does the person who blames her attribute to the refusal?
+- What harm does the person who blames her attribute to the refusal?
+- Who depended on the independent systems Later Her refused to surrender, and how did they view her decision?
+- How does Earlier Her respond to Later Her's commitment to freedom and responsibility toward those people?
 - Who is that person, and what relationship did they have with Later Her?
 - Who is the former revolutionary who believes in her, and what history grounds that belief?
 - What does each want from Earlier Her now, and how do their new relationships develop?
