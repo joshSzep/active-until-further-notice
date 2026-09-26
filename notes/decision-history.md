@@ -497,3 +497,17 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected the experience of remaining active while loved ones were dormant, without adding a rationale. The character personally lived the years of absence rather than waking to discover that time had passed.
 
 **Still open:** Family composition; why this person remained active; duration of separation; whether the family has since returned; their present relationship to recovery efforts.
+
+## 2026-09-26 — 033: Useful enough to remain active without their family
+
+**Question:** Why did the blaming character remain active?
+
+**Options offered:** The Board needed their skills; they chose to advocate for their family; another dependent needed care; they feared dormancy.
+
+**Author's answer:** "1" — The Board needed their skills.
+
+**Decision:** The Board kept this person active because it needed their skills. Their usefulness kept them working while their family was forced into dormancy.
+
+**Reasoning:** The author selected needed expertise without adding a rationale. Their continued embodiment and years of separation are tied to The Board's allocation of useful people.
+
+**Still open:** Their profession and specific skills; their feelings about the work; family composition; duration of separation; whether their family has returned; their role in the present recovery effort.
