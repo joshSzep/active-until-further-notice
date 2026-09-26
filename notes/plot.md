@@ -69,7 +69,7 @@ This is a working plot shape, not locked canon.
 
 The protagonist is instantiated from an old but valid persistence state after a long dormancy.
 
-The state carries a sincere conviction that The Board's governance is the best way to preserve human life. Discovering that her later self became a revolutionary confronts her with a political transformation she has never experienced. Motherhood was its main impetus: she could no longer accept that her child's continued embodiment in adulthood depended on becoming useful enough to the mission. The concrete events and when Earlier Her discovers this connection remain open.
+The state carries a sincere conviction that The Board's governance is the best way to preserve human life. Discovering that her later self became a revolutionary confronts her with a political transformation she has never experienced. Motherhood was its main impetus: her child was on a trajectory not to be useful enough under the ship's allocation criteria. Faced with that prospect, she could no longer accept usefulness as a condition of her child's continued adult embodiment. The reasons for the trajectory, concrete events, and when Earlier Her discovers this connection remain open.
 
 She learns that:
 

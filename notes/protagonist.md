@@ -20,7 +20,9 @@ Before the decades she cannot remember, she sincerely believed The Board's gover
 
 This is the outlook carried by her restored state. Her later revolutionary commitments therefore represent a change she desperately wants to understand. What originally grounded her trust remains open. Her initial convictions do not settle her responses to the present restriction or her eventual choices.
 
-Motherhood most undermined that conviction during the missing decades. She could no longer accept a conditional adulthood in which her child's continued embodiment depended on becoming useful enough to the mission. Allocation principles she had accepted became intolerable when applied to that future. This is the established main impetus for her political transformation; the concrete events, timing, and steps toward revolutionary commitment remain open. No specific finding that her child lacked useful skills or faced imminent dormancy is established.
+Motherhood most undermined that conviction during the missing decades. Her child was on a trajectory not to be useful enough under the ship's mission-based allocation system. The prospect of losing continued adult embodiment was therefore personal and concrete. She could no longer accept the condition she had previously endorsed in principle.
+
+This is the established main impetus for her political transformation. The reasons for the child's trajectory, who recognized it, the child's age, and the steps toward revolutionary commitment remain open. A formal adverse evaluation or imminent dormancy order is not yet established. "Useful" refers to the ship's allocation criteria, not the child's worth as a person.
 
 ## Opening status
 

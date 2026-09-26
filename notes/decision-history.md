@@ -647,3 +647,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** No particular lack of ability, failed evaluation, or imminent dormancy order for the child is established. General childhood protections remain unresolved.
 
 **Still open:** What made the condition concrete for her; the child's age and circumstances; how the objection developed into action; how much the child knows about this history.
+
+## 2026-09-26 — 043: Her child was unlikely to meet the usefulness condition
+
+**Question:** What made the condition on continued embodiment concrete for her?
+
+**Options offered:** An ordinary assessment; the child's fear-driven choices; another family's experience; a favorable prediction that exposed the objectionable condition.
+
+**Author's alternative:** "5 - Her child was on a trajectory to *not* be useful".
+
+**Decision:** Her child was on a trajectory not to be useful enough under the ship's mission-based allocation criteria. The prospect of losing continued adult embodiment made the condition a concrete personal stake for Later Her.
+
+**Reasoning:** The author establishes an unfavorable trajectory for her own child rather than one of the offered triggers. The cause of that trajectory is not yet specified.
+
+**Scope:** Usefulness describes allocation criteria, not personal worth. No specific ability profile, formal evaluation, or imminent dormancy order is established. Earlier historical entries preserve the questions that were open at those stages.
+
+**Still open:** Why the child was on that trajectory; who recognized it; their age and circumstances; what the child knew; how Later Her moved from recognition to political action.
