@@ -617,3 +617,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This establishes her earlier convictions, not permanent allegiance or agreement with every current Board decision. The cause of Later Her's transformation remains open.
 
 **Still open:** What grounded her original trust; what changed during the missing decades; how she now evaluates The Board; whether her new path resembles or differs from Later Her's.
+
+## 2026-09-26 — 041: Motherhood undermined her faith in Board governance
+
+**Question:** What most undermined her conviction during the missing decades?
+
+**Options offered:** Motherhood; professional responsibility; evidence that greater autonomy was achievable; accumulated experience of conditional lives.
+
+**Author's answer:** "1" — motherhood.
+
+**Decision:** Allocation decisions she had accepted in principle became intolerable when they governed her child's future. Motherhood was the main force undermining her belief that Board governance was the best way to preserve human life.
+
+**Reasoning:** The author selected the personal stakes of motherhood as the central impetus for the political transformation. The specific events and path into revolutionary activity remain undecided.
+
+**Still open:** The allocation decisions involved; the child's age and circumstances; the stages of her changing convictions; what the child knows; when and how Earlier Her learns this history.

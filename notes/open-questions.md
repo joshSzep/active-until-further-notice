@@ -105,7 +105,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 ## Plot
 
 - What grounded Earlier Her's sincere belief that Board governance best preserved human life?
-- What experiences changed that conviction during the missing decades and led Later Her toward revolution?
+- What allocation decisions concerning her child's future made Board governance intolerable to Later Her?
+- How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?
+- How much does the adult child know about their place in that transformation?
 
 - What did the later protagonist become?
 - What specific memories and habits show the deeply present, patient, attentive mother the child knew?

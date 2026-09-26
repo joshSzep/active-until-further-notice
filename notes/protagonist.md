@@ -18,7 +18,9 @@ The later version of the protagonist lived for decades after the state from whic
 
 Before the decades she cannot remember, she sincerely believed The Board's governance was the best way to preserve human life. Her support was conviction, not merely pragmatic acceptance or political disengagement.
 
-This is the outlook carried by her restored state. Her later revolutionary commitments therefore represent a change she desperately wants to understand. What originally grounded her trust and what changed Later Her's mind remain open. Her initial convictions do not settle her responses to the present restriction or her eventual choices.
+This is the outlook carried by her restored state. Her later revolutionary commitments therefore represent a change she desperately wants to understand. What originally grounded her trust remains open. Her initial convictions do not settle her responses to the present restriction or her eventual choices.
+
+Motherhood most undermined that conviction during the missing decades. Allocation decisions she had accepted in principle became intolerable when they governed her child's future. This is the established main impetus for her political transformation; the particular decisions, timing, and steps toward revolutionary commitment remain open.
 
 ## Opening status
 
