@@ -355,3 +355,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected this form of betrayal without adding a rationale. It connects the character's fear directly to their contribution to suppression.
 
 **Still open:** The specific information; how it enabled suppression; the person's motive and prior relationship with Later Her; when Earlier Her learns of it; what consequences the person fears.
+
+## 2026-09-26 — 024: A protection bargain and misplaced trust
+
+**Question:** Why did they expose Later Her's work?
+
+**Options offered:** Conviction that the revolution endangered the mission; a protection bargain; misplaced trust in a peaceful resolution; personal resentment.
+
+**Author's answer:** "2 + 3".
+
+**Decision:** They traded information for protection of themselves or someone they loved. The Board persuaded them disclosure would enable a peaceful resolution, and they did not anticipate suppression.
+
+**Reasoning:** The author combined a personal protection motive with trust in The Board's proposed resolution, without specifying the beneficiary or exact promises.
+
+**Scope:** Their expectation and the resulting suppression are established. The Board's intent, whether it honored the protection bargain, and whether the mismatch involved deception, differing definitions of peace, or a later change of plan remain open.
+
+**Still open:** Whom they protected; the terms and outcome of the bargain; The Board's precise representations; the disclosed information; their response to what followed.

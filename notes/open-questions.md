@@ -105,7 +105,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - How does the child express their primary wish for Earlier Her to recover their mother?
 - What does Earlier Her first want to learn about Later Her through the child, and how does the child respond to her curiosity?
 - How does Earlier Her's curiosity develop into a relationship with the child in their own right?
-- Who exposed Later Her's work to The Board, and why?
+- Who exposed Later Her's work to The Board, and whom were they trying to protect through the bargain?
+- What protection did The Board offer, and did it honor the bargain?
+- What did The Board say to persuade them disclosure would enable a peaceful resolution? Was it misleading them, using a different definition of peace, or did its plans change?
 - What information did they disclose, and how did it help The Board suppress the revolutionary persistence system?
 - When and how does Earlier Her discover the betrayal?
 - What consequences does the betrayer fear from Earlier Her or Later Her's possible return?

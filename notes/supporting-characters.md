@@ -22,7 +22,11 @@ The child's name, gender, age, other parent or family structure, and political v
 
 This person betrayed Later Her by exposing her work to The Board. They provided information that helped it suppress the revolutionary persistence system. They fear recognition and consequences when encountering Earlier Her, even though they understand that she lacks the relevant memories. An ordinary interaction can reveal that fear to the protagonist.
 
-The specific information disclosed, how it enabled suppression, their prior relationship, their motive, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open.
+They traded the information for protection of themselves or someone they loved; the beneficiary remains undecided. The Board persuaded them that disclosure would enable a peaceful resolution. They trusted that framing and did not anticipate suppression.
+
+The specific information disclosed, how it enabled suppression, their prior relationship, the terms and outcome of the protection bargain, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open.
+
+The Board's exact representations and intent remain undecided. It is not yet established whether it knowingly misled them, considered suppression a peaceful resolution, or changed course after the disclosure.
 
 ### The person who blames her
 
@@ -41,7 +45,9 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?
 - What information about Later Her's work did the fearful person give The Board, and how did it help suppress the persistence system?
-- Why did they disclose it, and what consequences do they fear now?
+- Who were they protecting, what protection did The Board offer, and did it honor that bargain?
+- What did The Board say about a peaceful resolution, and what did each side understand that to mean?
+- What consequences do they fear now?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?

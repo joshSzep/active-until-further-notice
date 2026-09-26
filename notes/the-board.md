@@ -24,6 +24,12 @@ The Board openly takes responsibility for the restriction and justifies it as ne
 
 This creates a tension to develop with The Board's commitment to preserving people: it preserves older states while deliberately denying access to later lives. Its materialism does not by itself resolve that tension.
 
+## Information obtained through a protection bargain
+
+The person who betrayed Later Her disclosed information about her work that helped The Board suppress the revolutionary persistence system. They traded it for protection of themselves or someone they loved, believing The Board's claim that disclosure would enable a peaceful resolution. They did not anticipate suppression.
+
+The beneficiary, exact promises, and whether The Board honored the protection bargain remain open. Its intent is also undecided: the story has not established whether it knowingly misled them, treated suppression as a peaceful resolution, or changed course later.
+
 ## Controlled recovery — chosen direction
 
 Decades after imposing the restriction, The Board faces a new existential mission crisis that requires expertise held primarily by the suppressed generations. It has not changed its judgment of the revolution or abandoned the restriction. Changed conditions force it to seek something behind the seal.
