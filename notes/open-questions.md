@@ -118,7 +118,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What consequences does the betrayer fear from Earlier Her or Later Her's possible return?
 - Could the amnesty-for-surrender settlement have worked, and what were its exact terms and scope?
 - How did the amnesty offer relate in time to the betrayer's protection bargain and the suppression?
-- Which members of the blaming character's family were forced into dormancy, who remained active, and how many shared years were lost?
+- Who comprises the blaming character's family, which was forced into dormancy while they remained active, and how many shared years were lost?
+- Why did this person remain active, and has any of the family since returned?
 - What are their family relationships like now, and would accepting the amnesty actually have prevented the separation?
 - Who depended on the independent systems Later Her refused to surrender, and how did they view her decision?
 - How does Earlier Her respond to Later Her's commitment to freedom and responsibility toward those people?

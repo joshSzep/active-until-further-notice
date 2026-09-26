@@ -483,3 +483,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Which family members were dormant or active remains open. The grievance does not establish that accepting the settlement would actually have prevented the separation.
 
 **Still open:** Family composition; duration and timing of dormancy; the shared experiences lost; present relationships; how Earlier Her responds to the accusation.
+
+## 2026-09-26 — 032: The blaming character remained active without their family
+
+**Question:** Which separation hurt most?
+
+**Options offered:** Their children grew up without them; their partner lived on; they remained active alone; repeated schedules prevented shared family life.
+
+**Author's answer:** "3" — they remained active alone.
+
+**Decision:** Their family was forced into dormancy while they remained active, living through years without them. This is the separation they blame on Later Her's refusal of amnesty.
+
+**Reasoning:** The author selected the experience of remaining active while loved ones were dormant, without adding a rationale. The character personally lived the years of absence rather than waking to discover that time had passed.
+
+**Still open:** Family composition; why this person remained active; duration of separation; whether the family has since returned; their present relationship to recovery efforts.
