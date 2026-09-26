@@ -20,7 +20,7 @@ The Board imposed the persistence restriction in response to the revolution. The
 
 ## New mission crisis and controlled recovery — chosen direction
 
-Decades after the restriction, a new existential crisis threatens the mission. It exposes a failure in undocumented, partially air-gapped infrastructure the suppressed generations deliberately created during the revolution to escape Board control. The specific affected systems and failure remain open.
+Decades after the restriction, an ecological crisis threatens the mission. Independent food, water, and microbial life-support systems created during the revolution are failing. The suppressed generations deliberately built these undocumented, partially air-gapped modifications to support people outside The Board's allocations and escape its control. The specific ecological failure and how it threatens the wider ship remain open.
 
 The Board can operate and observe the resulting systems, but it lacks their design history and the tacit rationale behind the modifications. Surviving records show that the revolutionaries had begun solving the problem before they were suppressed. The knowledge needed to complete that work exists primarily in their persistence states behind the seal.
 
@@ -133,8 +133,8 @@ That gives the protagonist a moral reason to continue even if success threatens 
 - how The Board sealed the persistence states away
 - what danger the sealing was intended to prevent
 - how the restriction affected the revolution and The Board's continued control
-- the nature of the new existential mission crisis
-- which revolutionary modifications are failing and why the failure becomes critical now
+- the specific ecological failure in the independent life-support systems and why it becomes critical now
+- how the wider ship has become vulnerable to failure in those systems
 - what the surviving records reveal about the unfinished solution
 - what missing design history and tacit rationale the suppressed experts retain
 - what prevents safe investigation, replacement, or bypass of the hidden infrastructure within the crisis's constraints

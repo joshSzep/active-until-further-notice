@@ -119,11 +119,11 @@ Human psychology is failing to accommodate this change. The loss of control over
 
 ## Revolutionary infrastructure
 
-The suppressed generations deliberately made undocumented, partially air-gapped modifications during the revolution to escape Board control. The Board can operate and observe the resulting systems but lacks their design history and tacit rationale.
+The suppressed generations deliberately created independent food, water, and microbial life-support systems during the revolution. These supported people outside The Board's allocations, giving the struggle for embodiment autonomy a material basis. The modifications were undocumented and partially air-gapped to escape Board control. The Board can operate and observe the resulting systems but lacks their design history and tacit rationale.
 
-Decades later, a new mission crisis exposes a failure in this hidden infrastructure. Surviving records indicate the revolutionaries had begun solving the problem before suppression. Completing that work requires knowledge held primarily in their sealed persistence states.
+Decades later, the ecology of these systems is failing, creating a new existential mission crisis. Surviving records indicate the revolutionaries had begun solving the problem before suppression. Completing that work requires knowledge held primarily in their sealed persistence states.
 
-The affected systems, degree of isolation, and missing design information remain to be specified. The relationship between these modifications and the archive's sealing mechanism is also open; they are not yet established as the same system.
+The exact ecological failure, degree of isolation, and missing design information remain to be specified, as does the reason failure in these systems threatens the wider ship. The relationship between these modifications and the archive's sealing mechanism is also open; they are not yet established as the same system.
 
 ## The generation ship
 

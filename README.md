@@ -20,7 +20,7 @@ The catastrophe is a deliberate restriction imposed by The Board to suppress a r
 
 Decades later, a new existential mission crisis requires expertise held primarily by the suppressed generations. The Board still believes in the restriction and wants controlled recovery, not a general restoration. It selects the protagonist's earlier state for her technical ability and because she predates the political and psychological changes that made her later self dangerous to it.
 
-The crisis exposes a failure in undocumented, partially air-gapped infrastructure built during the revolution to escape Board control. The Board can operate and observe it but lacks its design history and tacit rationale. Surviving records show that the suppressed people had begun solving the problem.
+The crisis is ecological: independent food, water, and microbial life-support systems built during the revolution to support people outside The Board's allocations are now failing. Their modifications were undocumented and partially air-gapped. The Board can operate and observe them but lacks their design history and tacit rationale. Surviving records show that the suppressed people had begun solving the problem.
 
 Her later self understood the sealed system; whether she helped build or modify it remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
 

@@ -30,10 +30,11 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 
 ## The new mission crisis and controlled recovery
 
-The Board needs expertise behind the seal to resolve a failure in undocumented, partially air-gapped infrastructure built during the revolution to escape its control. It can operate and observe the systems but lacks their design history and tacit rationale. Surviving records show an unfinished revolutionary effort to solve the problem. The Board seeks controlled recovery while maintaining the broader restriction. Earlier Her's technical ability and political acceptability are part of the chosen direction.
+The Board needs expertise behind the seal to resolve ecological failure in independent food, water, and microbial life-support systems built during the revolution to support people outside its allocations. These systems contain undocumented, partially air-gapped modifications. It can operate and observe them but lacks their design history and tacit rationale. Surviving records show an unfinished revolutionary effort to solve the problem. The Board seeks controlled recovery while maintaining the broader restriction. Earlier Her's technical ability and political acceptability are part of the chosen direction.
 
-- What is the new crisis, and why does it emerge decades after the restriction?
-- Which systems did the revolutionaries modify, and how did the modifications help them escape Board control?
+- What specific ecological failure becomes critical decades after the restriction?
+- How did independent food, water, and microbial systems support embodiment outside The Board's allocations in practice?
+- Why does failure in those systems now threaten the wider ship and mission?
 - What does partial air-gapping mean for The Board's current ability to operate and observe them?
 - What design history and tacit rationale are missing, and what remains in the surviving records?
 - Why was the revolutionaries' attempted solution unfinished when they were suppressed?

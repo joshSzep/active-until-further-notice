@@ -38,7 +38,7 @@ The Board may intend to return the protagonist to dormancy once the work is comp
 
 During the revolution, the suppressed generations deliberately created undocumented, partially air-gapped modifications to escape Board control. The Board can operate and observe the resulting systems. It lacks their design history and the tacit rationale behind their construction.
 
-The new crisis exposes a failure in that hidden infrastructure. Surviving records show that the revolutionaries had begun solving it before their suppression; the records do not supply the complete understanding needed to finish the work.
+The hidden infrastructure consists of independent food, water, and microbial life-support systems that supported people outside The Board's allocations. Their ecology is now failing. Surviving records show that the revolutionaries had begun solving the problem before their suppression; the records do not supply the complete understanding needed to finish the work.
 
 The author's governing principle is: **"Computation cannot recover information that was never recorded."** The missing history and reasoning survive primarily in suppressed human persistence states. Greater computational capacity alone does not provide access to those facts.
 

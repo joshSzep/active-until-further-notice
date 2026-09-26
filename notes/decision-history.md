@@ -111,3 +111,17 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author identifies an informational limit on AI: **"Computation cannot recover information that was never recorded."** The Board's competence does not grant it access to undocumented human knowledge retained in sealed persistence states.
 
 **Still open:** The affected systems; the failure and its timing; the exact information missing; what survives of the attempted solution; why investigation, replacement, or bypass is inadequate; how the modifications relate to the archive seal and the protagonist's later work.
+
+## 2026-09-25 — 008: Independent life support and ecological failure
+
+**Question:** What infrastructure did the revolutionaries modify to make independent life possible?
+
+**Options offered:** Life support; embodiment facilities; power and thermal systems; an entire parallel habitat.
+
+**Author's answer:** "1" — life support.
+
+**Decision:** Independent food, water, and microbial systems supported people outside The Board's allocations. Their ecology is now failing, driving the present mission crisis. The previously established undocumented, partially air-gapped modifications and unfinished revolutionary solution apply to these systems.
+
+**Reasoning:** The author selected life support without adding a rationale. The offered option connects the practical means of embodiment autonomy to the resources The Board allocates.
+
+**Still open:** The specific ecological failure; why it becomes critical now; why the wider ship depends on or is threatened by these systems; the missing design knowledge; the unfinished solution; the relationship to the archive seal.
