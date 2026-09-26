@@ -103,7 +103,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What did the later protagonist become?
 - Who loved or hated her?
 - Who is the first person to tell the waking protagonist something about herself she cannot emotionally accept?
-- When does she first stop thinking of the later persistence state as simply herself?
+- What does she most desperately want to ask her later self about who she became?
+- When does her desire to meet her later self begin to conflict with protecting the new life she has built?
 - Does she intentionally delay restoring her later version?
 - Can both versions be embodied simultaneously within resource constraints?
 - What decision does The Board make about them?

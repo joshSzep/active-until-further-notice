@@ -87,7 +87,7 @@ The protagonist begins designing a new mechanism for selectively retrieving indi
 
 Early in her technical investigation, she discovers that broad reconnection is possible. She challenges The Board, which acknowledges the capability and defends having withheld it. The specific evidence and its defense remain open. The timing is established as early in the investigation; its exact placement within the provisional acts is not fixed.
 
-She continues despite rejecting The Board's reasoning. Outwardly, she says she must help because people will die without a solution to the ecological crisis. Privately, her stronger motive is recovering her missing life and later persistence state. The extent of her self-awareness and when that private priority changes her actions remain open.
+She continues despite rejecting The Board's reasoning. Outwardly, she says she must help because people will die without a solution to the ecological crisis. Privately, her stronger motive is meeting her later self and understanding who she became. She already understands that this would be a separate person, not memories she could absorb to become whole. The extent of her self-awareness about her priorities and when they change her actions remain open.
 
 As she works, she learns what happened during the decades she does not remember.
 
@@ -111,7 +111,7 @@ Recovery succeeds or becomes possible.
 
 The later persistence state can potentially be instantiated.
 
-By now the protagonist no longer experiences that later state simply as "herself."
+The protagonist has always understood that her later self would be a separate person. By now, what meeting and potentially coexisting with that woman would mean for her new life may have changed her feelings about restoration.
 
 The ship may now have two legitimate continuations of one identity:
 
@@ -124,13 +124,15 @@ Human society does not have the luxury of treating it so cleanly.
 
 ## Central dramatic reversal
 
-At the beginning:
+The working emotional reversal begins with:
 
-> Recovering the later version means getting myself back.
+> I need to meet her. I need to understand who I became.
 
-Later:
+It may develop toward:
 
-> Recovering the later version may mean creating another person whose claims to my life are stronger than mine.
+> I still want those answers. But what will her return mean for the life I have built?
+
+This is an emotional change, not a correction of a technical misunderstanding. The protagonist understands persistence and branching from the outset. The exact later conflict remains open.
 
 ## Potential stakes
 

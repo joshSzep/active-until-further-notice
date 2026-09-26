@@ -233,3 +233,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This does not establish that her concern for others is entirely false or that she is indifferent to them. The degree of self-awareness and whether others recognize her private motive remain open.
 
 **Still open:** How the motives affect her actions; when they conflict; what The Board perceives; how her priorities change as she develops a new life and learns about her later self.
+
+## 2026-09-25 — 016: Meet Later Her and understand who she became
+
+**Question:** What does she initially imagine "getting my life back" means?
+
+**Options offered:** Becoming whole through later memories; meeting her later self; reclaiming relationships; understanding her inherited identity and reputation.
+
+**Author's answer:** "2 and 4. She understands fully how persistance works. Everyone does. So there is no confusion about 'becoming whole'. But she doesn't understand who she became and desperately wants to".
+
+**Decision:** She wants to meet her later self as a separate person and understand who she became. Persistence and branching are understood throughout society, including by the protagonist from the outset. Her private drive concerns her missing history and inherited reputation, not acquiring later memories to become whole.
+
+**Reasoning:** Technical understanding does not tell her how she became the woman other people knew. She desperately wants that personal understanding and answers from her later self.
+
+**Correction to earlier framing:** Replace suggestions that her arc depends on first treating Later Her as simply herself and then discovering branching. Any later ambivalence concerns the emotional and practical consequences of the meeting and coexistence. Historical entries remain as a record of development.
+
+**Still open:** The questions she wants answered; what she first learns about her later self; whether the meeting provides the understanding she seeks; how that desire changes as she builds a new life.

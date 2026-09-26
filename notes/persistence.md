@@ -34,6 +34,8 @@ A spouse might remember events shared with a version who no longer remembers the
 
 ## Identity
 
+The practical workings of persistence and branching are common knowledge in this society. The protagonist understands from the outset that restoring a later state alongside her would produce a separate person; restoration does not mean absorbing that person's memories or becoming whole. This practical understanding leaves the philosophical questions below unresolved.
+
 Society probably had to operationalize the identity question long before the ship launched.
 
 The practical legal answer is likely that a validated continuity chain is treated as the same legal identity even if the metaphysical question remains unsettled.

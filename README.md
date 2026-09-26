@@ -32,7 +32,7 @@ Nightly persistence continues under the restriction: new states are captured and
 
 The public knows The Board deliberately withholds restoration while preserving nightly states. It openly justifies this as necessary for mission survival, but does not disclose that broad reconnection is possible or publicly frame fear and political control as its purposes.
 
-That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
+She understands that her later self would be a separate person, not a source of memories that would make her whole. Her strongest private motive is to meet that woman and understand who she became. As she builds a new life, that desperate wish may come into conflict with what restoring her later self would mean for it.
 
 ## Current core ideas
 

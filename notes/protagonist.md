@@ -67,7 +67,7 @@ The technical evidence and the details of the confrontation remain open. This es
 
 After the confrontation, her outward reason for continuing is that people will die unless she helps resolve the ecological crisis. She rejects The Board's reasoning but presents the immediate human stakes as her reason to keep working.
 
-Privately, the stronger motive is recovering her missing life: reaching her later persistence state and understanding what happened to her. This is what she secretly cares about most at this early stage.
+Privately, the stronger motive is meeting her later self and understanding who she became. She desperately wants answers from the woman whose history and reputation she has inherited without living them. This is what she secretly cares about most at this early stage. "Recovering her missing life" means access to that person and her history, not absorbing her memories or becoming whole.
 
 The distinction does not establish indifference to other people's lives. How fully she admits her priorities to herself, whether The Board recognizes them, and when they affect her choices remain open.
 
@@ -98,19 +98,21 @@ Humans may not.
 
 If the inaccessible archive is restored, a much later persistence state of the protagonist could become available.
 
-At first, the protagonist may think of that state as simply "me."
+The protagonist fully understands how persistence works, as everyone in this society does. From the outset, she knows that her restored later self would be a separate person. She does not expect to absorb that woman's memories, merge with her, or become whole through restoration.
 
-Her strongest private motivation early in the investigation is:
+Her strongest private motivation is to meet that woman and understand who she became. Others know a history and reputation that she cannot account for from her own experience. She wants answers only her later self can give.
 
-> If I fix this, I get my life back.
+The uncertainty is personal: how did she become that person, and what would meeting her reveal? Her knowledge of the technology does not answer those questions.
 
-But while working on the problem she accumulates new experiences, relationships, memories, and identity.
+While working on the problem she accumulates new experiences, relationships, memories, and identity.
 
-By the time the later state becomes recoverable, the question changes:
+The working arc allows her desire for that meeting to become more conflicted as the later state becomes recoverable:
 
 > Do I still want her to wake?
 
 If both versions can exist, the identity tree forks.
+
+She understands that possibility from the start. Any change in her feelings concerns the consequences of meeting and coexisting with her later self, not a discovery of how branching works.
 
 The later version has decades of memories the protagonist lacks.
 
