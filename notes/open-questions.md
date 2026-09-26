@@ -114,6 +114,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - Was there a formal assessment or dormancy decision, or was the likely future apparent before either?
 - How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?
 - How much does the adult child know about their place in that transformation?
+- What did the adolescent child understand about their mother and the revolution when she became inaccessible?
+- What are the child's exact ages at suppression and at Earlier Her's return, and what happened during the intervening adulthood?
 
 - What did the later protagonist become?
 - What specific memories and habits show the deeply present, patient, attentive mother the child knew?

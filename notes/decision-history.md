@@ -711,3 +711,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This does not establish a judgment that the revolution was wrong, agreement with The Board, or how the child would react to Later Her's own choices after restoration.
 
 **Still open:** How the child expresses this outlook; how their aims interact with those of Earlier Her and the believer; their response if Later Her wants to resume the struggle.
+
+## 2026-09-26 — 047: The child lost access to Later Her during adolescence
+
+**Question:** How old was the child when Later Her became inaccessible?
+
+**Options offered:** Still a child; an adolescent; already an adult.
+
+**Author's answer:** "2" — an adolescent.
+
+**Decision:** The child was an adolescent when Later Her became inaccessible, beginning to understand her as a person beyond motherhood. Their adulthood unfolded without her; they are elderly when Earlier Her returns.
+
+**Reasoning:** The author selected adolescence without adding a rationale. This establishes the life stage at separation and connects it to the already-established elderly reunion.
+
+**Still open:** Exact ages and elapsed time; what the child understood about the revolution then; their intervening life; what they want to tell Later Her about the years she missed.
