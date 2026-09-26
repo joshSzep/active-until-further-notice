@@ -437,3 +437,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This remains a separate character from the betrayer. Later Her's refusal and the character's belief are established; the full causal and moral assessment remains open.
 
 **Still open:** The compromise's terms; Later Her's reasons; the specific harm; this person's identity and relationship to her; whether the settlement could have worked.
+
+## 2026-09-26 — 029: Amnesty in exchange for surrender
+
+**Question:** What did the proposed compromise offer?
+
+**Options offered:** Guaranteed embodiment terms; a protected autonomous community; shared government; amnesty in exchange for surrender.
+
+**Author's answer:** "4" — amnesty in exchange for surrender.
+
+**Decision:** The offer promised no punishment for participating in the revolution, provided the revolutionaries surrendered their independent systems and accepted Board governance. Later Her refused this settlement, which the blaming character considers to have been tolerable.
+
+**Reasoning:** The author selected these terms without adding a rationale. The offer would have ended the revolution through surrender rather than granting its demands for autonomy or human government.
+
+**Still open:** The precise wording and scope; Later Her's reasons for refusal; whether the settlement could have worked; the resulting harm; its chronology relative to the betrayal and suppression.

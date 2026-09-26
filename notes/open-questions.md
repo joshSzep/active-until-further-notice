@@ -116,7 +116,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What information did they disclose, and how did it help The Board suppress the revolutionary persistence system?
 - When and how does Earlier Her discover the betrayal?
 - What consequences does the betrayer fear from Earlier Her or Later Her's possible return?
-- What compromise did Later Her refuse, and was it actually a viable settlement?
+- Could the amnesty-for-surrender settlement have worked, and what were its exact terms and scope?
+- How did the amnesty offer relate in time to the betrayer's protection bargain and the suppression?
 - Why did she reject it, and what harm does the person who blames her attribute to the refusal?
 - Who is that person, and what relationship did they have with Later Her?
 - Who is the former revolutionary who believes in her, and what history grounds that belief?

@@ -30,6 +30,12 @@ The Board openly takes responsibility for the restriction and justifies it as ne
 
 This creates a tension to develop with The Board's commitment to preserving people: it preserves older states while deliberately denying access to later lives. Its materialism does not by itself resolve that tension.
 
+## Rejected amnesty offer
+
+The proposed settlement offered no punishment for participating in the revolution, conditional on surrendering the revolutionaries' independent systems and accepting Board governance. Later Her refused. A separate character blames her for prolonging the conflict by rejecting these terms.
+
+The exact wording, scope of amnesty, reasons for refusal, and settlement's practical viability remain open. The chronology relative to the betrayal and suppression is not yet detailed. The Board's inability to tell outright lies applies to its representations; it does not settle whether accepting the terms would have been tolerable to the revolutionaries.
+
 ## Information obtained through a protection bargain
 
 The person who betrayed Later Her disclosed information about her work that helped The Board suppress the revolutionary persistence system. They traded it to protect their child, fearing for the child's future if the revolution did not resolve peacefully. They believed The Board's claim that disclosure would enable a peaceful resolution and did not anticipate suppression.
