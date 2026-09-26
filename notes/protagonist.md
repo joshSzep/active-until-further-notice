@@ -20,7 +20,7 @@ Before the decades she cannot remember, she sincerely believed The Board's gover
 
 This is the outlook carried by her restored state. Her later revolutionary commitments therefore represent a change she desperately wants to understand. What originally grounded her trust remains open. Her initial convictions do not settle her responses to the present restriction or her eventual choices.
 
-Motherhood most undermined that conviction during the missing decades. Allocation decisions she had accepted in principle became intolerable when they governed her child's future. This is the established main impetus for her political transformation; the particular decisions, timing, and steps toward revolutionary commitment remain open.
+Motherhood most undermined that conviction during the missing decades. She could no longer accept a conditional adulthood in which her child's continued embodiment depended on becoming useful enough to the mission. Allocation principles she had accepted became intolerable when applied to that future. This is the established main impetus for her political transformation; the concrete events, timing, and steps toward revolutionary commitment remain open. No specific finding that her child lacked useful skills or faced imminent dormancy is established.
 
 ## Opening status
 

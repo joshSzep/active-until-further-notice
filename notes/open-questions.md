@@ -105,7 +105,7 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 ## Plot
 
 - What grounded Earlier Her's sincere belief that Board governance best preserved human life?
-- What allocation decisions concerning her child's future made Board governance intolerable to Later Her?
+- What made the dependence of her child's adult embodiment on usefulness concrete for Later Her, and how old was the child at the time?
 - How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?
 - How much does the adult child know about their place in that transformation?
 

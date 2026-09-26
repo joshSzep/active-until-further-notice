@@ -631,3 +631,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected the personal stakes of motherhood as the central impetus for the political transformation. The specific events and path into revolutionary activity remain undecided.
 
 **Still open:** The allocation decisions involved; the child's age and circumstances; the stages of her changing convictions; what the child knows; when and how Earlier Her learns this history.
+
+## 2026-09-26 — 042: Her child's embodiment should not depend on usefulness
+
+**Question:** What about her child's future became intolerable?
+
+**Options offered:** Scheduled separation; a conditional adulthood; an assigned life; no right to refuse allocation.
+
+**Author's answer:** "2" — a conditional adulthood.
+
+**Decision:** She could no longer accept that her child's continued embodiment as an adult would depend on becoming useful enough to the mission. This gives the established motherhood-driven political transformation its central objection.
+
+**Reasoning:** The author selected the condition placed on continued embodied life, without specifying a triggering event.
+
+**Scope:** No particular lack of ability, failed evaluation, or imminent dormancy order for the child is established. General childhood protections remain unresolved.
+
+**Still open:** What made the condition concrete for her; the child's age and circumstances; how the objection developed into action; how much the child knows about this history.
