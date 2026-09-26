@@ -1,5 +1,7 @@
 # Active Until Further Notice
 
+![Cover](./active-until-further-notice.png)
+
 A philosophical hard science fiction novel in development.
 
 ## Working premise
