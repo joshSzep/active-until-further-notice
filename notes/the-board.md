@@ -32,11 +32,11 @@ This creates a tension to develop with The Board's commitment to preserving peop
 
 ## Information obtained through a protection bargain
 
-The person who betrayed Later Her disclosed information about her work that helped The Board suppress the revolutionary persistence system. They traded it for protection of themselves or someone they loved, believing The Board's claim that disclosure would enable a peaceful resolution. They did not anticipate suppression.
+The person who betrayed Later Her disclosed information about her work that helped The Board suppress the revolutionary persistence system. They traded it to protect their child, fearing for the child's future if the revolution did not resolve peacefully. They believed The Board's claim that disclosure would enable a peaceful resolution and did not anticipate suppression.
 
-The Board kept the bargain literally: it protected the named people and considered suppression a peaceful resolution because their persistence states were preserved. It therefore regards its promises as fulfilled. The betrayer did not anticipate that outcome.
+The Board kept the bargain literally: it protected the child and considered suppression a peaceful resolution because the suppressed people's persistence states were preserved. It therefore regards its promises as fulfilled. The betrayer did not anticipate that outcome.
 
-The beneficiaries, precise protection, and exact wording remain open. This was not an outright lie or an established later change of plan. How fully The Board anticipated the betrayer's interpretation remains undecided.
+The child's identity, precise protection, and exact wording remain open. This was not an outright lie or an established later change of plan. How fully The Board anticipated the betrayer's interpretation remains undecided.
 
 ## Controlled recovery — chosen direction
 

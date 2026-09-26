@@ -97,7 +97,7 @@ Four distinct people make that history personal: her adult child loves her, some
 
 Her own history becomes almost archaeological.
 
-The person who fears her gave The Board information about Later Her's work that helped it suppress the revolutionary persistence system. They bargained for protection of themselves or someone they loved and believed The Board's claim that disclosure would enable a peaceful resolution. They did not anticipate suppression. The Board kept the bargain literally: it protected the named people and considered suppression peaceful because their states were preserved. It is incapable of outright lies. The beneficiary, specific disclosure, exact terms, and when the protagonist discovers the betrayal remain open.
+The person who fears her gave The Board information about Later Her's work that helped it suppress the revolutionary persistence system. They bargained to protect their child, fearing the child's future would be endangered unless the revolution resolved peacefully. They believed The Board's claim that disclosure would enable that resolution and did not anticipate suppression. The Board kept the bargain literally: it protected the child and considered suppression peaceful because the suppressed people's states were preserved. It is incapable of outright lies. The child's identity, specific disclosure, exact terms, and when the protagonist discovers the betrayal remain open.
 
 Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
 

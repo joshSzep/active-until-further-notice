@@ -389,3 +389,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Established omissions and operational secrecy remain possible. The mechanism enforcing truthfulness, handling of direct questions, and limits on deliberate misleading implications are not yet decided. This constraint does not establish infallibility.
 
 **Still open:** The named beneficiaries; the exact promises and protection provided; how fully The Board anticipated the betrayer's interpretation; the betrayer's response to the literal fulfillment.
+
+## 2026-09-26 — 026: The betrayer sought to protect their child's future
+
+**Question:** Whom was the betrayer trying to protect?
+
+**Options offered:** Themselves; someone they loved; Later Her herself.
+
+**Author's answer:** "2 - a child. They feared if the revolution did not resolve peacefully their child's future would be endangered".
+
+**Decision:** The betrayer made the protection bargain for their child. They feared the child's future would be endangered if the revolution did not end peacefully, and trusted disclosure would help secure that peace.
+
+**Reasoning:** The author grounds the betrayal in parental fear for the child's future. This supplies the personal stake behind the already-established bargain and misplaced trust.
+
+**Continuity:** The Board literally fulfilled the protection bargain. The form of protection and the child's eventual circumstances remain undecided.
+
+**Still open:** The child's identity, age at the bargain, and present status; the precise threat the parent feared; the protection provided; whether the child knows what their parent did.
