@@ -102,7 +102,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 
 - What did the later protagonist become?
 - What history grounds the adult child's love for Later Her?
-- How does the child express their primary wish for Earlier Her to recover their mother, and how does Earlier Her respond?
+- How does the child express their primary wish for Earlier Her to recover their mother?
+- What does Earlier Her first want to learn about Later Her through the child, and how does the child respond to her curiosity?
+- How does Earlier Her's curiosity develop into a relationship with the child in their own right?
 - Who are the three other people who fear, blame, and believe in her, and what histories ground those responses?
 - What does each want from Earlier Her now, and how do their new relationships develop?
 - Who is the first person to tell the waking protagonist something about herself she cannot emotionally accept?

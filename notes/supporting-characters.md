@@ -12,6 +12,8 @@ The child understands persistence and the distinction between the two versions. 
 
 The child's primary hope is that Earlier Her will help recover Later Her. They care about Earlier Her, but desperately want their mother back: the woman with whom they shared their life. How directly they express this hope, and how it affects their developing relationship with Earlier Her, remain open.
 
+Earlier Her's initial response is intense curiosity. She wants to know the child partly because they reveal who Later Her became. The child has firsthand knowledge of a private life she has never experienced. How this curiosity develops into a relationship with the child in their own right remains open; it does not establish either immediate maternal attachment or an inability to feel affection.
+
 The child's name, gender, age, other parent or family structure, and political views remain open. Being the person who loves her does not establish that their relationship with Later Her was uncomplicated. Wanting their mother restored does not establish indifference to Earlier Her.
 
 ### The person who fears her
@@ -31,6 +33,8 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - Which person does she meet first?
 - How does the adult child express their wish for Earlier Her to recover Later Her?
 - How does their care for Earlier Her interact with their stronger wish to have their mother back?
+- What does Earlier Her first seek to learn about Later Her through the child?
+- How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific shared history grounds each response?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?

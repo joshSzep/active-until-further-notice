@@ -293,3 +293,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected this motive without adding a rationale. It initially aligns the child's objective with Earlier Her's private desire to meet her later self, while leaving their different emotional reasons intact.
 
 **Still open:** How openly the child expresses this hope; Earlier Her's response; how their relationship develops; whether their initially shared recovery goal later becomes a source of conflict.
+
+## 2026-09-26 — 020: Earlier Her approaches the child with curiosity
+
+**Question:** How does Earlier Her initially respond to the child?
+
+**Options offered:** Immediate attachment; affection without motherhood; uncomfortable obligation; intense curiosity.
+
+**Author's answer:** "4" — intense curiosity.
+
+**Decision:** Earlier Her wants to know the child partly because they reveal who Later Her became. Her initial response is driven by the wish to understand her later self through someone who shared that woman's private life.
+
+**Reasoning:** The author selected curiosity without adding a rationale. It connects this encounter to her established private motivation to understand who she became.
+
+**Scope:** Curiosity is the chosen initial response; this does not establish that she feels no affection or that maternal feelings can never develop.
+
+**Still open:** What she asks or notices first; how the child responds; what she learns about Later Her; how their relationship develops beyond that initial curiosity.
