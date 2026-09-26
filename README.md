@@ -35,6 +35,7 @@ That creates the central problem: by the time she succeeds, the version who woke
 - [Persistence](notes/persistence.md)
 - [The Board](notes/the-board.md)
 - [Ship society](notes/ship-society.md)
+- [World building](notes/world-building.md)
 - [Protagonist](notes/protagonist.md)
 - [Plot](notes/plot.md)
 - [Themes](notes/themes.md)
