@@ -541,3 +541,17 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected trust in free judgment rather than an assurance of a particular political outcome. This preserves Earlier Her's agency within the promise.
 
 **Still open:** The promise's exact wording and context; how the believer interprets it; whether they accept its limits; how Earlier Her responds when she learns of it; what she ultimately chooses.
+
+## 2026-09-26 — 036: A sincere misreading of the promise
+
+**Question:** How does the former revolutionary understand Later Her's promise?
+
+**Options offered:** They accept her freedom to refuse; they sincerely misread the promise; they understand but pressure her anyway; they knowingly conceal its meaning.
+
+**Author's answer:** "2" — they misread it.
+
+**Decision:** The former revolutionary sincerely believes Later Her promised an earlier version who would finish the revolution. Later Her actually meant trust in Earlier Her's independent judgment, without requiring the same political choices.
+
+**Reasoning:** The author selected genuine misunderstanding. The believer's desperate hope shapes their interpretation without making them knowingly dishonest about the promise.
+
+**Still open:** The specific actions they expect; how their faith affects Earlier Her; how the misunderstanding becomes apparent; whether they can accept Later Her's intended meaning and Earlier Her's freedom to choose.

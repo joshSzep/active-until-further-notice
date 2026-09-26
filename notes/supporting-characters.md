@@ -44,7 +44,7 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 
 They need someone to believe in and place expectations on Earlier Her that she may not deserve. Later Her's assurance gives that hope a specific foundation, but does not establish that Earlier Her will fulfill it.
 
-By "trusted," Later Her meant trusted to choose freely. She trusted Earlier Her's judgment without expecting her to repeat the same political choices. Whether the believer understands and accepts that distinction, or interprets the promise through their own desperate hopes, remains open.
+By "trusted," Later Her meant trusted to choose freely. She trusted Earlier Her's judgment without expecting her to repeat the same political choices. The believer sincerely misreads that promise as an assurance that Earlier Her will finish the revolution. This is a genuine misunderstanding shaped by desperate hope, not a knowing distortion of Later Her's meaning.
 
 Their exact relationship to Later Her, present political circumstances, and the promise's wording and context remain open. The promise establishes that Later Her considered her own inaccessibility as a possibility; it does not establish foreknowledge of the precise suppression mechanism or a complete contingency plan.
 
@@ -65,7 +65,8 @@ Their exact relationship to Later Her, present political circumstances, and the 
 - What skills kept the blaming character active, and how do they feel about the work that sustained their embodiment during separation?
 - How does the blaming character judge Later Her's commitment to others' independence in light of that separation?
 - What was the exact wording and context of Later Her's promise of trust in her earlier self's independent judgment?
-- What does the believer need Earlier Her to do, and how does desperation shape their interpretation of the promise?
+- What specific actions does the believer expect from Earlier Her to finish the revolution?
+- When and how does the difference between Later Her's intended meaning and the believer's interpretation become apparent?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?
