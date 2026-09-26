@@ -467,3 +467,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Her reasons are established without settling whether refusing was the right choice or whether the compromise could have worked. No belief in inevitable victory or hidden defect in the amnesty terms is established by this choice.
 
 **Still open:** Who depended on the systems and what they wanted; the harm attributed to refusal; Earlier Her's response to these reasons; the settlement's actual viability and the moral assessment of the decision.
+
+## 2026-09-26 — 031: Forced dormancy cost years with family
+
+**Question:** What did the person who blames her lose after the refusal?
+
+**Options offered:** Someone they loved whose later state is sealed; their community; their own future; years with their family.
+
+**Author's answer:** "4" — years with their family.
+
+**Decision:** Forced dormancy separated this person from their family, costing years they cannot live together again. They blame Later Her's refusal of the amnesty-for-surrender offer for that loss.
+
+**Reasoning:** The author selected lost family time without adding a rationale. The harm is the irreversible loss of shared years, even where persistence preserves the people involved.
+
+**Scope:** Which family members were dormant or active remains open. The grievance does not establish that accepting the settlement would actually have prevented the separation.
+
+**Still open:** Family composition; duration and timing of dormancy; the shared experiences lost; present relationships; how Earlier Her responds to the accusation.

@@ -34,7 +34,9 @@ This person blames Later Her for refusing amnesty in exchange for surrender. The
 
 Later Her understood the offer and considered returning to Board control unacceptable. She also refused to surrender systems that other people relied on for independent lives. Her refusal combined commitment to freedom with responsibility toward those people.
 
-The offer, refusal, reasons, and this person's grievance are established. The settlement's actual viability, precise wording and scope, the specific harm, and the distribution of responsibility remain open. The person's belief that the conflict could have ended does not settle whether they are right. This is a separate character from the person who betrayed her.
+The loss behind the grievance is years with their family. Forced dormancy separated them after the refusal; those years cannot be lived together again. Persistence does not undo the lost shared time. Which family members were dormant or active, the length of separation, and their present relationships remain open.
+
+The offer, refusal, reasons, and this person's loss are established. The settlement's actual viability, precise wording and scope, and the distribution of responsibility remain open. The person's belief that accepting the settlement would have prevented the separation does not settle whether they are right. This is a separate character from the person who betrayed her.
 
 ### The person who believes in her
 
@@ -53,7 +55,8 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - What is the child's present status, and what do they know about the bargain?
 - What did The Board say about a peaceful resolution, and what did each side understand that to mean?
 - What consequences do they fear now?
-- What harm does the blaming character attribute to Later Her's refusal of amnesty, and how do they judge her commitment to others' independence?
+- Which family members were separated by forced dormancy, for how long, and what shared years did they lose?
+- How does the blaming character judge Later Her's commitment to others' independence in light of that separation?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?
