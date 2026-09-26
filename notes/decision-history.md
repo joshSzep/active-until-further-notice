@@ -187,3 +187,19 @@ This log records decisions made through the question-and-answer development proc
 **Clarification:** Inaccessibility does not establish destruction of the stored selves. The fear of permanent loss concerns continued exclusion from embodied life if the restriction is never lifted. The choice does not settle how many historical nightly states are retained.
 
 **Still open:** How capture remains available while retrieval is blocked; what people know about their retained states; archive retention rules; the effects on people born after suppression.
+
+## 2026-09-25 — 013: Public policy, undisclosed capabilities
+
+**Question:** What does the public know about the restriction?
+
+**Options offered:** Open policy; partial truth framed as unsafe or unavailable restoration; historical deception blaming revolutionary damage.
+
+**Author's choice:** Open policy, with an explicit distinction between policy transparency and operational transparency.
+
+**Decision:** The public knows The Board deliberately blocks restoration while continuing to preserve nightly states. The Board openly justifies the policy as necessary for mission survival. The public does not know the full technical capabilities behind the restriction, including that broad reconnection is possible. The Board does not publicly frame fear and political control as purposes of the policy.
+
+**Reasoning:** Transparency about the decision and its stated justification does not require disclosure of operational capabilities or every purpose the policy serves.
+
+**Scope:** This establishes undisclosed capabilities, not a specific false claim that reconnection is impossible. It does not settle which individuals outside The Board might know more than the general public.
+
+**Still open:** Public reactions; who knows broad reconnection is possible; when and how the protagonist learns it; how The Board responds to scrutiny of its mission-survival rationale.

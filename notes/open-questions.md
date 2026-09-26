@@ -20,7 +20,8 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - Is mission preservation a genuine necessity, a justification, or both?
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
 - How do nightly captures continue to enter the sealed archive while restoration remains blocked?
-- What are people told about the continued preservation of their inaccessible later selves?
+- How does the public respond to The Board's acknowledged policy of preserving nightly states while deliberately withholding restoration?
+- Who outside The Board knows broad reconnection is possible, and how is that knowledge contained?
 - Do people born after the affected boundary have any recoverable states?
 - What is the archive's physical and logical organization, and how does it prevent selective retrieval through the remaining access?
 - Why can the protagonist's old state be trusted while newer ones cannot?
@@ -48,7 +49,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - How does broad reconnection restore reliable persistence for everyone living aboard, and how can selective retrieval avoid restoring that general guarantee?
 - Did Later Her build, modify, or otherwise come to understand the revolutionary persistence architecture?
 - How does Earlier Her bridge the experience she lacks to perform recovery?
-- What does The Board tell her about the restriction and its reasons for selecting her?
+- When and how does the protagonist learn broad reconnection is possible?
+- What does The Board tell her about the undisclosed technical capabilities and its reasons for selecting her?
 - When and why does her objective expand beyond the permitted recovery?
 - Does The Board intend to return her to dormancy once the work is complete? This remains a possibility, not canon.
 

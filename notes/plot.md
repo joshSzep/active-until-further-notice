@@ -36,6 +36,8 @@ Broad reconnection would restore reliable persistence for everyone living aboard
 
 Nightly persistence continues during suppression. New states are captured and retained behind the seal, but cannot be restored. Broad reconnection could recover those missing years. The threatened loss is the exclusion of later selves from embodied life while the restriction holds, not an established destruction of their stored states.
 
+The public knows that The Board deliberately blocks restoration while preserving nightly states. The Board openly argues that this policy is necessary for mission survival. It withholds the full technical capabilities behind the restriction, including the possibility of broad reconnection, and does not publicly frame fear and political control as its purposes. When the protagonist learns the undisclosed capabilities remains open.
+
 The central irony, in the author's words:
 
 > The Board erased these people to save the mission.
@@ -75,7 +77,7 @@ She learns that:
 - her own later state is among the inaccessible
 - she has been designated **Active Until Further Notice**
 
-The Board needs her for controlled recovery to address the new mission crisis. What it initially tells her about the restriction, her selection, and her later self remains open.
+The Board needs her for controlled recovery to address the new mission crisis. The restriction and continued preservation are public policy; what it initially tells her about the undisclosed technical capabilities, her selection, and her later self remains open.
 
 The designation is unsettling because indefinite embodiment is rare and resource-expensive.
 

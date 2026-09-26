@@ -65,6 +65,8 @@ Broad reconnection would restore reliable persistence for everyone living aboard
 
 Nightly persistence continues during the restriction. New states are captured and retained behind the seal, but cannot be restored through the available access. Broad reconnection could recover the missing years as well as restore reliable recovery for future deaths.
 
+Continued preservation and deliberate denial of restoration are public knowledge. The technical possibility of broad reconnection is not. The Board publicly justifies the restriction as necessary for mission survival.
+
 The later selves are preserved rather than automatically deleted or overwritten. The fear of permanent loss concerns their potentially indefinite exclusion from embodied life under continued restriction; it is not proof that their information has been destroyed. Exact historical retention policies remain open.
 
 The technical form of the removed access, continued writes into the sealed archive, and the new retrieval mechanism are undecided. Reconnection's chosen political consequence is restored reliable persistence; independent retrieval and renewed autonomy of revolutionary infrastructure were not selected. It does not establish automatic embodiment of the archive's population.

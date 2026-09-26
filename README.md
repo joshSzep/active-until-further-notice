@@ -30,6 +30,8 @@ Broad reconnection would also restore reliable persistence for everyone living a
 
 Nightly persistence continues under the restriction: new states are captured and retained behind the seal, but cannot be restored. People's later lives remain preserved, and reconnection could recover those missing years.
 
+The public knows The Board deliberately withholds restoration while preserving nightly states. It openly justifies this as necessary for mission survival, but does not disclose that broad reconnection is possible or publicly frame fear and political control as its purposes.
+
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
 
 ## Current core ideas
