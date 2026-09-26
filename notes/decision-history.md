@@ -571,3 +571,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** These are requests. Earlier Her's agreement and actions are not established. Unrestricted retrieval is a proposed new capability, not a revision of the decision that broad reconnection's chosen consequence is restored reliable persistence.
 
 **Still open:** Earlier Her's response; sequencing; how the believer learns broad reconnection is possible; the mechanism of unrestricted retrieval; timing and consequences of any public disclosure.
+
+## 2026-09-26 — 038: Earlier Her initially declines both political requests
+
+**Question:** How does Earlier Her initially respond to the believer's requests?
+
+**Options offered:** Private work first; disclosure first; both for personal reasons; neither yet, insisting on her own assessment.
+
+**Author's answer:** "4" — neither yet.
+
+**Decision:** Earlier Her initially agrees to neither unrestricted retrieval nor public disclosure of broad reconnection. She resents being recruited into someone else's revolution and insists on making her own assessment.
+
+**Reasoning:** The author selected an initial assertion of independent judgment. Her desire to meet Later Her does not automatically commit her to the believer's political program.
+
+**Scope:** This is her initial response, not a settled final position. It does not establish agreement with The Board or abandonment of her private recovery motive.
+
+**Still open:** The believer's response; how she conducts her assessment; what might change her position; whether she eventually undertakes either action.

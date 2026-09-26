@@ -48,7 +48,7 @@ By "trusted," Later Her meant trusted to choose freely. She trusted Earlier Her'
 
 Their exact relationship to Later Her, present political circumstances, and the promise's wording and context remain open. The promise establishes that Later Her considered her own inaccessibility as a possibility; it does not establish foreknowledge of the precise suppression mechanism or a complete contingency plan.
 
-Their first requests combine technical and public action: quietly expand her assigned work into unrestricted retrieval so recovery cannot remain under Board control, and tell the public that broad reconnection could restore reliable persistence. Whether Earlier Her accepts either request, the sequence of the requests, and the timing of any disclosure remain open.
+Their first requests combine technical and public action: quietly expand her assigned work into unrestricted retrieval so recovery cannot remain under Board control, and tell the public that broad reconnection could restore reliable persistence. Earlier Her initially agrees to neither. She resents being recruited into someone else's revolution and insists on making her own assessment. Whether she later undertakes either action, the sequence of the requests, and the timing of any disclosure remain open.
 
 Unrestricted retrieval is a proposed expansion of the new mechanism, not an already-established consequence of broad reconnection. How the believer learns that reconnection is possible also remains open.
 
@@ -69,7 +69,8 @@ Unrestricted retrieval is a proposed expansion of the new mechanism, not an alre
 - What skills kept the blaming character active, and how do they feel about the work that sustained their embodiment during separation?
 - How does the blaming character judge Later Her's commitment to others' independence in light of that separation?
 - What was the exact wording and context of Later Her's promise of trust in her earlier self's independent judgment?
-- How does Earlier Her respond to the requests for unrestricted retrieval and public disclosure of broad reconnection?
+- How does the believer respond when Earlier Her initially declines both requests and insists on her own assessment?
+- What, if anything, leads Earlier Her to reconsider either request?
 - How does the believer learn broad reconnection is possible, and how do they propose coordinating secret development with public disclosure?
 - When and how does the difference between Later Her's intended meaning and the believer's interpretation become apparent?
 - What specific shared history grounds the other characters' responses?
