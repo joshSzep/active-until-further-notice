@@ -129,7 +129,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What was the exact wording and context of Later Her's promise that her earlier self could be trusted to choose freely?
 - How does the believer's sincere expectation that Earlier Her will finish the revolution affect their actions toward her?
 - When and how does Later Her's intended meaning become clear, and can the believer accept it?
-- How does the believer respond to Earlier Her's initial refusal of both requests?
+- How does Earlier Her respond to the believer's patient certainty that she will eventually agree?
+- What, if anything, could make the believer accept that her independent judgment may lead to a different political choice?
 - What, if anything, changes her position on unrestricted retrieval or public disclosure after she makes her own assessment?
 - How does the believer learn broad reconnection is possible?
 - How would secret development of unrestricted retrieval and public disclosure be sequenced, and what risks does each create?

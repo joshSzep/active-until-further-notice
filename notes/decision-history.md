@@ -587,3 +587,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This is her initial response, not a settled final position. It does not establish agreement with The Board or abandonment of her private recovery motive.
 
 **Still open:** The believer's response; how she conducts her assessment; what might change her position; whether she eventually undertakes either action.
+
+## 2026-09-26 — 039: The believer waits with certainty
+
+**Question:** How does the believer react to Earlier Her's initial refusal?
+
+**Options offered:** Patient certainty; personal hurt; more pressure; doubt that this version will become the person they need.
+
+**Author's answer:** "1" — patient certainty.
+
+**Decision:** The believer assumes Earlier Her needs time and will eventually reach the "right" conclusion. Her refusal does not initially shake their expectation that she will take the political course they want.
+
+**Reasoning:** The author selected patience grounded in confidence, without adding a rationale. This continues the believer's sincere misreading of Later Her's trust as a guarantee of eventual political agreement.
+
+**Still open:** How Earlier Her experiences that certainty; how the believer behaves while waiting; whether they eventually accept a different choice; how their relationship develops.

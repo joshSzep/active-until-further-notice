@@ -52,6 +52,8 @@ Their first requests combine technical and public action: quietly expand her ass
 
 Unrestricted retrieval is a proposed expansion of the new mechanism, not an already-established consequence of broad reconnection. How the believer learns that reconnection is possible also remains open.
 
+The believer responds to Earlier Her's initial refusal with patient certainty. They assume she needs time and will eventually reach the "right" conclusion: the political course they expect of her. Their willingness to wait does not mean they have accepted that her independent judgment could lead elsewhere. Whether that confidence changes later remains open.
+
 ## Development questions
 
 - Which person does she meet first?
@@ -69,7 +71,7 @@ Unrestricted retrieval is a proposed expansion of the new mechanism, not an alre
 - What skills kept the blaming character active, and how do they feel about the work that sustained their embodiment during separation?
 - How does the blaming character judge Later Her's commitment to others' independence in light of that separation?
 - What was the exact wording and context of Later Her's promise of trust in her earlier self's independent judgment?
-- How does the believer respond when Earlier Her initially declines both requests and insists on her own assessment?
+- How does Earlier Her experience the believer's patient certainty that she will eventually agree?
 - What, if anything, leads Earlier Her to reconsider either request?
 - How does the believer learn broad reconnection is possible, and how do they propose coordinating secret development with public disclosure?
 - When and how does the difference between Later Her's intended meaning and the believer's interpretation become apparent?
