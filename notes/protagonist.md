@@ -57,6 +57,12 @@ Recovering her later persistence state would mean recovering the person The Boar
 
 Her precise revolutionary role remains open. Being a leader or architect of the revolution is a possibility, not a decision.
 
+### Early discovery of broad reconnection
+
+The Board does not initially tell her that it can broadly reconnect the archive. She discovers that capability early through her technical investigation and challenges it. The Board acknowledges the capability and defends withholding the information.
+
+The technical evidence and her response remain open. This establishes an early encounter with the undisclosed capabilities behind the public policy, without deciding when she learns The Board's full reasons for selecting her earlier self.
+
 ### Possible return to dormancy
 
 The Board may fully intend to return her to dormancy after the recovery work. This is not yet canon. Her "Active Until Further Notice" designation is a temporary exception to a policy The Board still believes in; an indefinite term is not a promise of permanent embodiment.

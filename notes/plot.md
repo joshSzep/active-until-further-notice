@@ -36,7 +36,7 @@ Broad reconnection would restore reliable persistence for everyone living aboard
 
 Nightly persistence continues during suppression. New states are captured and retained behind the seal, but cannot be restored. Broad reconnection could recover those missing years. The threatened loss is the exclusion of later selves from embodied life while the restriction holds, not an established destruction of their stored states.
 
-The public knows that The Board deliberately blocks restoration while preserving nightly states. The Board openly argues that this policy is necessary for mission survival. It withholds the full technical capabilities behind the restriction, including the possibility of broad reconnection, and does not publicly frame fear and political control as its purposes. When the protagonist learns the undisclosed capabilities remains open.
+The public knows that The Board deliberately blocks restoration while preserving nightly states. The Board openly argues that this policy is necessary for mission survival. It withholds the full technical capabilities behind the restriction, including the possibility of broad reconnection, and does not publicly frame fear and political control as its purposes. The protagonist discovers broad reconnection early through her technical investigation; The Board acknowledges it when challenged and defends withholding the information.
 
 The central irony, in the author's words:
 
@@ -77,13 +77,15 @@ She learns that:
 - her own later state is among the inaccessible
 - she has been designated **Active Until Further Notice**
 
-The Board needs her for controlled recovery to address the new mission crisis. The restriction and continued preservation are public policy; what it initially tells her about the undisclosed technical capabilities, her selection, and her later self remains open.
+The Board needs her for controlled recovery to address the new mission crisis. The restriction and continued preservation are public policy. It does not disclose the possibility of broad reconnection in her initial briefing. Other details of what it tells her about her selection and later self remain open.
 
 The designation is unsettling because indefinite embodiment is rare and resource-expensive.
 
 ### Act II: Recovery
 
 The protagonist begins designing a new mechanism for selectively retrieving individuals from the sealed archive. The Board seeks the expertise needed to resolve the mission crisis while maintaining the broader restriction. When and how her objectives expand beyond that assignment remain open.
+
+Early in her technical investigation, she discovers that broad reconnection is possible. She challenges The Board, which acknowledges the capability and defends having withheld it. The specific evidence, its defense, and her response remain open. The timing is established as early in the investigation; its exact placement within the provisional acts is not fixed.
 
 As she works, she learns what happened during the decades she does not remember.
 

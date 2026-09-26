@@ -73,6 +73,8 @@ The public does not know the full technical capabilities behind the restriction,
 
 The Board does not publicly describe fear and political control as purposes of the restriction. Those remain established functions of the policy; its public rationale is mission survival. This decision does not establish that it falsely claims broad reconnection is technically impossible, or that no individual outside The Board knows the truth.
 
+It withholds the possibility of broad reconnection from the protagonist's initial briefing. She discovers it early through technical investigation. When challenged, The Board acknowledges the capability and defends withholding it. The precise defense remains undecided.
+
 ## Public unity
 
 Like a modern corporate board, The Board normally prefers to present a unified public position.

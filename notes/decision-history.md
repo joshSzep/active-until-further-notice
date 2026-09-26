@@ -203,3 +203,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This establishes undisclosed capabilities, not a specific false claim that reconnection is impossible. It does not settle which individuals outside The Board might know more than the general public.
 
 **Still open:** Public reactions; who knows broad reconnection is possible; when and how the protagonist learns it; how The Board responds to scrutiny of its mission-survival rationale.
+
+## 2026-09-25 — 014: Early technical discovery of broad reconnection
+
+**Question:** When does the protagonist learn that broad reconnection is possible?
+
+**Options offered:** At her briefing; early in her investigation; after substantial progress.
+
+**Author's answer:** "2" — early in her investigation.
+
+**Decision:** The protagonist discovers broad reconnection through her technical work early in the investigation. When she challenges The Board, it acknowledges the capability and defends withholding the information. It does not disclose this capability in her initial briefing.
+
+**Reasoning:** The author selected this timing without adding a rationale. The offered option creates an early reason to question the assignment while allowing The Board to defend its reasoning.
+
+**Still open:** The evidence she discovers; The Board's specific defense; her response; exact placement within the provisional act structure; when she learns the full reasons for selecting her earlier self.

@@ -49,7 +49,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - How does broad reconnection restore reliable persistence for everyone living aboard, and how can selective retrieval avoid restoring that general guarantee?
 - Did Later Her build, modify, or otherwise come to understand the revolutionary persistence architecture?
 - How does Earlier Her bridge the experience she lacks to perform recovery?
-- When and how does the protagonist learn broad reconnection is possible?
+- What technical evidence leads the protagonist to discover broad reconnection early in her investigation?
+- How does The Board defend withholding that capability when she challenges it, and how does she respond?
 - What does The Board tell her about the undisclosed technical capabilities and its reasons for selecting her?
 - When and why does her objective expand beyond the permitted recovery?
 - Does The Board intend to return her to dormancy once the work is complete? This remains a possibility, not canon.
