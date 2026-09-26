@@ -34,6 +34,8 @@ The Board can broadly reconnect the sealed archive, but cannot selectively recov
 
 Broad reconnection would restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. This is why it insists on selective recovery. Independent retrieval and renewed autonomy of revolutionary infrastructure were not chosen as consequences. The precise technical mechanism remains open; reconnection does not establish automatic embodiment of the archive's population.
 
+Nightly persistence continues during suppression. New states are captured and retained behind the seal, but cannot be restored. Broad reconnection could recover those missing years. The threatened loss is the exclusion of later selves from embodied life while the restriction holds, not an established destruction of their stored states.
+
 The central irony, in the author's words:
 
 > The Board erased these people to save the mission.

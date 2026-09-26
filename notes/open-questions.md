@@ -19,7 +19,8 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - How does the conflict between human psychological needs and the ship's resource limits become a concrete threat to the mission?
 - Is mission preservation a genuine necessity, a justification, or both?
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
-- Are new persistence states still captured during the restriction, and if so where are they held? Reliable persistence for the living is restored by broad reconnection; the current capture and recovery mechanics remain open.
+- How do nightly captures continue to enter the sealed archive while restoration remains blocked?
+- What are people told about the continued preservation of their inaccessible later selves?
 - Do people born after the affected boundary have any recoverable states?
 - What is the archive's physical and logical organization, and how does it prevent selective retrieval through the remaining access?
 - Why can the protagonist's old state be trusted while newer ones cannot?

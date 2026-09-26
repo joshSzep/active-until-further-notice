@@ -28,6 +28,8 @@ The Board can broadly reconnect the archive, but deliberately removed ordinary a
 
 Broad reconnection would also restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. That is why it insists on selective recovery.
 
+Nightly persistence continues under the restriction: new states are captured and retained behind the seal, but cannot be restored. People's later lives remain preserved, and reconnection could recover those missing years.
+
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
 
 ## Current core ideas

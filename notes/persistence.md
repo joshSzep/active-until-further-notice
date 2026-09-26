@@ -6,7 +6,7 @@ Persistence technology predates the generation ship and is already mature enough
 
 A person's mental state is persisted **daily during sleep**.
 
-That means most accidental biological death costs at most part of a day of memory. The person can be reconstructed from the most recent valid persistence state.
+Under normal access conditions, most accidental biological death costs at most part of a day of memory. The person can be reconstructed from the most recent valid persistence state. The ship's suppression policy interrupts access to restoration, not nightly capture.
 
 Persistence does not make bodies immortal. Bodies remain expensive, fragile biological systems. A person can be stored cheaply while dormant and instantiated into a body when needed or permitted.
 
@@ -63,7 +63,11 @@ Earlier Her's assignment is to design a new mechanism for selective retrieval. L
 
 Broad reconnection would restore reliable persistence for everyone living aboard. This would remove the fear of permanent loss that The Board uses to enforce compliance. It therefore seeks selective recovery without restoring that general guarantee.
 
-The technical form of the removed access and the new mechanism are undecided. Whether new states are still captured during the restriction, and what happens to them, remain open. Reconnection's chosen political consequence is restored reliable persistence; independent retrieval and renewed autonomy of revolutionary infrastructure were not selected. It does not establish automatic embodiment of the archive's population.
+Nightly persistence continues during the restriction. New states are captured and retained behind the seal, but cannot be restored through the available access. Broad reconnection could recover the missing years as well as restore reliable recovery for future deaths.
+
+The later selves are preserved rather than automatically deleted or overwritten. The fear of permanent loss concerns their potentially indefinite exclusion from embodied life under continued restriction; it is not proof that their information has been destroyed. Exact historical retention policies remain open.
+
+The technical form of the removed access, continued writes into the sealed archive, and the new retrieval mechanism are undecided. Reconnection's chosen political consequence is restored reliable persistence; independent retrieval and renewed autonomy of revolutionary infrastructure were not selected. It does not establish automatic embodiment of the archive's population.
 
 ## Ship-specific pressure
 

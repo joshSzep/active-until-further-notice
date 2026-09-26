@@ -36,6 +36,8 @@ Earlier Her is selected to design that mechanism because Later Her understood th
 
 Broad reconnection would restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. This is the chosen reason it considers broad reconnection politically unacceptable. Selective retrieval would obtain the needed experts while maintaining that leverage over the living.
 
+Nightly capture continues, with new states retained behind the seal and unavailable for restoration. The Board preserves people's later lives while withholding their return. This supports its materialist distinction between preserving a person and permitting their embodiment; whether and how it explains that distinction publicly remains open.
+
 The Board may intend to return the protagonist to dormancy once the work is complete. This is an explicitly tentative possibility.
 
 ## Limits of knowledge — established

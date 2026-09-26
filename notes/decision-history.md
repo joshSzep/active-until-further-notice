@@ -171,3 +171,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected the consequence without additional rationale. It connects The Board's insistence on controlled retrieval to maintaining the coercive effect of unreliable recovery for the living.
 
 **Still open:** How reconnection restores reliable persistence; whether new states continue to be captured during suppression and what happens to them; how selective retrieval leaves the general restriction intact.
+
+## 2026-09-25 — 012: Nightly states are captured and retained behind the seal
+
+**Question:** During the restriction, what happens to people's nightly persistence states?
+
+**Options offered:** Captured but sealed; no new states captured; captured temporarily and then overwritten.
+
+**Author's answer:** "#1" — captured but sealed.
+
+**Decision:** Nightly persistence continues. New states are captured and retained behind the seal, but those newer selves cannot be restored. Reconnection could recover the missing years.
+
+**Reasoning:** The author selected this option without adding a rationale. It allows The Board to preserve people's later lives while withholding their ability to return.
+
+**Clarification:** Inaccessibility does not establish destruction of the stored selves. The fear of permanent loss concerns continued exclusion from embodied life if the restriction is never lifted. The choice does not settle how many historical nightly states are retained.
+
+**Still open:** How capture remains available while retrieval is blocked; what people know about their retained states; archive retention rules; the effects on people born after suppression.
