@@ -527,3 +527,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** The promise and the believer's desperation are established. The promise does not guarantee Earlier Her's choices or establish that Later Her foresaw the exact suppression or prepared a complete contingency plan.
 
 **Still open:** The promise's wording, context, and meaning; why Later Her trusted an earlier version; what the believer expects; their identity and relationship to Later Her; whether the faith is justified.
+
+## 2026-09-26 — 035: Trusted to choose freely
+
+**Question:** What did Later Her mean by "trusted"?
+
+**Options offered:** Trusted to investigate honestly; trusted to care; trusted to resist control; trusted to choose freely.
+
+**Author's answer:** "4" — trusted to choose freely.
+
+**Decision:** Later Her trusted Earlier Her's independent judgment without expecting her to repeat the same political choices.
+
+**Reasoning:** The author selected trust in free judgment rather than an assurance of a particular political outcome. This preserves Earlier Her's agency within the promise.
+
+**Still open:** The promise's exact wording and context; how the believer interprets it; whether they accept its limits; how Earlier Her responds when she learns of it; what she ultimately chooses.

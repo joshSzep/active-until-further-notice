@@ -126,7 +126,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - How does Earlier Her respond to Later Her's commitment to freedom and responsibility toward those people?
 - Who is that person, and what relationship did they have with Later Her?
 - Who is the former revolutionary whose desperate hope rests partly on Later Her's promise about an earlier version?
-- What was the promise's exact wording and context, and what did Later Her mean by "trusted"?
+- What was the exact wording and context of Later Her's promise that her earlier self could be trusted to choose freely?
+- Does the believer accept that trust in her judgment does not guarantee the same political choices?
 - What does the believer expect Earlier Her to do, and are those expectations justified?
 - What does each want from Earlier Her now, and how do their new relationships develop?
 - Who is the first person to tell the waking protagonist something about herself she cannot emotionally accept?
