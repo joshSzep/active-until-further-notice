@@ -279,3 +279,17 @@ This log records decisions made through the question-and-answer development proc
 **Continuity:** The established common understanding of persistence applies to the child. The emotional encounter does not require a technical misunderstanding about the two versions.
 
 **Still open:** Name, gender, age, other family relationships, political views, what the child wants from Earlier Her, and the nature of their relationship with Later Her.
+
+## 2026-09-26 — 019: The child wants help recovering their mother
+
+**Question:** What does the child most want from Earlier Her?
+
+**Options offered:** A new relationship; help recovering Later Her; answers about their mother; a less burdened connection.
+
+**Author's answer:** "2" — help recovering Later Her.
+
+**Decision:** The child cares about Earlier Her, but their primary hope is that she will help recover Later Her. They desperately want the mother they remember back.
+
+**Reasoning:** The author selected this motive without adding a rationale. It initially aligns the child's objective with Earlier Her's private desire to meet her later self, while leaving their different emotional reasons intact.
+
+**Still open:** How openly the child expresses this hope; Earlier Her's response; how their relationship develops; whether their initially shared recovery goal later becomes a source of conflict.

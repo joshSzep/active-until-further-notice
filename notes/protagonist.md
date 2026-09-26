@@ -90,6 +90,8 @@ Four distinct people confront her with different aspects of that later life:
 
 All four are different people. The adult child's relationship is established; names, further relationship details, and encounter order remain open. See [Supporting characters](supporting-characters.md).
 
+The child cares about Earlier Her, but primarily wants her help recovering Later Her, the mother they remember. This initially aligns with Earlier Her's private desire to meet her later self and understand who she became. How that shared objective affects their relationship as Earlier Her develops her own life remains open.
+
 The Board treats the identity as continuous.
 
 Humans may not.

@@ -97,6 +97,8 @@ Four distinct people make that history personal: her adult child loves her, anot
 
 Her own history becomes almost archaeological.
 
+Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
+
 The technical recovery problem and the identity problem should increasingly become the same problem.
 
 The protagonist may discover:
