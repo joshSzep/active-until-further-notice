@@ -725,3 +725,17 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected adolescence without adding a rationale. This establishes the life stage at separation and connects it to the already-established elderly reunion.
 
 **Still open:** Exact ages and elapsed time; what the child understood about the revolution then; their intervening life; what they want to tell Later Her about the years she missed.
+
+## 2026-09-26 — 048: Later Her was placed into compulsory dormancy
+
+**Question:** What happened to Later Her's embodied self during suppression?
+
+**Options offered:** Compulsory dormancy; death during the conflict; negotiated surrender; voluntary disappearance before the seal.
+
+**Author's answer:** "1" — compulsory dormancy.
+
+**Decision:** Later Her's mental state was persisted and she was removed from active life through compulsory dormancy during suppression. The archive restriction prevented her restoration. Her child was an adolescent at the separation.
+
+**Reasoning:** The author selected compulsory removal from active life without adding a rationale. This establishes how Later Her became dormant, while preserving the possibility of recovering her stored state.
+
+**Still open:** The physical procedure; what Later Her knew and experienced; the precise sequence of persistence and sealing; what her child witnessed; whether they had a chance to say goodbye.

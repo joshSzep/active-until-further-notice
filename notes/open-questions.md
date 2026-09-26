@@ -29,6 +29,8 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - How does The Board assess the political acceptability of her earlier self, and how reliable is that assessment?
 - Later Her contemplated becoming inaccessible and said an earlier version could be trusted. How much did she foresee about the actual suppression, and when did she make that promise?
 - Did her later version help cause it?
+- How was Later Her's compulsory dormancy carried out, and what did she know or experience before her final persistence?
+- What was the exact sequence of her persistence, removal from active life, and the archive sealing?
 
 ## The new mission crisis and controlled recovery
 
@@ -115,6 +117,7 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?
 - How much does the adult child know about their place in that transformation?
 - What did the adolescent child understand about their mother and the revolution when she became inaccessible?
+- Did the child witness the compulsory dormancy, have a chance to say goodbye, or learn of it afterward?
 - What are the child's exact ages at suppression and at Earlier Her's return, and what happened during the intervening adulthood?
 
 - What did the later protagonist become?

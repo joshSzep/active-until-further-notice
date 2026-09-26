@@ -30,6 +30,8 @@ The Board openly takes responsibility for the restriction and justifies it as ne
 
 This creates a tension to develop with The Board's commitment to preserving people: it preserves older states while deliberately denying access to later lives. Its materialism does not by itself resolve that tension.
 
+Later Her was persisted and placed into compulsory dormancy during suppression. She was removed from active life, and the restriction prevented her later state's restoration. How that compulsory transition was carried out remains open.
+
 ## Rejected amnesty offer
 
 The proposed settlement offered no punishment for participating in the revolution, conditional on surrendering the revolutionaries' independent systems and accepting Board governance. Later Her refused. A separate character blames her for prolonging the conflict by rejecting these terms.

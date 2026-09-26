@@ -8,7 +8,7 @@ Four different people make Later Her difficult for the waking protagonist to rec
 
 Her adult child is elderly by the time Earlier Her returns. They approach with love, intimacy, and trust grounded in a relationship with Later Her. The child was born after the persistence state from which Earlier Her wakes. Earlier Her has never experienced having or raising this person; the child's entire life belongs to the history she does not remember.
 
-The child was an adolescent when Later Her became inaccessible. They lost access to their mother while beginning to understand her as a person beyond motherhood. Their adult life unfolded without her, and they are elderly when they meet Earlier Her. Exact ages and the duration of the intervening period remain open.
+The child was an adolescent when Later Her was persisted and placed into compulsory dormancy during suppression. They lost access to their mother while beginning to understand her as a person beyond motherhood. Their adult life unfolded without her, and they are elderly when they meet Earlier Her. Exact ages, what the child witnessed, and the duration of the intervening period remain open.
 
 The child understands persistence and the distinction between the two versions. Their emotional response does not depend on mistaking Earlier Her for the mother whose shared life they remember.
 

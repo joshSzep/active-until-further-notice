@@ -18,6 +18,8 @@ The developing revolutionary history has a specific causal structure:
 
 The Board imposed the persistence restriction in response to the revolution. The specific threat to the mission and the later protagonist's exact revolutionary role remain undecided. Mission preservation may have been a genuine necessity, a political justification, or a mixture of both.
 
+Later Her was placed into compulsory dormancy during suppression. Her state was persisted and she was removed from active life while her child was an adolescent. The seal prevented restoration of that later self. The physical procedure and exact sequence of events remain open.
+
 ## New mission crisis and controlled recovery — chosen direction
 
 Decades after the restriction, an ecological crisis threatens the mission. Independent food, water, and microbial life-support systems created during the revolution are failing. The suppressed generations deliberately built these undocumented, partially air-gapped modifications to support people outside The Board's allocations and escape its control. The specific ecological failure remains open.
