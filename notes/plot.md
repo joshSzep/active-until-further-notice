@@ -113,7 +113,7 @@ The protection the betrayer obtained was a guaranteed childhood: embodiment and 
 
 Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
 
-The child remained embodied long enough to meet Earlier Her because suppression made their skills less common. The system that excluded their mother improved their own allocation prospects by reducing available expertise. What they know and feel about that dependence remains open.
+The child remained embodied long enough to meet Earlier Her because suppression made their skills less common. They are elderly by this reunion. They understand that recovering suppressed experts could threaten their own continued embodiment and accept that risk: dormancy is not terrifying to them, and they want their mother back. Whether recovery actually ends their active term, and how Earlier Her responds to their acceptance, remain open.
 
 The child's memories are of a deeply present, patient, attentive mother. That care is an established aspect of Later Her, alongside the power and harmful decisions other characters encountered. How the protagonist learns these different aspects remains open.
 

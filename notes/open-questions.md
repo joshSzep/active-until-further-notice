@@ -106,7 +106,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 
 - What grounded Earlier Her's sincere belief that Board governance best preserved human life?
 - What are the adult child's skills, and how did suppression reduce the available expertise in that area enough to improve their embodiment prospects?
-- Does the child understand that suppression helped keep them embodied, and how do they feel about that fact?
+- How does the elderly child feel about suppression having improved their embodiment prospects, beyond their established acceptance of the risk that recovery could end their active term?
+- How do they express that acceptance, and how does Earlier Her respond?
+- Does recovery actually change the child's embodiment allocation?
 - Who recognized that trajectory, how did Later Her learn of it, and how old was the child?
 - Was there a formal assessment or dormancy decision, or was the likely future apparent before either?
 - How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?

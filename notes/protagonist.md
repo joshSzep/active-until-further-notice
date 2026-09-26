@@ -22,7 +22,7 @@ This is the outlook carried by her restored state. Her later revolutionary commi
 
 Motherhood most undermined that conviction during the missing decades. Her child was on a trajectory not to be useful enough under the ship's mission-based allocation system. The prospect of losing continued adult embodiment was therefore personal and concrete. She could no longer accept the condition she had previously endorsed in principle.
 
-The child was capable but of ordinary ability in a society with more qualified people than active places. This relative abundance of expertise put their continued embodiment at risk. After suppression, their skills became less common, allowing them to remain embodied long enough to meet Earlier Her. Their allocation prospects changed because the available population changed; no exceptional improvement in ability is established.
+The child was capable but of ordinary ability in a society with more qualified people than active places. This relative abundance of expertise put their continued embodiment at risk. After suppression, their skills became less common, allowing them to remain embodied long enough to meet Earlier Her, by which time they are elderly. Their allocation prospects changed because the available population changed; no exceptional improvement in ability is established.
 
 This is the established main impetus for her political transformation. Who recognized the child's trajectory, their specific skills and age, and the steps toward revolutionary commitment remain open. A formal adverse evaluation or imminent dormancy order is not yet established. "Useful" refers to the ship's allocation criteria, not the child's worth as a person.
 
@@ -103,6 +103,8 @@ Four distinct people confront her with different aspects of that later life:
 All four are different people. The adult child's relationship is established; names, further relationship details, and encounter order remain open. See [Supporting characters](supporting-characters.md).
 
 The child cares about Earlier Her, but primarily wants her help recovering Later Her, the mother they remember. This initially aligns with Earlier Her's private desire to meet her later self and understand who she became. How that shared objective affects their relationship as Earlier Her develops her own life remains open.
+
+The elderly child understands that recovering suppressed experts could cost them continued embodiment and accepts that risk. Dormancy is not terrifying to them at this stage of their life. They still want their mother restored. How Earlier Her responds to this acceptance remains open.
 
 Later Her was a deeply present, patient, attentive mother. The child knew that care firsthand, even while other people experienced her as frightening or harmful. The specific memories that convey this side of her remain open.
 

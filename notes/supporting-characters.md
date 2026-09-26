@@ -6,7 +6,7 @@ Four different people make Later Her difficult for the waking protagonist to rec
 
 ### The person who loves her — her adult child
 
-Her adult child approaches with love, intimacy, and trust grounded in a relationship with Later Her. The child was born after the persistence state from which Earlier Her wakes. Earlier Her has never experienced having or raising this person; the child's entire life belongs to the history she does not remember.
+Her adult child is elderly by the time Earlier Her returns. They approach with love, intimacy, and trust grounded in a relationship with Later Her. The child was born after the persistence state from which Earlier Her wakes. Earlier Her has never experienced having or raising this person; the child's entire life belongs to the history she does not remember.
 
 The child understands persistence and the distinction between the two versions. Their emotional response does not depend on mistaking Earlier Her for the mother whose shared life they remember.
 
@@ -18,11 +18,13 @@ Motherhood was the main force undermining her earlier conviction in Board govern
 
 The child was capable but of ordinary ability; the ship had more qualified people than active places. After the revolution was suppressed, their skills became less common. This made them useful enough to remain embodied long enough to meet Earlier Her. Their improved prospects follow from the changed availability of expertise, not an established transformation into an exceptional talent.
 
+They understand that restoring suppressed experts could threaten their own continued embodiment and accept that risk. They want their mother back even if recovery makes them less necessary. At this elderly stage of their life, dormancy is not terrifying to them. This does not establish a wish to become dormant or a decision that they actually will lose their allocation.
+
 Their specific skills, who recognized their earlier trajectory, and how much they understand about their place in their mother's political transformation remain open. A formal adverse evaluation or imminent dormancy order is not established. Nor does this decision imply they supported suppression or knowingly helped bring it about. The trajectory concerns the ship's valuation of usefulness, not the child's worth.
 
 Earlier Her's initial response is intense curiosity. She wants to know the child partly because they reveal who Later Her became. The child has firsthand knowledge of a private life she has never experienced. How this curiosity develops into a relationship with the child in their own right remains open; it does not establish either immediate maternal attachment or an inability to feel affection.
 
-The child's name, gender, age, other parent or family structure, and political views remain open. Being the person who loves her does not establish that their relationship with Later Her was uncomplicated. Wanting their mother restored does not establish indifference to Earlier Her.
+The child's name, gender, exact age, other parent or family structure, and broader political views remain open. Their elderly status and acceptance of recovery's personal risk are established. Being the person who loves her does not establish that their relationship with Later Her was uncomplicated. Wanting their mother restored does not establish indifference to Earlier Her.
 
 ### The person who fears her — someone who betrayed Later Her
 
@@ -69,7 +71,8 @@ The believer responds to Earlier Her's initial refusal with patient certainty. T
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?
 - What are the adult child's skills, and whose suppression made those skills less common?
-- Does the child recognize that suppression improved their embodiment prospects, and how do they feel about it?
+- How does the child feel about suppression having improved their embodiment prospects, beyond their established willingness to risk dormancy for recovery?
+- How do they communicate their acceptance of that risk to Earlier Her?
 - What information about Later Her's work did the fearful person give The Board, and how did it help suppress the persistence system?
 - How does the betrayer now judge the protected childhood they secured against the consequences of their disclosure?
 - What is the child's present status, and what do they know about the bargain?

@@ -679,3 +679,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Specific skills, the child's awareness, and their feelings remain open. Benefiting from the changed allocation does not establish support for or participation in suppression. "Past Her" here refers to the version called Earlier Her in the notes.
 
 **Still open:** The skill area; whose absence changed its scarcity; the child's age and embodiment chronology; what they know about this dependence; how recovery may affect them.
+
+## 2026-09-26 — 045: The elderly child accepts recovery's risk to their embodiment
+
+**Question:** Does the child understand that restoring suppressed experts could threaten their own embodiment?
+
+**Options offered:** Yes, and accepts it; yes, but avoids it; not initially; yes, and seeks protection.
+
+**Author's answer:** "1 - the child is elderly by that point and dormancy is not terrifying to them".
+
+**Decision:** The child is elderly when Earlier Her returns. They understand that restoring suppressed experts could threaten their own continued embodiment and accept that risk. Dormancy is not terrifying to them at this stage; they want their mother back even at that possible cost.
+
+**Reasoning:** The author connects acceptance to the child's stage of life and attitude toward dormancy.
+
+**Scope:** Willingness to risk dormancy does not establish a wish to enter it or that recovery will actually end their allocation. Exact age and embodiment chronology remain open.
+
+**Still open:** How the child expresses this acceptance; Earlier Her's response; the child's actual allocation after recovery; the timing and circumstances of any reunion with Later Her.
