@@ -102,6 +102,8 @@ Humans may not.
 
 ## The later version
 
+The believer asks Earlier Her to quietly expand her assignment into unrestricted retrieval beyond Board control and publicly reveal that broad reconnection could restore reliable persistence. These requests put concrete political demands alongside her private wish to meet Later Her. Her response remains undecided.
+
 Later Her told a former revolutionary that an earlier version of herself could be trusted if she became inaccessible. She meant trusted to choose freely: she respected Earlier Her's judgment without expecting the same political choices. The believer sincerely interprets this as a promise that Earlier Her will finish the revolution. How Earlier Her learns of the assurance, distinguishes its intended meaning from that interpretation, and responds remains open.
 
 Later Her refused amnesty in exchange for surrendering the revolutionary systems and accepting Board governance. She understood the offer but considered returning to that control unacceptable. She would not surrender the systems people relied on for independent lives. Her commitment to freedom and responsibility toward those people are established; the costs and moral assessment of her refusal remain open.

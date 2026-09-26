@@ -555,3 +555,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected genuine misunderstanding. The believer's desperate hope shapes their interpretation without making them knowingly dishonest about the promise.
 
 **Still open:** The specific actions they expect; how their faith affects Earlier Her; how the misunderstanding becomes apparent; whether they can accept Later Her's intended meaning and Earlier Her's freedom to choose.
+
+## 2026-09-26 — 037: Requests for unrestricted retrieval and public disclosure
+
+**Question:** What does the believer first ask Earlier Her to do?
+
+**Options offered:** Recover a particular person; build unrestricted retrieval; reveal broad reconnection to the public; meet the remaining revolutionaries.
+
+**Author's answer:** "2 + 3".
+
+**Decision:** The believer asks Earlier Her to quietly expand her assignment into unrestricted retrieval so recovery cannot remain under Board control, and to tell the public that broad reconnection could restore reliable persistence.
+
+**Reasoning:** The author combines a technical challenge to control of recovery with public disclosure of the available alternative.
+
+**Scope:** These are requests. Earlier Her's agreement and actions are not established. Unrestricted retrieval is a proposed new capability, not a revision of the decision that broad reconnection's chosen consequence is restored reliable persistence.
+
+**Still open:** Earlier Her's response; sequencing; how the believer learns broad reconnection is possible; the mechanism of unrestricted retrieval; timing and consequences of any public disclosure.
