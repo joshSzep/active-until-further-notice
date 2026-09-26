@@ -77,3 +77,23 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** This possibility links the selection of her earlier version to the political purpose of the restriction and gives recovery consequences beyond reclaiming her missing life. The author explicitly withheld canon status from this implication.
 
 **Still open:** The protagonist's later political identity; whether this possibility becomes canon; why The Board now needs recovery and what access it intends to allow; the restriction's mechanism, justification, and public visibility.
+
+## 2026-09-25 — 006: Changed conditions force controlled recovery
+
+**Question:** Why does The Board now need her to recover something it deliberately sealed away?
+
+**Options offered:** An unforeseen emergency; selective recovery; a restriction that exceeded its intended scope; recovery as the protagonist's own objective.
+
+**Author's choice:** "New existential mission crisis + controlled recovery + Earlier Her as politically 'safe' version of the person who understands the sealed system."
+
+**Decision:** Decades later, a new mission-threatening crisis requires expertise held primarily in the suppressed generations' persistence states. The Board still supports the restriction. It wants controlled access to necessary expertise rather than restoration of the political population wholesale.
+
+**Protagonist direction adopted:** The political and psychological selection suggested in decision 005 is now part of the working plot. Earlier Her has the technical mind needed for recovery and predates the changes that made Later Her politically dangerous to The Board. Later Her understood the sealed system; whether she built it, modified it, or understood it in another capacity remains open.
+
+**Reasoning:** "The Board does not want to undo the restriction. It has been forced into needing something on the other side of it." Changed conditions preserve its institutional consistency. The mission now depends on people excluded in the name of saving it. The protagonist's active status is an exception to a policy The Board continues to endorse.
+
+**Possibilities retained without making them canon:** The particular crisis; expertise extraction versus selected instantiation versus limited archive access; Later Her as a revolutionary leader or architect; The Board's intention to return Earlier Her to dormancy after the work.
+
+**Title implication:** The author describes her exceptional active status as "a maintenance window." Its duration follows the work, and it does not promise permanent embodiment.
+
+**Still open:** Why the needed expertise is unavailable to The Board outside the archive; why the seal requires her intervention; her exact technical and revolutionary history; the recovery's permitted scope; how her own aims develop; the ending.

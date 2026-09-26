@@ -24,10 +24,23 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - Are the states physically intact but cryptographically or logically unreachable?
 - Why can the protagonist's old state be trusted while newer ones cannot?
 - Why is this protagonist uniquely positioned to repair the problem?
-- Does The Board need her earlier political and psychological self? This remains explicitly non-canon.
-- Why does The Board now need recovery work, and does it intend to permit full restoration or only limited access?
+- How does The Board assess the political acceptability of her earlier self, and how reliable is that assessment?
 - Did her later version know the catastrophe was coming?
 - Did her later version help cause it?
+
+## The new mission crisis and controlled recovery
+
+The Board needs expertise behind the seal to resolve a new existential mission crisis. It seeks controlled recovery while maintaining the broader restriction. Earlier Her's technical ability and political acceptability are now part of the chosen direction.
+
+- What is the new crisis, and why does it emerge decades after the restriction?
+- Why can The Board and accessible records not supply the suppressed generations' expertise?
+- Does controlled recovery mean extracting knowledge, instantiating selected people, or opening a limited archive region?
+- Why can The Board not simply reopen the access it originally sealed?
+- Did Later Her build, modify, or otherwise come to understand the sealed system?
+- How does Earlier Her bridge the experience she lacks to perform recovery?
+- What does The Board tell her about the restriction and its reasons for selecting her?
+- When and why does her objective expand beyond the permitted recovery?
+- Does The Board intend to return her to dormancy once the work is complete? This remains a possibility, not canon.
 
 ## Persistence technology
 

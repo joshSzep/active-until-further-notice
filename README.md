@@ -18,7 +18,9 @@ The protagonist wakes after a long period of dormancy from an older persistence 
 
 The catastrophe is a deliberate restriction imposed by The Board to suppress a revolution in the name of preserving the mission. People sought control over their embodiment through replacing The Board with human government. The restriction makes the loss of their current selves consequential while allowing earlier versions to return.
 
-She may be uniquely positioned to undo the catastrophe. Success could restore thousands of inaccessible people, including the later version of herself.
+Decades later, a new existential mission crisis requires expertise held primarily by the suppressed generations. The Board still believes in the restriction and wants controlled recovery, not a general restoration. It selects the protagonist's earlier state for her technical ability and because she predates the political and psychological changes that made her later self dangerous to it.
+
+Her later self understood the sealed system; whether she helped build or modify it remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
 
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
 
@@ -32,6 +34,7 @@ That creates the central problem: by the time she succeeds, the version who woke
 - The Board usually presents a unified public position, but may strategically reveal internal disagreement or dissent.
 - Scarce embodiment creates a productivity culture: usefulness can affect how long someone remains active, even if society insists human dignity is not reducible to productivity.
 - The protagonist's indefinite active status is not necessarily a privilege. It is evidence that The Board urgently needs this particular version.
+- She is an exception to a restriction The Board still supports; it may intend to return her to dormancy when the work is complete.
 - Restoring her later persistence state could create two legitimate branches of one identity.
 
 ## Notes

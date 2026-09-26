@@ -32,23 +32,34 @@ She sees it as evidence that something is badly wrong.
 
 ## Why she matters
 
-The working idea is that this older version is uniquely positioned to undo the catastrophe that made later persistence states inaccessible.
+The Board wakes her for controlled recovery from the sealed archive. A new existential mission crisis requires expertise held primarily by the suppressed generations. The Board wants access to that expertise while retaining the broader restriction.
 
-The exact reason this version is needed is not yet settled; it need not be solely technical.
+It chooses this earlier version for both technical ability and political and psychological acceptability. She predates the beliefs and relationships that made her later self dangerous to The Board.
 
-Her specific capabilities and their relationship to The Board's restriction remain open.
+Her later self understood the mechanism sealing the archive. Whether she helped build it, modified it, or understood it through another role remains open. Earlier Her has enough of the same technical mind to undertake recovery, though the specific expertise and how she bridges her missing experience remain undecided.
 
 The Board gives her an explanation that may be true but incomplete:
 
 > Your expertise profile has become disproportionately valuable to current mission objectives.
 
-### Possible political and psychological usefulness — not canon
+### Political and psychological usefulness — chosen direction
 
-The older protagonist may be useful because she comes from before she became whoever her later self became during the revolution. The Board could need this earlier political and psychological version of her, as well as any technical expertise she possesses.
+The possibility recorded in decision 005 is adopted as the working direction in decision 006. The Board seeks to obtain her engineering ability without restoring the politically dangerous person she later became.
 
-Under this possibility, recovering her later persistence state would mean recovering the person The Board deliberately needed her not to be. The recovery would have political consequences alongside the personal conflict between two legitimate branches of one identity.
+The author's formulation of its logic:
 
-This is explicitly exploratory. Her later allegiance, role in the revolution, and The Board's exact reason for choosing her remain undecided.
+> We require the engineer.
+> We do not require the revolutionary.
+
+Recovering her later persistence state would mean recovering the person The Board deliberately needed her not to be. She gradually discovers that the engineer and revolutionary are versions of herself whose development cannot be neatly separated as The Board's selection assumes. This does not remove either branch's legitimacy as a person.
+
+Her precise revolutionary role remains open. Being a leader or architect of the revolution is a possibility, not a decision.
+
+### Possible return to dormancy
+
+The Board may fully intend to return her to dormancy after the recovery work. This is not yet canon. Her "Active Until Further Notice" designation is a temporary exception to a policy The Board still believes in; an indefinite term is not a promise of permanent embodiment.
+
+The author's image: "It's a maintenance window."
 
 ## Social dislocation
 
@@ -102,5 +113,5 @@ Not settled:
 - duration of dormancy
 - length of missing later lifetime
 - family and relationship history
-- whether she was famous, infamous, loved, or politically significant in her later version
+- her later reputation, relationships, and exact political role
 - whether her later version helped cause the catastrophe

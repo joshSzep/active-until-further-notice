@@ -24,6 +24,16 @@ The Board acts in the name of preserving the mission. Whether this measure was a
 
 This creates a tension to develop with The Board's commitment to preserving people: it preserves older states while deliberately denying access to later lives. Its materialism does not by itself resolve that tension.
 
+## Controlled recovery — chosen direction
+
+Decades after imposing the restriction, The Board faces a new existential mission crisis that requires expertise held primarily by the suppressed generations. It has not changed its judgment of the revolution or abandoned the restriction. Changed conditions force it to seek something behind the seal.
+
+Its initial goal is controlled recovery: perhaps expertise retrieval, selected instantiations, or access to a limited archive region. The particular approach remains open. It does not intend a general restoration of the suppressed population.
+
+Earlier Her is selected for technical ability and because she predates the political and psychological changes The Board rejects in Later Her, who understood the sealed system. The exact technical history remains open.
+
+The Board may intend to return the protagonist to dormancy once the work is complete. This is an explicitly tentative possibility.
+
 ## Possible constituent personas
 
 These are exploratory rather than finalized names:
