@@ -80,6 +80,10 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 
 ## The Board
 
+- What makes The Board incapable of outright lies?
+- How does it handle direct questions about information it intends to withhold?
+- What limits apply to misleading implications, and how fully does it anticipate human interpretations of its literal promises?
+
 - Exact constituent personas and mandates?
 - Does The Board have formal voting?
 - How are conflicts resolved internally?
@@ -106,8 +110,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What does Earlier Her first want to learn about Later Her through the child, and how does the child respond to her curiosity?
 - How does Earlier Her's curiosity develop into a relationship with the child in their own right?
 - Who exposed Later Her's work to The Board, and whom were they trying to protect through the bargain?
-- What protection did The Board offer, and did it honor the bargain?
-- What did The Board say to persuade them disclosure would enable a peaceful resolution? Was it misleading them, using a different definition of peace, or did its plans change?
+- What protection did The Board promise and literally provide to the named people?
+- What exact wording led the betrayer to expect a different peaceful resolution from suppression with preserved states?
 - What information did they disclose, and how did it help The Board suppress the revolutionary persistence system?
 - When and how does Earlier Her discover the betrayal?
 - What consequences does the betrayer fear from Earlier Her or Later Her's possible return?

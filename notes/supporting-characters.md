@@ -24,9 +24,9 @@ This person betrayed Later Her by exposing her work to The Board. They provided 
 
 They traded the information for protection of themselves or someone they loved; the beneficiary remains undecided. The Board persuaded them that disclosure would enable a peaceful resolution. They trusted that framing and did not anticipate suppression.
 
-The specific information disclosed, how it enabled suppression, their prior relationship, the terms and outcome of the protection bargain, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open.
+The Board kept its promises literally: it protected the named people and regarded suppression as a peaceful resolution because their states were preserved. The betrayer did not anticipate this meaning of peace. The Board is incapable of outright lies.
 
-The Board's exact representations and intent remain undecided. It is not yet established whether it knowingly misled them, considered suppression a peaceful resolution, or changed course after the disclosure.
+The specific information disclosed, how it enabled suppression, their prior relationship, the exact terms and form of protection, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open. How fully The Board anticipated the betrayer's interpretation of its promises is undecided.
 
 ### The person who blames her
 
@@ -45,7 +45,7 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?
 - What information about Later Her's work did the fearful person give The Board, and how did it help suppress the persistence system?
-- Who were they protecting, what protection did The Board offer, and did it honor that bargain?
+- Who were they protecting, and what form did The Board's promised and fulfilled protection take?
 - What did The Board say about a peaceful resolution, and what did each side understand that to mean?
 - What consequences do they fear now?
 - What specific shared history grounds the other characters' responses?

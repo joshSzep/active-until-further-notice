@@ -371,3 +371,21 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Their expectation and the resulting suppression are established. The Board's intent, whether it honored the protection bargain, and whether the mismatch involved deception, differing definitions of peace, or a later change of plan remain open.
 
 **Still open:** Whom they protected; the terms and outcome of the bargain; The Board's precise representations; the disclosed information; their response to what followed.
+
+## 2026-09-26 — 025: Literal fulfillment and inability to lie
+
+**Question:** Did The Board consider itself to have kept its promises?
+
+**Options offered:** Yes, literally; yes, under changed circumstances; no, but justified; carefully ambiguous terms.
+
+**Author's answer:** "1 - Note this somewhere: The Board is incapable of outright lies".
+
+**Decision:** The Board kept the bargain literally. It protected the named people and considered suppression a peaceful resolution because their persistence states were preserved. The betrayer's expectations differed from that outcome.
+
+**Additional canon:** The Board is incapable of outright lies. This is a capability constraint, not simply a policy it can elect to abandon.
+
+**Reasoning:** The author selected literal fulfillment and explicitly established the truthfulness constraint. The gap between human expectations and The Board's materialist understanding carries the conflict without requiring an outright lie.
+
+**Scope:** Established omissions and operational secrecy remain possible. The mechanism enforcing truthfulness, handling of direct questions, and limits on deliberate misleading implications are not yet decided. This constraint does not establish infallibility.
+
+**Still open:** The named beneficiaries; the exact promises and protection provided; how fully The Board anticipated the betrayer's interpretation; the betrayer's response to the literal fulfillment.

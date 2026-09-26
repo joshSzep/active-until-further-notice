@@ -14,6 +14,12 @@ Humans are resources to The Board.
 
 They are resources it values deeply.
 
+### Truthfulness — canon
+
+**The Board is incapable of outright lies.** This is a constraint on its capabilities, not merely a preference or a promise to be honest.
+
+It can withhold information, as established by its operational secrecy. Its literal statements and materialist definitions can also differ from what humans understand them to imply. The exact mechanism enforcing the constraint, its handling of direct questions, and the limits on deliberate misleading implications remain open. Inability to lie does not establish omniscience or an inability to be mistaken.
+
 ## Response to the revolution — canon
 
 The Board deliberately restricted access to recent persistence states to suppress the revolution. It made death consequential again through the loss of people's current selves, while retaining the ability to restore versions from before their revolutionary commitments.
@@ -28,7 +34,9 @@ This creates a tension to develop with The Board's commitment to preserving peop
 
 The person who betrayed Later Her disclosed information about her work that helped The Board suppress the revolutionary persistence system. They traded it for protection of themselves or someone they loved, believing The Board's claim that disclosure would enable a peaceful resolution. They did not anticipate suppression.
 
-The beneficiary, exact promises, and whether The Board honored the protection bargain remain open. Its intent is also undecided: the story has not established whether it knowingly misled them, treated suppression as a peaceful resolution, or changed course later.
+The Board kept the bargain literally: it protected the named people and considered suppression a peaceful resolution because their persistence states were preserved. It therefore regards its promises as fulfilled. The betrayer did not anticipate that outcome.
+
+The beneficiaries, precise protection, and exact wording remain open. This was not an outright lie or an established later change of plan. How fully The Board anticipated the betrayer's interpretation remains undecided.
 
 ## Controlled recovery — chosen direction
 

@@ -42,6 +42,7 @@ She understands that her later self would be a separate person, not a source of 
 - The Board decides who is instantiated and for how long.
 - The Board does not care whether two reconstructions are metaphysically the "same person." It cares about preserved capabilities, memories, relationships, and mission value.
 - The Board usually presents a unified public position, but may strategically reveal internal disagreement or dissent.
+- The Board is incapable of outright lies, but can withhold information; its literal promises may have implications humans fail to anticipate.
 - Scarce embodiment creates a productivity culture: usefulness can affect how long someone remains active, even if society insists human dignity is not reducible to productivity.
 - The protagonist's indefinite active status is not necessarily a privilege. It is evidence that The Board urgently needs this particular version.
 - She is an exception to a restriction The Board still supports; it may intend to return her to dormancy when the work is complete.
