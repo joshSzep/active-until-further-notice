@@ -64,6 +64,10 @@ Employment and survival become psychologically entangled without needing money t
 
 ## Normalized dormancy
 
+Normalization does not mean that human psychology has successfully adapted. People miss the conditions on Earth, where resources were plentiful and persistence was a given. Deep-space scarcity makes their continued embodiment subject to allocation, and being treated as a human resource becomes psychologically intolerable to enough people to motivate revolution.
+
+The revolutionary motivation is control over one's own embodiment; the political aim is replacing The Board with human government. Changing or abandoning the mission is a consequence of that struggle. Its exact form remains open.
+
 A person may be told that their current active term is ending.
 
 From The Board's perspective:

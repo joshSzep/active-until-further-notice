@@ -97,7 +97,7 @@ The technology should not make embodiment feel instantaneous or free.
 
 ## Earth versus ship economics
 
-On Earth, mature industrial civilization may have enough resources that continuous embodiment is common, at least in wealthy societies.
+On Earth, resources were plentiful and persistence was a given. This is the baseline of ordinary life that people aboard the ship miss.
 
 The ship cannot rely on planetary-scale abundance.
 
@@ -114,6 +114,8 @@ Every embodied person consumes a closed-system budget:
 - biomass
 
 This is why a technology associated with practical immortality on Earth becomes a population-allocation system aboard ship.
+
+Human psychology is failing to accommodate this change. The loss of control over embodiment motivates a revolution whose aim is human government in place of The Board. Changing or abandoning the mission follows as a consequence. The specific mission change and the revolution's connection to the persistence restriction remain under development.
 
 ## The generation ship
 

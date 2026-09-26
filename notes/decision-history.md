@@ -45,3 +45,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author connects the two chosen motives to possible mission preservation amid revolution. No further rationale or specific revolutionary history has been established.
 
 **Still open:** What the revolution sought; who imposed the measure; whether it actually protects the mission; what beliefs or knowledge are suppressed; the Board's role; the later protagonist's involvement; why recovery is now being pursued.
+
+## 2026-09-25 — 004: Embodiment autonomy motivates a revolution for human government
+
+**Question:** What did the revolution seek?
+
+**Options offered:** Abandon or change the mission; control their own embodiment; replace The Board; change what the mission is for.
+
+**Author's initial answer:** "2 + 3".
+
+**Author's clarification:** "Actually, 2 as the motivation. 3 as the revolutionary aim. 1 as a consequence of that. Basically people miss how it was on Earth. Human psychology is failing to deal with this whole 'human as a resource' constraint that deep space travel has imposed. On Earth resources were plentiful and persistence was a given."
+
+**Decision:** Preserve the causal distinction: control over embodiment is the motivation; replacing The Board with human government is the revolutionary aim; changing or abandoning the mission is a consequence.
+
+**Reasoning:** People's expectations formed under Earth's plentiful resources and taken-for-granted persistence. Human psychology is failing to accommodate the constraints of deep-space travel and the allocation of humans as resources. Missing Earth is central to the revolutionary motivation.
+
+**Still open:** The specific change to the mission and whether it occurs; the revolution's course and outcome; who imposes the persistence restriction; whether that restriction is necessary for mission preservation; the later protagonist's role.

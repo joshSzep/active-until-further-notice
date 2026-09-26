@@ -14,7 +14,9 @@ The catastrophe is a deliberate sealing of persistence states with both protecti
 - How does fear of losing one's current self change behavior aboard ship?
 - Which later beliefs, relationships, or knowledge does restoring older versions suppress?
 - Was there a revolution that prompted the restriction or required its continued enforcement to preserve the mission?
-- What did that revolution seek, and how did it threaten the mission?
+- How does the revolution's demand for control over embodiment, pursued through replacing The Board with human government, lead to changing or abandoning the mission?
+- What specific mission change follows, and is it proposed, attempted, or carried out?
+- How does the conflict between human psychological needs and the ship's resource limits become a concrete threat to the mission?
 - Who imposed the restriction, and is mission preservation a genuine necessity, a justification, or both?
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
 - Can new persistence states still be captured and restored?

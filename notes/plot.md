@@ -8,11 +8,15 @@ Recovery may undo that protection. The nature of the danger, who acted, whose po
 
 The chosen motives combine making people afraid of permanent loss again with undoing who they became. Restoring older versions can retain earlier skills and loyalties while denying the return of later beliefs, relationships, or knowledge. The fear of losing one's current self becomes a means of control.
 
-### Possible revolutionary context
+### Revolutionary motivation, aim, and consequence
 
-The author proposes that a revolution aboard ship may have made this measure necessary to preserve the mission, or required its continued enforcement for that purpose. This is a tentative explanation, not an established event or proof that the measure was justified.
+The developing revolutionary history has a specific causal structure:
 
-Who imposed the restriction, what the revolution sought, and how it threatened the mission remain open. The Board's role and the later protagonist's allegiance are not decided. Mission preservation may be a genuine necessity, a political justification, or a mixture of both.
+- **Motivation:** People want control over their own embodiment. They miss life on Earth, where resources were plentiful and persistence was a given. Human psychology is failing to accommodate the ship's requirement to treat people as resources within a strict physical budget.
+- **Revolutionary aim:** Replace The Board with human government so people can reclaim that control.
+- **Consequence:** Changing or abandoning the mission follows from this struggle; it is not the original motivating demand. The particular change and whether it was carried out remain open.
+
+The suggestion that this revolution required the persistence restriction to preserve the mission remains tentative. Who imposed the restriction, the specific threat to the mission, and the later protagonist's allegiance are not decided. Mission preservation may be a genuine necessity, a political justification, or a mixture of both.
 
 ## Current spine
 
