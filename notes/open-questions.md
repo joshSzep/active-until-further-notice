@@ -11,7 +11,11 @@ The catastrophe is a deliberate sealing of persistence states with both protecti
 - Whose control of the ship were they trying to change, and in whose favor?
 - How are the protective and political purposes connected?
 - Who benefits from restoring increasingly old versions while recent versions cannot return?
-- In what sense does this reintroduce death, and is that the intended outcome or a consequence?
+- How does fear of losing one's current self change behavior aboard ship?
+- Which later beliefs, relationships, or knowledge does restoring older versions suppress?
+- Was there a revolution that prompted the restriction or required its continued enforcement to preserve the mission?
+- What did that revolution seek, and how did it threaten the mission?
+- Who imposed the restriction, and is mission preservation a genuine necessity, a justification, or both?
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
 - Can new persistence states still be captured and restored?
 - Do people born after the affected boundary have any recoverable states?

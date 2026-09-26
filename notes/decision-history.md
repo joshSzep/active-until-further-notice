@@ -29,3 +29,19 @@ This log records decisions made through the question-and-answer development proc
 **Status:** Exploratory. No beneficiary or specific motive has been chosen. The earlier protective-and-political premise remains in place; its meaning is still being developed.
 
 **Still open:** Whether the loss is progressive or follows a fixed cutoff; whether new states can be persisted and restored; what happens to people with no sufficiently old state; whether renewed mortality is the purpose or a consequence.
+
+## 2026-09-25 — 003: Fear, earlier selves, and a possible revolution
+
+**Question:** Which consequence feels closest to the motive?
+
+**Options offered:** Make people mortal again; make people afraid again; undo who people became; accept mortality as the price of preventing something worse.
+
+**Author's answer:** "2 + 3 - perhaps there was a revolution on the ship of some sort that required this measure to be preserved for the sake of the mission?"
+
+**Decision:** Combine the use of fear of permanent loss as a means of control with the suppression of who people later became. Older versions can retain useful skills and earlier loyalties while later beliefs, relationships, or knowledge cannot return with them.
+
+**Tentative development:** A shipboard revolution may explain the measure and its continued enforcement in the name of preserving the mission. The author's "perhaps" leaves this context exploratory.
+
+**Reasoning:** The author connects the two chosen motives to possible mission preservation amid revolution. No further rationale or specific revolutionary history has been established.
+
+**Still open:** What the revolution sought; who imposed the measure; whether it actually protects the mission; what beliefs or knowledge are suppressed; the Board's role; the later protagonist's involvement; why recovery is now being pursued.

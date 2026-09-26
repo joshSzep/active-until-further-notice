@@ -6,6 +6,14 @@ Recent persistence states were deliberately made inaccessible as both a protecti
 
 Recovery may undo that protection. The nature of the danger, who acted, whose power they sought to change, and whether the action was justified remain unresolved. The later protagonist's involvement is not yet decided.
 
+The chosen motives combine making people afraid of permanent loss again with undoing who they became. Restoring older versions can retain earlier skills and loyalties while denying the return of later beliefs, relationships, or knowledge. The fear of losing one's current self becomes a means of control.
+
+### Possible revolutionary context
+
+The author proposes that a revolution aboard ship may have made this measure necessary to preserve the mission, or required its continued enforcement for that purpose. This is a tentative explanation, not an established event or proof that the measure was justified.
+
+Who imposed the restriction, what the revolution sought, and how it threatened the mission remain open. The Board's role and the later protagonist's allegiance are not decided. Mission preservation may be a genuine necessity, a political justification, or a mixture of both.
+
 ## Current spine
 
 ### Developing the catastrophe: death returns
@@ -14,7 +22,7 @@ The current exploration asks who benefits when people can be restored only from 
 
 An older version can survive while a person's later lived experience becomes unrecoverable. This may undermine the ordinary social promise of persistence even when an identity still has a viable archive.
 
-The beneficiary and motive remain open. Proposed conflicts involving protection from The Board, a returning faction, entrenched founders, or concentrated archive control were not accepted. Do not treat any of those as the chosen explanation.
+The beneficiary remains open; the chosen motives are fear and control over which versions can return. Earlier proposed conflicts involving protection from The Board, a returning faction, entrenched founders, or concentrated archive control were not accepted as framed. The subsequent suggestion of a revolution does not establish any of those specific explanations.
 
 It is not yet settled whether the accessible states retreat progressively into the past or remain behind a fixed cutoff that grows more distant with time. Nor is it settled whether people born after that cutoff have any recoverable state.
 
