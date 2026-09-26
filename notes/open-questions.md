@@ -117,7 +117,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?
 - How much does the adult child know about their place in that transformation?
 - What did the adolescent child understand about their mother and the revolution when she became inaccessible?
-- Did the child witness the compulsory dormancy, have a chance to say goodbye, or learn of it afterward?
+- What was the ordinary goodbye that became mother and child's last interaction for decades?
+- How did the child learn of the compulsory dormancy after that goodbye?
 - What are the child's exact ages at suppression and at Earlier Her's return, and what happened during the intervening adulthood?
 
 - What did the later protagonist become?

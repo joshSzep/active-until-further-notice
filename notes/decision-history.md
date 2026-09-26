@@ -739,3 +739,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected compulsory removal from active life without adding a rationale. This establishes how Later Her became dormant, while preserving the possibility of recovering her stored state.
 
 **Still open:** The physical procedure; what Later Her knew and experienced; the precise sequence of persistence and sealing; what her child witnessed; whether they had a chance to say goodbye.
+
+## 2026-09-26 — 049: An ordinary goodbye became the last for decades
+
+**Question:** Did Later Her have a chance to say goodbye to her adolescent child?
+
+**Options offered:** A farewell with notice; a brief supervised farewell; no goodbye; an ordinary goodbye neither recognized as their last for decades.
+
+**Author's answer:** "4" — an ordinary goodbye.
+
+**Decision:** Their last interaction was an ordinary goodbye. Neither knew it would be their last for decades. They did not have a farewell understood as preparation for the coming separation.
+
+**Reasoning:** The author selected an everyday parting without adding a rationale. The coming separation was unknown to both during that interaction.
+
+**Scope:** This does not establish that Later Her never contemplated becoming inaccessible, or what she learned between the goodbye and compulsory dormancy.
+
+**Still open:** The setting and words; how the child learned of the dormancy; what happened between the goodbye and suppression; how the child remembers the interaction decades later.

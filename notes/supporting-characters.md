@@ -10,6 +10,8 @@ Her adult child is elderly by the time Earlier Her returns. They approach with l
 
 The child was an adolescent when Later Her was persisted and placed into compulsory dormancy during suppression. They lost access to their mother while beginning to understand her as a person beyond motherhood. Their adult life unfolded without her, and they are elderly when they meet Earlier Her. Exact ages, what the child witnessed, and the duration of the intervening period remain open.
 
+Their last interaction was an ordinary goodbye. Neither knew it would be their last for decades; they had no farewell understood as preparation for the coming separation. The setting, words, and how the child later learned of the compulsory dormancy remain open.
+
 The child understands persistence and the distinction between the two versions. Their emotional response does not depend on mistaking Earlier Her for the mother whose shared life they remember.
 
 The child's primary hope is that Earlier Her will help recover Later Her. They care about Earlier Her, but desperately want their mother back: the woman with whom they shared their life. How directly they express this hope, and how it affects their developing relationship with Earlier Her, remain open.

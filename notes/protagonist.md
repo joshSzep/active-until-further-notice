@@ -16,6 +16,8 @@ The later version of the protagonist lived for decades after the state from whic
 
 During suppression, Later Her was placed into compulsory dormancy. Her mental state was persisted and she was removed from active life; the restriction then kept that later self inaccessible. Her child was an adolescent at this separation. The procedure, her final experiences, and the precise sequence of persistence and archive sealing remain open.
 
+Her last interaction with the child was an ordinary goodbye. Neither knew it would be their last for decades. This does not settle what she learned between that interaction and her compulsory dormancy.
+
 ## Earlier political convictions
 
 Before the decades she cannot remember, she sincerely believed The Board's governance was the best way to preserve human life. Her support was conviction, not merely pragmatic acceptance or political disengagement.
