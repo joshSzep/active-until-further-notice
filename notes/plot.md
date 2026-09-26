@@ -69,7 +69,7 @@ This is a working plot shape, not locked canon.
 
 The protagonist is instantiated from an old but valid persistence state after a long dormancy.
 
-The state carries a sincere conviction that The Board's governance is the best way to preserve human life. Discovering that her later self became a revolutionary confronts her with a political transformation she has never experienced. Motherhood was its main impetus: her child was on a trajectory not to be useful enough under the ship's allocation criteria. Faced with that prospect, she could no longer accept usefulness as a condition of her child's continued adult embodiment. The reasons for the trajectory, concrete events, and when Earlier Her discovers this connection remain open.
+The state carries a sincere conviction that The Board's governance is the best way to preserve human life. Discovering that her later self became a revolutionary confronts her with a political transformation she has never experienced. Motherhood was its main impetus: her child was capable but of ordinary ability, competing with more qualified people for scarce active places. Faced with the prospect of their exclusion, she could no longer accept usefulness as a condition of her child's continued adult embodiment. The concrete events and when Earlier Her discovers this connection remain open.
 
 She learns that:
 
@@ -112,6 +112,8 @@ The person who fears her gave The Board information about Later Her's work that 
 The protection the betrayer obtained was a guaranteed childhood: embodiment and care through adulthood, followed by ordinary allocation rules. The Board fulfilled that promise. The child's present circumstances remain open.
 
 Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
+
+The child remained embodied long enough to meet Earlier Her because suppression made their skills less common. The system that excluded their mother improved their own allocation prospects by reducing available expertise. What they know and feel about that dependence remains open.
 
 The child's memories are of a deeply present, patient, attentive mother. That care is an established aspect of Later Her, alongside the power and harmful decisions other characters encountered. How the protagonist learns these different aspects remains open.
 

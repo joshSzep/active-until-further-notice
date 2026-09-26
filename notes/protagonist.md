@@ -22,7 +22,9 @@ This is the outlook carried by her restored state. Her later revolutionary commi
 
 Motherhood most undermined that conviction during the missing decades. Her child was on a trajectory not to be useful enough under the ship's mission-based allocation system. The prospect of losing continued adult embodiment was therefore personal and concrete. She could no longer accept the condition she had previously endorsed in principle.
 
-This is the established main impetus for her political transformation. The reasons for the child's trajectory, who recognized it, the child's age, and the steps toward revolutionary commitment remain open. A formal adverse evaluation or imminent dormancy order is not yet established. "Useful" refers to the ship's allocation criteria, not the child's worth as a person.
+The child was capable but of ordinary ability in a society with more qualified people than active places. This relative abundance of expertise put their continued embodiment at risk. After suppression, their skills became less common, allowing them to remain embodied long enough to meet Earlier Her. Their allocation prospects changed because the available population changed; no exceptional improvement in ability is established.
+
+This is the established main impetus for her political transformation. Who recognized the child's trajectory, their specific skills and age, and the steps toward revolutionary commitment remain open. A formal adverse evaluation or imminent dormancy order is not yet established. "Useful" refers to the ship's allocation criteria, not the child's worth as a person.
 
 ## Opening status
 

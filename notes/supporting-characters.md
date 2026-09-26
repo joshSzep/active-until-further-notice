@@ -16,7 +16,9 @@ Later Her was a deeply present, patient, attentive mother. This is the child's l
 
 Motherhood was the main force undermining her earlier conviction in Board governance. Her child was on a trajectory not to be useful enough under the ship's allocation criteria, making the condition on their continued adult embodiment a concrete threat to their future. She could no longer accept it.
 
-The reasons for this trajectory, who recognized it, and how much the child knows about their role in her political transformation remain open. A formal evaluation, an imminent dormancy order, and any particular explanation involving abilities, interests, or circumstances are not yet established. The trajectory concerns the ship's valuation of usefulness, not the child's worth.
+The child was capable but of ordinary ability; the ship had more qualified people than active places. After the revolution was suppressed, their skills became less common. This made them useful enough to remain embodied long enough to meet Earlier Her. Their improved prospects follow from the changed availability of expertise, not an established transformation into an exceptional talent.
+
+Their specific skills, who recognized their earlier trajectory, and how much they understand about their place in their mother's political transformation remain open. A formal adverse evaluation or imminent dormancy order is not established. Nor does this decision imply they supported suppression or knowingly helped bring it about. The trajectory concerns the ship's valuation of usefulness, not the child's worth.
 
 Earlier Her's initial response is intense curiosity. She wants to know the child partly because they reveal who Later Her became. The child has firsthand knowledge of a private life she has never experienced. How this curiosity develops into a relationship with the child in their own right remains open; it does not establish either immediate maternal attachment or an inability to feel affection.
 
@@ -66,6 +68,8 @@ The believer responds to Earlier Her's initial refusal with patient certainty. T
 - What does Earlier Her first seek to learn about Later Her through the child?
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?
+- What are the adult child's skills, and whose suppression made those skills less common?
+- Does the child recognize that suppression improved their embodiment prospects, and how do they feel about it?
 - What information about Later Her's work did the fearful person give The Board, and how did it help suppress the persistence system?
 - How does the betrayer now judge the protected childhood they secured against the consequences of their disclosure?
 - What is the child's present status, and what do they know about the bargain?

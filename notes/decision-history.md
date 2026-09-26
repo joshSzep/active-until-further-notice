@@ -663,3 +663,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Usefulness describes allocation criteria, not personal worth. No specific ability profile, formal evaluation, or imminent dormancy order is established. Earlier historical entries preserve the questions that were open at those stages.
 
 **Still open:** Why the child was on that trajectory; who recognized it; their age and circumstances; what the child knew; how Later Her moved from recognition to political action.
+
+## 2026-09-26 — 044: Ordinary ability became scarce enough after suppression
+
+**Question:** Why was the child on an unfavorable usefulness trajectory?
+
+**Options offered:** A mismatch of interests; ordinary ability amid stronger competition; resistance to proving usefulness; difficulty meeting demands.
+
+**Author's answer:** "2 - This is why the child ended up embodied long enough to reunite with Past Her. After the suppression of the revolution their skills were less common".
+
+**Decision:** The child was capable but of ordinary ability, with more qualified people than active places. After suppression, their skills became less common, making them useful enough to remain embodied long enough to meet Earlier Her.
+
+**Reasoning:** The author connects the child's changed allocation prospects to the reduction in available expertise after suppression. This explains their presence in the current story without requiring exceptional ability or a special exemption.
+
+**Scope:** Specific skills, the child's awareness, and their feelings remain open. Benefiting from the changed allocation does not establish support for or participation in suppression. "Past Her" here refers to the version called Earlier Her in the notes.
+
+**Still open:** The skill area; whose absence changed its scarcity; the child's age and embodiment chronology; what they know about this dependence; how recovery may affect them.

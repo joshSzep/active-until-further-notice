@@ -105,7 +105,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 ## Plot
 
 - What grounded Earlier Her's sincere belief that Board governance best preserved human life?
-- Why was her child on a trajectory not to be useful enough under the ship's allocation criteria?
+- What are the adult child's skills, and how did suppression reduce the available expertise in that area enough to improve their embodiment prospects?
+- Does the child understand that suppression helped keep them embodied, and how do they feel about that fact?
 - Who recognized that trajectory, how did Later Her learn of it, and how old was the child?
 - Was there a formal assessment or dormancy decision, or was the likely future apparent before either?
 - How did motherhood's challenge to her convictions develop into revolutionary commitment, and when does Earlier Her learn this history?
