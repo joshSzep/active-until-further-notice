@@ -24,9 +24,9 @@ This person betrayed Later Her by exposing her work to The Board. They provided 
 
 They traded the information to protect their child. They feared that the child's future would be endangered if the revolution did not resolve peacefully. The Board persuaded them that disclosure would enable a peaceful resolution. They trusted that framing and did not anticipate suppression.
 
-The Board kept its promises literally: it protected the child and regarded suppression as a peaceful resolution because the suppressed people's states were preserved. The betrayer did not anticipate this meaning of peace. The Board is incapable of outright lies. The child's identity, age at the bargain, present status, and the exact form of protection remain open.
+The Board kept its promises literally: it guaranteed the child embodiment and care through adulthood, after which ordinary allocation rules applied. It regarded suppression as a peaceful resolution because the suppressed people's states were preserved. The betrayer did not anticipate this meaning of peace. The Board is incapable of outright lies. The child's identity, age at the bargain, and present status remain open.
 
-The specific information disclosed, how it enabled suppression, their prior relationship, the exact terms and form of protection, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open. How fully The Board anticipated the betrayer's interpretation of its promises is undecided.
+The specific information disclosed, how it enabled suppression, their prior relationship, the exact wording of the bargain, and the consequences they fear remain open. Their fear alone does not establish that Later Her would seek revenge or that Earlier Her would punish them. How the prospect of Later Her's recovery affects their behavior also remains open. How fully The Board anticipated the betrayer's interpretation of its promises is undecided.
 
 ### The person who blames her
 
@@ -45,7 +45,7 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?
 - What information about Later Her's work did the fearful person give The Board, and how did it help suppress the persistence system?
-- What future did the betrayer hope to secure for their child, and what form did The Board's promised and fulfilled protection take?
+- How does the betrayer now judge the protected childhood they secured against the consequences of their disclosure?
 - What is the child's present status, and what do they know about the bargain?
 - What did The Board say about a peaceful resolution, and what did each side understand that to mean?
 - What consequences do they fear now?

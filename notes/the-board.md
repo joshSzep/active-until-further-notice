@@ -34,9 +34,9 @@ This creates a tension to develop with The Board's commitment to preserving peop
 
 The person who betrayed Later Her disclosed information about her work that helped The Board suppress the revolutionary persistence system. They traded it to protect their child, fearing for the child's future if the revolution did not resolve peacefully. They believed The Board's claim that disclosure would enable a peaceful resolution and did not anticipate suppression.
 
-The Board kept the bargain literally: it protected the child and considered suppression a peaceful resolution because the suppressed people's persistence states were preserved. It therefore regards its promises as fulfilled. The betrayer did not anticipate that outcome.
+The Board kept the bargain literally: it guaranteed the child embodiment and care through adulthood, with ordinary allocation rules applying afterward. It considered suppression a peaceful resolution because the suppressed people's persistence states were preserved. It therefore regards its promises as fulfilled. The betrayer did not anticipate that outcome.
 
-The child's identity, precise protection, and exact wording remain open. This was not an outright lie or an established later change of plan. How fully The Board anticipated the betrayer's interpretation remains undecided.
+The child's identity, present status, and the bargain's exact wording remain open. This was not an outright lie or an established later change of plan. How fully The Board anticipated the betrayer's interpretation remains undecided. The protected childhood is specific to this bargain; general policy for children aboard remains open.
 
 ## Controlled recovery — chosen direction
 

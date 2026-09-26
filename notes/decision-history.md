@@ -405,3 +405,19 @@ This log records decisions made through the question-and-answer development proc
 **Continuity:** The Board literally fulfilled the protection bargain. The form of protection and the child's eventual circumstances remain undecided.
 
 **Still open:** The child's identity, age at the bargain, and present status; the precise threat the parent feared; the protection provided; whether the child knows what their parent did.
+
+## 2026-09-26 — 027: A guaranteed childhood
+
+**Question:** What did The Board's protection actually give the child?
+
+**Options offered:** A protected childhood; preservation in dormancy; a secure place in ship society; immediate safety from conflict.
+
+**Author's answer:** "1" — a protected childhood.
+
+**Decision:** The Board guaranteed the betrayer's child embodiment and care through adulthood. Ordinary allocation rules applied afterward. The Board fulfilled this promise.
+
+**Reasoning:** The author selected this form of protection without adding a rationale. The parent obtained a concrete guarantee for the child's upbringing, without securing permanent preferential embodiment.
+
+**Scope:** This establishes the terms for this child. General embodiment policy for children remains open.
+
+**Still open:** The child's identity and present circumstances; what they know about the bargain; how the parent judges its benefits against the consequences of suppression; the exact promise wording.
