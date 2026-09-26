@@ -24,7 +24,7 @@ The crisis is ecological: independent food, water, and microbial life-support sy
 
 After suppressing their creators, The Board incorporated these more productive systems into the ship's essential life support. Their failure now threatens the mission because the ship depends on them.
 
-Her later self understood the sealed system; whether she helped build or modify it remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
+The Board can broadly reconnect the archive, but deliberately removed ordinary administrative access during suppression and cannot selectively retrieve individuals. Earlier Her is assigned to design a new retrieval mechanism because Later Her understood the revolutionary persistence architecture. Whether Later Her helped build or modify that architecture remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
 
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
 

@@ -6,7 +6,7 @@ These are intentionally unresolved.
 
 The Board deliberately sealed recent persistence states to suppress the revolution in the name of preserving the mission. See [Plot](plot.md) and [Decision history](decision-history.md).
 
-- By what mechanism did The Board seal the states away?
+- What ordinary administrative access did The Board remove to make suppression durable, and how does broad reconnection remain possible?
 - What specific danger to the mission was The Board trying to prevent, and was that danger real?
 - How did the restriction preserve The Board's control in practice?
 - How are the protective and political purposes connected?
@@ -21,7 +21,7 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
 - Can new persistence states still be captured and restored?
 - Do people born after the affected boundary have any recoverable states?
-- Are the states physically intact but cryptographically or logically unreachable?
+- What is the archive's physical and logical organization, and how does it prevent selective retrieval through the remaining access?
 - Why can the protagonist's old state be trusted while newer ones cannot?
 - Why is this protagonist uniquely positioned to repair the problem?
 - How does The Board assess the political acceptability of her earlier self, and how reliable is that assessment?
@@ -42,9 +42,10 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - Why was the revolutionaries' attempted solution unfinished when they were suppressed?
 - What prevents investigation, replacement, or bypass from resolving the crisis without recovering the experts?
 - Are the hidden infrastructure and archive seal connected, and if so how?
-- Does controlled recovery mean extracting knowledge, instantiating selected people, or opening a limited archive region?
-- Why can The Board not simply reopen the access it originally sealed?
-- Did Later Her build, modify, or otherwise come to understand the sealed system?
+- What new retrieval mechanism can Earlier Her design to recover selected individuals?
+- Which individuals does The Board intend to recover, and how will it identify them?
+- What would broad reconnection enable, and why is it politically unacceptable to The Board?
+- Did Later Her build, modify, or otherwise come to understand the revolutionary persistence architecture?
 - How does Earlier Her bridge the experience she lacks to perform recovery?
 - What does The Board tell her about the restriction and its reasons for selecting her?
 - When and why does her objective expand beyond the permitted recovery?

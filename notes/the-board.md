@@ -28,9 +28,11 @@ This creates a tension to develop with The Board's commitment to preserving peop
 
 Decades after imposing the restriction, The Board faces a new existential mission crisis that requires expertise held primarily by the suppressed generations. It has not changed its judgment of the revolution or abandoned the restriction. Changed conditions force it to seek something behind the seal.
 
-Its initial goal is controlled recovery: perhaps expertise retrieval, selected instantiations, or access to a limited archive region. The particular approach remains open. It does not intend a general restoration of the suppressed population.
+Its initial goal is controlled recovery of selected individuals. It does not intend a general restoration of the suppressed population.
 
-Earlier Her is selected for technical ability and because she predates the political and psychological changes The Board rejects in Later Her, who understood the sealed system. The exact technical history remains open.
+The Board can broadly reconnect the archive. However, during suppression it deliberately removed ordinary administrative access to make the restriction durable, and it cannot selectively retrieve individuals. Controlled recovery requires a new retrieval mechanism.
+
+Earlier Her is selected to design that mechanism because Later Her understood the revolutionary persistence architecture. She has relevant technical ability and predates the political and psychological changes The Board rejects in Later Her. The exact technical history remains open, as do the consequences of broad reconnection.
 
 The Board may intend to return the protagonist to dormancy once the work is complete. This is an explicitly tentative possibility.
 

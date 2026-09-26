@@ -139,3 +139,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected adoption without adding a rationale. The offered option preserves the irony that The Board retained the revolution's material achievements while excluding the people who understood them.
 
 **Still open:** How and when integration occurred; how The Board evaluated long-term reliability; what it knew about the unfinished solution at adoption; what isolation remained; the specific ecological failure and why replacement or bypass is inadequate.
+
+## 2026-09-25 — 010: Broad reconnection is possible; selective retrieval must be rebuilt
+
+**Question:** Why does reopening the archive require the protagonist rather than a Board authorization?
+
+**Options offered:** A deliberately irreversible seal; a revolutionary lock; broad opening is easy but selective recovery is hard; deterioration of the seal.
+
+**Author's answer:** The Board can broadly reconnect the archive but cannot selectively recover individuals. It deliberately removed ordinary administrative access during suppression to make the restriction durable. Earlier Her is selected to design a new retrieval mechanism because Later Her understood the revolutionary persistence architecture.
+
+**Decision:** Establish the distinction between broad reconnection and selective retrieval. The Board retains the former capability; its own suppression measures removed the ordinary means for the latter. The protagonist's concrete assignment is designing controlled retrieval of individuals.
+
+**Reasoning:** The technical challenge follows from the durability The Board built into suppression and its present insistence on selective recovery. Later Her's understanding of revolutionary persistence architecture motivates the choice of Earlier Her without restoring the politically dangerous later version.
+
+**Clarification:** Understanding the revolutionary persistence architecture does not establish that Later Her designed The Board's restriction. Broad reconnection is not yet defined as automatic embodiment of everyone in the archive.
+
+**Still open:** The removed administrative capabilities; the new retrieval mechanism; what broad reconnection would enable; the intended recovery candidates; Later Her's exact architectural role; how Earlier Her bridges the missing years of expertise.

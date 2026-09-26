@@ -4,7 +4,7 @@
 
 The Board deliberately made recent persistence states inaccessible to suppress the revolution and preserve the mission. It retained access to older versions from before people's revolutionary commitments. The restriction is both a protective measure in The Board's framing and a political act that preserves its control of the ship.
 
-Recovery may undo that protection and restore people The Board deliberately excluded. The specific danger to the mission during the revolution and whether the restriction was necessary or justified remain unresolved. The later protagonist understood the sealed system; her exact involvement in its construction or modification remains open.
+Recovery may undo that protection and restore people The Board deliberately excluded. The specific danger to the mission during the revolution and whether the restriction was necessary or justified remain unresolved. The later protagonist understood the revolutionary persistence architecture; her exact involvement in its construction or modification remains open.
 
 The chosen motives combine making people afraid of permanent loss again with undoing who they became. Restoring older versions can retain earlier skills and loyalties while denying the return of later beliefs, relationships, or knowledge. The fear of losing one's current self becomes a means of control.
 
@@ -28,7 +28,9 @@ The Board can operate and observe the resulting systems, but it lacks their desi
 
 This establishes a limit on The Board's information rather than its general competence. As the author puts it: **"Computation cannot recover information that was never recorded."** Why present-day investigation cannot supply an adequate solution within the crisis's constraints remains to be specified.
 
-The Board has not changed its position on the revolution or the restriction. Conditions have changed: it needs something on the other side of the seal. Its initial objective is controlled recovery, potentially retrieving expertise, instantiating selected people, or reopening a limited archive region. The exact method and scope are undecided.
+The Board has not changed its position on the revolution or the restriction. Conditions have changed: it needs something on the other side of the seal. Its initial objective is controlled recovery of selected individuals whose expertise can resolve the crisis.
+
+The Board can broadly reconnect the sealed archive, but cannot selectively recover individuals from it. During suppression, it deliberately removed ordinary administrative access to make the restriction durable. Earlier Her is assigned to design a new retrieval mechanism. The precise mechanism and the consequences of broad reconnection remain open; reconnection does not yet imply automatic embodiment of the archive's population.
 
 The central irony, in the author's words:
 
@@ -37,7 +39,7 @@ The central irony, in the author's words:
 
 Here, "erased" describes exclusion from society and recoverable life; it does not establish that the sealed states were physically destroyed.
 
-The Board selects Earlier Her because she has the technical mind needed for recovery while predating the political and psychological changes it rejects in Later Her. Her later self understood the sealed system and may have helped build or modify it. Her exact technical contribution and whether she was a revolutionary leader or architect remain open.
+The Board selects Earlier Her to design selective retrieval because Later Her understood the revolutionary persistence architecture. Earlier Her has the technical mind needed for the work while predating the political and psychological changes The Board rejects in Later Her. Her later self may have helped build or modify that architecture; her exact technical contribution and whether she was a revolutionary leader or architect remain open.
 
 Her indefinite active status is an exception to a policy The Board still supports. It may intend to return her to dormancy once the recovery work is complete; that intention is a possibility, not settled canon.
 
@@ -75,7 +77,7 @@ The designation is unsettling because indefinite embodiment is rare and resource
 
 ### Act II: Recovery
 
-The protagonist begins work on controlled access to the sealed persistence infrastructure. The Board seeks the expertise needed to resolve the mission crisis while maintaining the broader restriction. When and how her objectives expand beyond that assignment remain open.
+The protagonist begins designing a new mechanism for selectively retrieving individuals from the sealed archive. The Board seeks the expertise needed to resolve the mission crisis while maintaining the broader restriction. When and how her objectives expand beyond that assignment remain open.
 
 As she works, she learns what happened during the decades she does not remember.
 
@@ -132,7 +134,7 @@ That gives the protagonist a moral reason to continue even if success threatens 
 
 ## Not yet settled
 
-- how The Board sealed the persistence states away
+- how The Board removed ordinary administrative access while retaining the ability to reconnect the archive broadly
 - what danger the sealing was intended to prevent
 - how the restriction affected the revolution and The Board's continued control
 - the specific ecological failure in the independent life-support systems and why it becomes critical now
@@ -141,8 +143,9 @@ That gives the protagonist a moral reason to continue even if success threatens 
 - what the surviving records reveal about the unfinished solution
 - what missing design history and tacit rationale the suppressed experts retain
 - what prevents safe investigation, replacement, or bypass of the hidden infrastructure within the crisis's constraints
-- the exact scope and method of controlled recovery
-- whether the later protagonist built, modified, or otherwise understood the seal, and how
+- the new selective retrieval mechanism and which individuals The Board intends to recover
+- what broad reconnection would enable and why The Board considers it unacceptable
+- whether the later protagonist built, modified, or otherwise came to understand the revolutionary persistence architecture
 - what technical abilities allow the earlier version to work on a system her later self understood
 - when and why the protagonist's recovery goals diverge from The Board's assignment
 - whether The Board intends to return her to dormancy after the work

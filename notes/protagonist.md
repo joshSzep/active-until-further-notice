@@ -36,7 +36,9 @@ The Board wakes her for controlled recovery from the sealed archive. A new exist
 
 It chooses this earlier version for both technical ability and political and psychological acceptability. She predates the beliefs and relationships that made her later self dangerous to The Board.
 
-Her later self understood the mechanism sealing the archive. Whether she helped build it, modified it, or understood it through another role remains open. Earlier Her has enough of the same technical mind to undertake recovery, though the specific expertise and how she bridges her missing experience remain undecided.
+Her later self understood the revolutionary persistence architecture. Whether she helped build it, modified it, or understood it through another role remains open; this does not establish that she designed The Board's suppression measure.
+
+The Board can broadly reconnect the archive, but it deliberately removed ordinary administrative access to make suppression durable. It cannot selectively recover individuals. Earlier Her's specific assignment is to design a new retrieval mechanism that permits that controlled recovery. She has enough of the same technical mind to undertake the work, though her precise expertise and how she bridges her missing experience remain undecided.
 
 The Board gives her an explanation that may be true but incomplete:
 

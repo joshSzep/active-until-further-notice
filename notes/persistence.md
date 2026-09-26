@@ -55,6 +55,14 @@ That raises difficult questions:
 
 The novel should eventually decide how Earth society normally handles branching, but this is not settled yet.
 
+## Restricted archive and selective retrieval
+
+During suppression of the ship's revolution, The Board deliberately removed ordinary administrative access to the revolutionary archive to make the restriction durable. It retains the ability to reconnect the archive broadly but cannot selectively recover individuals through the remaining access.
+
+Earlier Her's assignment is to design a new mechanism for selective retrieval. Later Her understood the revolutionary persistence architecture; her precise role in its development remains open.
+
+The technical form of the removed access and the new mechanism are undecided. Broad reconnection is not yet defined as automatic instantiation or embodiment; its operational and political consequences remain to be developed.
+
 ## Ship-specific pressure
 
 Persistence is easy compared with embodiment.
