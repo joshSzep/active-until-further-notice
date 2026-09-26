@@ -771,3 +771,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This does not establish the guardian's identity, quality of care, or any prior relationship to the family. It does not settle the existence or circumstances of another parent or a general guardianship policy aboard ship.
 
 **Still open:** Who the guardian was; how the child experienced their care; what the guardian said about Later Her; the guardian's present status; effects on the child's later life.
+
+## 2026-09-26 — 051: Competent but emotionally distant guardianship
+
+**Question:** What kind of relationship developed between guardian and child?
+
+**Options offered:** Genuine affection; competent distance; love with political tension; quiet solidarity with Later Her.
+
+**Author's answer:** "2" — competent distance.
+
+**Decision:** The guardian met the child's needs competently, but their relationship remained formal and emotionally distant.
+
+**Reasoning:** The author selected practical care without an emotionally close relationship, without adding further rationale.
+
+**Scope:** This does not establish neglect, cruelty, or the guardian's political views. Their identity and reasons for maintaining distance remain open.
+
+**Still open:** The guardian's identity; how the child experienced this care; what they were told about Later Her; effects on their later relationships; the guardian's present status.

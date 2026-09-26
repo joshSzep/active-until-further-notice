@@ -119,7 +119,7 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What did the adolescent child understand about their mother and the revolution when she became inaccessible?
 - What was the ordinary goodbye that became mother and child's last interaction for decades?
 - How did the child learn of the compulsory dormancy after that goodbye?
-- Who was the Board-appointed guardian, what care did they provide, and how did the child relate to them?
+- Who was the Board-appointed guardian, and how did the child experience competent care within a formal, emotionally distant relationship?
 - What was the guardian's prior connection to the family, if any, and what is their present status?
 - What are the child's exact ages at suppression and at Earlier Her's return, and what happened during the intervening adulthood?
 

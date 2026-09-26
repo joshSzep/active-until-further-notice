@@ -22,7 +22,7 @@ Later Her was placed into compulsory dormancy during suppression. Her state was 
 
 Mother and child last parted with an ordinary goodbye, unaware that it would be their last interaction for decades. They had no knowingly final farewell. The precise scene and how the child learned what followed remain open.
 
-The Board appointed a guardian to care for the adolescent after Later Her's compulsory dormancy. The nature of that care and its effect on the child's later life remain open.
+The Board appointed a guardian to care for the adolescent after Later Her's compulsory dormancy. The child's needs were competently met, but the relationship remained formal and emotionally distant. Its specific effects on the child's later life remain open.
 
 ## New mission crisis and controlled recovery — chosen direction
 

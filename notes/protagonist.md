@@ -18,7 +18,7 @@ During suppression, Later Her was placed into compulsory dormancy. Her mental st
 
 Her last interaction with the child was an ordinary goodbye. Neither knew it would be their last for decades. This does not settle what she learned between that interaction and her compulsory dormancy.
 
-The Board appointed a guardian for her adolescent child after removing her from active life. The guardian's identity and relationship with the child remain open.
+The Board appointed a guardian for her adolescent child after removing her from active life. The guardian met the child's needs competently, but the relationship remained formal and emotionally distant. Their identity remains open.
 
 ## Earlier political convictions
 

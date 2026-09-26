@@ -32,7 +32,7 @@ This creates a tension to develop with The Board's commitment to preserving peop
 
 Later Her was persisted and placed into compulsory dormancy during suppression. She was removed from active life, and the restriction prevented her later state's restoration. How that compulsory transition was carried out remains open.
 
-The Board then appointed a guardian for her adolescent child. The guardian and the quality of care remain undecided; this case does not establish a universal guardianship policy.
+The Board then appointed a guardian for her adolescent child. The guardian met the child's needs competently, but their relationship remained formal and emotionally distant. The guardian's identity remains undecided; this case does not establish a universal guardianship policy.
 
 ## Rejected amnesty offer
 
