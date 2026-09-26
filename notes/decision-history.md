@@ -341,3 +341,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** The betrayal and fear are established. Their prior relationship, motive, and the nature of the betrayal remain open. Fear does not by itself establish that either version of the protagonist would retaliate.
 
 **Still open:** The betrayal; the person's identity and motivation; what consequences they fear; how they respond to the possibility of Later Her's restoration; what Earlier Her initially notices.
+
+## 2026-09-26 — 023: The betrayal exposed Later Her's work to The Board
+
+**Question:** What did the betrayal involve?
+
+**Options offered:** Exposing her work; breaking a protection or safe-passage agreement; abandoning her at a decisive moment; using her trust to enable suppression through a compromise.
+
+**Author's answer:** "1" — exposing her work.
+
+**Decision:** The fearful person gave The Board information about Later Her's work that helped it suppress the revolutionary persistence system.
+
+**Reasoning:** The author selected this form of betrayal without adding a rationale. It connects the character's fear directly to their contribution to suppression.
+
+**Still open:** The specific information; how it enabled suppression; the person's motive and prior relationship with Later Her; when Earlier Her learns of it; what consequences the person fears.

@@ -97,6 +97,8 @@ Four distinct people make that history personal: her adult child loves her, some
 
 Her own history becomes almost archaeological.
 
+The person who fears her gave The Board information about Later Her's work that helped it suppress the revolutionary persistence system. The specific disclosure, their motive, and when the protagonist discovers the betrayal remain open.
+
 Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
 
 The child's memories are of a deeply present, patient, attentive mother. That care is an established aspect of Later Her, alongside the power and harmful decisions other characters encountered. How the protagonist learns these different aspects remains open.
