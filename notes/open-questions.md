@@ -34,7 +34,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 
 - What specific ecological failure becomes critical decades after the restriction?
 - How did independent food, water, and microbial systems support embodiment outside The Board's allocations in practice?
-- Why does failure in those systems now threaten the wider ship and mission?
+- How did The Board incorporate the more productive revolutionary systems into essential life support after suppressing their creators?
+- How did it assess their long-term reliability, and what did it know about the unfinished solution at the time?
+- How much isolation remained after the systems were integrated?
 - What does partial air-gapping mean for The Board's current ability to operate and observe them?
 - What design history and tacit rationale are missing, and what remains in the surviving records?
 - Why was the revolutionaries' attempted solution unfinished when they were suppressed?

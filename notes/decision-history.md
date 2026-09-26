@@ -125,3 +125,17 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected life support without adding a rationale. The offered option connects the practical means of embodiment autonomy to the resources The Board allocates.
 
 **Still open:** The specific ecological failure; why it becomes critical now; why the wider ship depends on or is threatened by these systems; the missing design knowledge; the unfinished solution; the relationship to the archive seal.
+
+## 2026-09-25 — 009: The Board adopted the revolution's life-support systems
+
+**Question:** Why does their failure threaten the whole mission?
+
+**Options offered:** The Board adopted the systems; the systems share an ecology with the ship; the systems became the last viable reserve.
+
+**Author's answer:** "1" — The Board adopted them.
+
+**Decision:** After suppressing the creators, The Board incorporated their more productive systems into the ship's essential life support. The ship's dependence on these systems makes their ecological failure a mission-wide threat.
+
+**Reasoning:** The author selected adoption without adding a rationale. The offered option preserves the irony that The Board retained the revolution's material achievements while excluding the people who understood them.
+
+**Still open:** How and when integration occurred; how The Board evaluated long-term reliability; what it knew about the unfinished solution at adoption; what isolation remained; the specific ecological failure and why replacement or bypass is inadequate.

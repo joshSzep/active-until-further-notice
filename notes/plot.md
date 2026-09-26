@@ -20,7 +20,9 @@ The Board imposed the persistence restriction in response to the revolution. The
 
 ## New mission crisis and controlled recovery — chosen direction
 
-Decades after the restriction, an ecological crisis threatens the mission. Independent food, water, and microbial life-support systems created during the revolution are failing. The suppressed generations deliberately built these undocumented, partially air-gapped modifications to support people outside The Board's allocations and escape its control. The specific ecological failure and how it threatens the wider ship remain open.
+Decades after the restriction, an ecological crisis threatens the mission. Independent food, water, and microbial life-support systems created during the revolution are failing. The suppressed generations deliberately built these undocumented, partially air-gapped modifications to support people outside The Board's allocations and escape its control. The specific ecological failure remains open.
+
+After suppressing their creators, The Board adopted these more productive systems into the ship's essential life support. Their failure now threatens the entire mission because the ship depends on them. The Board retained the revolution's material achievements while excluding the people who understood their design history and tacit rationale.
 
 The Board can operate and observe the resulting systems, but it lacks their design history and the tacit rationale behind the modifications. Surviving records show that the revolutionaries had begun solving the problem before they were suppressed. The knowledge needed to complete that work exists primarily in their persistence states behind the seal.
 
@@ -134,7 +136,8 @@ That gives the protagonist a moral reason to continue even if success threatens 
 - what danger the sealing was intended to prevent
 - how the restriction affected the revolution and The Board's continued control
 - the specific ecological failure in the independent life-support systems and why it becomes critical now
-- how the wider ship has become vulnerable to failure in those systems
+- how The Board integrated the revolutionary life-support systems and assessed their long-term reliability
+- what The Board knew about the unfinished solution when it adopted the systems
 - what the surviving records reveal about the unfinished solution
 - what missing design history and tacit rationale the suppressed experts retain
 - what prevents safe investigation, replacement, or bypass of the hidden infrastructure within the crisis's constraints

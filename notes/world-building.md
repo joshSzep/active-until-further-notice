@@ -121,9 +121,11 @@ Human psychology is failing to accommodate this change. The loss of control over
 
 The suppressed generations deliberately created independent food, water, and microbial life-support systems during the revolution. These supported people outside The Board's allocations, giving the struggle for embodiment autonomy a material basis. The modifications were undocumented and partially air-gapped to escape Board control. The Board can operate and observe the resulting systems but lacks their design history and tacit rationale.
 
-Decades later, the ecology of these systems is failing, creating a new existential mission crisis. Surviving records indicate the revolutionaries had begun solving the problem before suppression. Completing that work requires knowledge held primarily in their sealed persistence states.
+After suppressing their creators, The Board incorporated these more productive systems into the ship's essential life support. The ship now depends on infrastructure developed to escape its control.
 
-The exact ecological failure, degree of isolation, and missing design information remain to be specified, as does the reason failure in these systems threatens the wider ship. The relationship between these modifications and the archive's sealing mechanism is also open; they are not yet established as the same system.
+Decades later, the ecology of these systems is failing, creating a new existential mission crisis because of that dependence. Surviving records indicate the revolutionaries had begun solving the problem before suppression. Completing that work requires knowledge held primarily in their sealed persistence states.
+
+The exact ecological failure, degree of isolation after integration, and missing design information remain to be specified. How The Board assessed the systems before adopting them and what it knew of the unfinished solution are also open. The relationship between these modifications and the archive's sealing mechanism is not yet established; they are not necessarily the same system.
 
 ## The generation ship
 

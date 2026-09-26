@@ -40,6 +40,8 @@ During the revolution, the suppressed generations deliberately created undocumen
 
 The hidden infrastructure consists of independent food, water, and microbial life-support systems that supported people outside The Board's allocations. Their ecology is now failing. Surviving records show that the revolutionaries had begun solving the problem before their suppression; the records do not supply the complete understanding needed to finish the work.
 
+After suppressing the systems' creators, The Board incorporated their more productive infrastructure into essential shipwide life support. That adoption explains why its failure now threatens the mission. The Board's assessment of the risks at the time, including what it knew about the unfinished solution, remains undecided.
+
 The author's governing principle is: **"Computation cannot recover information that was never recorded."** The missing history and reasoning survive primarily in suppressed human persistence states. Greater computational capacity alone does not provide access to those facts.
 
 The Board can still investigate and infer. The particular reasons those methods, replacement, or bypass cannot resolve this crisis without the suppressed expertise remain engineering details to establish.

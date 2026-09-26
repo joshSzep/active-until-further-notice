@@ -22,6 +22,8 @@ Decades later, a new existential mission crisis requires expertise held primaril
 
 The crisis is ecological: independent food, water, and microbial life-support systems built during the revolution to support people outside The Board's allocations are now failing. Their modifications were undocumented and partially air-gapped. The Board can operate and observe them but lacks their design history and tacit rationale. Surviving records show that the suppressed people had begun solving the problem.
 
+After suppressing their creators, The Board incorporated these more productive systems into the ship's essential life support. Their failure now threatens the mission because the ship depends on them.
+
 Her later self understood the sealed system; whether she helped build or modify it remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
 
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
