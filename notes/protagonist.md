@@ -83,12 +83,12 @@ The protagonist wakes into a world where people knew a later version of her that
 
 Four distinct people confront her with different aspects of that later life:
 
-- someone who loves her and approaches with intimacy and trust she has not experienced or earned
+- her adult child, born after her restored persistence state, who approaches with love, intimacy, and trust from a life Earlier Her has never shared
 - someone who fears her, revealing the frightening power Later Her held
 - someone who blames her for a harmful decision she cannot imagine making
 - a former revolutionary who believes in her and expects conviction and courage she does not recognize in herself
 
-All four are different people. Their identities, exact relationships, and encounter order remain open. See [Supporting characters](supporting-characters.md).
+All four are different people. The adult child's relationship is established; names, further relationship details, and encounter order remain open. See [Supporting characters](supporting-characters.md).
 
 The Board treats the identity as continuous.
 

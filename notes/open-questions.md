@@ -101,7 +101,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 ## Plot
 
 - What did the later protagonist become?
-- Who are the four distinct people who love, fear, blame, and believe in her, and what histories ground those responses?
+- What history grounds the adult child's love for Later Her, and what do they want from Earlier Her?
+- Who are the three other people who fear, blame, and believe in her, and what histories ground those responses?
 - What does each want from Earlier Her now, and how do their new relationships develop?
 - Who is the first person to tell the waking protagonist something about herself she cannot emotionally accept?
 - What does she most desperately want to ask her later self about who she became?

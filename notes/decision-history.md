@@ -263,3 +263,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author chose all four encounters, explicitly assigning them to different people. Together they provide distinct personal perspectives on who Later Her became.
 
 **Still open:** Their identities, exact relationships, shared histories, and current aims; the order of encounters; how each relationship develops with Earlier Her; what the responses establish about Later Her's actions and political role.
+
+## 2026-09-26 — 018: The person who loves her is her adult child
+
+**Question:** Who is the person who loves her?
+
+**Options offered:** Her later partner; her adult child; her closest friend.
+
+**Author's answer:** "Her adult child".
+
+**Decision:** The person who loves her is her adult child, born after the persistence state from which Earlier Her wakes. The child has a history with Later Her that Earlier Her has never experienced.
+
+**Reasoning:** The author selected the adult child without adding a rationale. The relationship makes the missing lifetime tangible through a person whose existence and shared history are unfamiliar to Earlier Her.
+
+**Continuity:** The established common understanding of persistence applies to the child. The emotional encounter does not require a technical misunderstanding about the two versions.
+
+**Still open:** Name, gender, age, other family relationships, political views, what the child wants from Earlier Her, and the nature of their relationship with Later Her.
