@@ -601,3 +601,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected patience grounded in confidence, without adding a rationale. This continues the believer's sincere misreading of Later Her's trust as a guarantee of eventual political agreement.
 
 **Still open:** How Earlier Her experiences that certainty; how the believer behaves while waiting; whether they eventually accept a different choice; how their relationship develops.
+
+## 2026-09-26 — 040: Earlier Her believed in Board governance
+
+**Question:** Before the decades she cannot remember, how did Earlier Her regard The Board?
+
+**Options offered:** With conviction that its governance best preserved human life; with pragmatic acceptance; with detached skepticism.
+
+**Author's answer:** "1" — with conviction.
+
+**Decision:** Earlier Her sincerely believed The Board's governance was the best way to preserve human life. This is the outlook carried by the state from which she is restored.
+
+**Reasoning:** The author selected sincere support rather than reluctant acceptance or disengaged skepticism. Later Her's revolutionary commitments represent a political transformation Earlier Her has not experienced and wants to understand.
+
+**Scope:** This establishes her earlier convictions, not permanent allegiance or agreement with every current Board decision. The cause of Later Her's transformation remains open.
+
+**Still open:** What grounded her original trust; what changed during the missing decades; how she now evaluates The Board; whether her new path resembles or differs from Later Her's.

@@ -104,6 +104,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 
 ## Plot
 
+- What grounded Earlier Her's sincere belief that Board governance best preserved human life?
+- What experiences changed that conviction during the missing decades and led Later Her toward revolution?
+
 - What did the later protagonist become?
 - What specific memories and habits show the deeply present, patient, attentive mother the child knew?
 - How does the child express their primary wish for Earlier Her to recover their mother?

@@ -56,6 +56,8 @@ The Board can broadly reconnect the archive. However, during suppression it deli
 
 Earlier Her is selected to design that mechanism because Later Her understood the revolutionary persistence architecture. She has relevant technical ability and predates the political and psychological changes The Board rejects in Later Her. The exact technical history remains open.
 
+At the point captured in her restored state, she sincerely believed Board governance was the best way to preserve human life. This gives a concrete basis for considering that earlier version politically acceptable, without guaranteeing her response to new experiences or establishing the details of The Board's assessment.
+
 Broad reconnection would restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. This is the chosen reason it considers broad reconnection politically unacceptable. Selective retrieval would obtain the needed experts while maintaining that leverage over the living.
 
 Nightly capture continues, with new states retained behind the seal and unavailable for restoration. The Board preserves people's later lives while withholding their return. The public knows both facts. This supports The Board's materialist distinction between preserving a person and permitting their embodiment.

@@ -69,6 +69,8 @@ This is a working plot shape, not locked canon.
 
 The protagonist is instantiated from an old but valid persistence state after a long dormancy.
 
+The state carries a sincere conviction that The Board's governance is the best way to preserve human life. Discovering that her later self became a revolutionary confronts her with a political transformation she has never experienced. Its causes remain open.
+
 She learns that:
 
 - decades have passed
