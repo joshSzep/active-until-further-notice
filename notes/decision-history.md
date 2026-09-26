@@ -217,3 +217,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected this timing without adding a rationale. The offered option creates an early reason to question the assignment while allowing The Board to defend its reasoning.
 
 **Still open:** The evidence she discovers; The Board's specific defense; her response; exact placement within the provisional act structure; when she learns the full reasons for selecting her earlier self.
+
+## 2026-09-25 — 015: Saving lives outwardly, recovering her own life privately
+
+**Question:** What keeps her working after the confrontation?
+
+**Options offered:** Conditional agreement with The Board; immediate human stakes; her missing life; access to change things from within.
+
+**Author's answer:** "2 is her externally facing motivation, but secretely she really cared about 3".
+
+**Decision:** Her outward motivation is saving people from the ecological crisis despite rejecting The Board's reasoning. Her stronger private motive is recovering her missing life, reaching her later persistence state, and understanding what happened to her.
+
+**Reasoning:** The author distinguishes the justification she presents from the personal desire that drives her most strongly at this early stage.
+
+**Scope:** This does not establish that her concern for others is entirely false or that she is indifferent to them. The degree of self-awareness and whether others recognize her private motive remain open.
+
+**Still open:** How the motives affect her actions; when they conflict; what The Board perceives; how her priorities change as she develops a new life and learns about her later self.

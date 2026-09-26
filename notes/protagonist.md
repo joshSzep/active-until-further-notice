@@ -61,7 +61,15 @@ Her precise revolutionary role remains open. Being a leader or architect of the 
 
 The Board does not initially tell her that it can broadly reconnect the archive. She discovers that capability early through her technical investigation and challenges it. The Board acknowledges the capability and defends withholding the information.
 
-The technical evidence and her response remain open. This establishes an early encounter with the undisclosed capabilities behind the public policy, without deciding when she learns The Board's full reasons for selecting her earlier self.
+The technical evidence and the details of the confrontation remain open. This establishes an early encounter with the undisclosed capabilities behind the public policy, without deciding when she learns The Board's full reasons for selecting her earlier self.
+
+### Why she continues: public reason and private motive
+
+After the confrontation, her outward reason for continuing is that people will die unless she helps resolve the ecological crisis. She rejects The Board's reasoning but presents the immediate human stakes as her reason to keep working.
+
+Privately, the stronger motive is recovering her missing life: reaching her later persistence state and understanding what happened to her. This is what she secretly cares about most at this early stage.
+
+The distinction does not establish indifference to other people's lives. How fully she admits her priorities to herself, whether The Board recognizes them, and when they affect her choices remain open.
 
 ### Possible return to dormancy
 
@@ -92,7 +100,7 @@ If the inaccessible archive is restored, a much later persistence state of the p
 
 At first, the protagonist may think of that state as simply "me."
 
-Her motivation could partly be:
+Her strongest private motivation early in the investigation is:
 
 > If I fix this, I get my life back.
 

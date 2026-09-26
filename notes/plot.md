@@ -83,9 +83,11 @@ The designation is unsettling because indefinite embodiment is rare and resource
 
 ### Act II: Recovery
 
-The protagonist begins designing a new mechanism for selectively retrieving individuals from the sealed archive. The Board seeks the expertise needed to resolve the mission crisis while maintaining the broader restriction. When and how her objectives expand beyond that assignment remain open.
+The protagonist begins designing a new mechanism for selectively retrieving individuals from the sealed archive. The Board seeks the expertise needed to resolve the mission crisis while maintaining the broader restriction. Her private desire to recover her missing life is established; when and how she acts beyond the assignment remain open.
 
-Early in her technical investigation, she discovers that broad reconnection is possible. She challenges The Board, which acknowledges the capability and defends having withheld it. The specific evidence, its defense, and her response remain open. The timing is established as early in the investigation; its exact placement within the provisional acts is not fixed.
+Early in her technical investigation, she discovers that broad reconnection is possible. She challenges The Board, which acknowledges the capability and defends having withheld it. The specific evidence and its defense remain open. The timing is established as early in the investigation; its exact placement within the provisional acts is not fixed.
+
+She continues despite rejecting The Board's reasoning. Outwardly, she says she must help because people will die without a solution to the ecological crisis. Privately, her stronger motive is recovering her missing life and later persistence state. The extent of her self-awareness and when that private priority changes her actions remain open.
 
 As she works, she learns what happened during the decades she does not remember.
 
@@ -138,7 +140,7 @@ The catastrophe should affect more than the protagonist.
 
 Recovering the archive may restore access to thousands of lost persistence states.
 
-That gives the protagonist a moral reason to continue even if success threatens her own identity or embodiment allocation.
+That gives the protagonist a moral reason to continue even if success threatens her own identity or embodiment allocation. Early on, however, recovering her own missing life matters most to her privately, while saving lives is her outward reason for continuing. How those priorities change over the story remains open.
 
 ## Not yet settled
 
@@ -155,7 +157,8 @@ That gives the protagonist a moral reason to continue even if success threatens 
 - how broad reconnection restores reliable persistence for the living, while selective retrieval can leave that guarantee suspended
 - whether the later protagonist built, modified, or otherwise came to understand the revolutionary persistence architecture
 - what technical abilities allow the earlier version to work on a system her later self understood
-- when and why the protagonist's recovery goals diverge from The Board's assignment
+- when and how the protagonist acts on her private recovery goal beyond The Board's assignment
+- how her outward commitment to saving lives and private desire to recover her missing life evolve
 - whether The Board intends to return her to dormancy after the work
 - whether restoring the archive itself creates new danger
 - whether both versions can legally be embodied at once

@@ -50,9 +50,11 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - Did Later Her build, modify, or otherwise come to understand the revolutionary persistence architecture?
 - How does Earlier Her bridge the experience she lacks to perform recovery?
 - What technical evidence leads the protagonist to discover broad reconnection early in her investigation?
-- How does The Board defend withholding that capability when she challenges it, and how does she respond?
+- How does The Board defend withholding that capability when she challenges it, and what does she say in response?
 - What does The Board tell her about the undisclosed technical capabilities and its reasons for selecting her?
-- When and why does her objective expand beyond the permitted recovery?
+- When and how does she act beyond the permitted recovery to pursue her private desire to recover her missing life?
+- How fully does she admit that private priority to herself, and does The Board recognize it?
+- When do saving other people's lives and recovering her own missing life demand different choices?
 - Does The Board intend to return her to dormancy once the work is complete? This remains a possibility, not canon.
 
 ## Persistence technology
