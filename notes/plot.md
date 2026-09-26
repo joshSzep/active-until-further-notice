@@ -93,6 +93,8 @@ As she works, she learns what happened during the decades she does not remember.
 
 People around her knew later versions of her.
 
+Four distinct people make that history personal: one loves her, one fears her, one blames her for harm, and one is a former revolutionary who believes in her. Each reveals a different aspect of Later Her that the protagonist struggles to reconcile with herself. Their identities and order of introduction remain open; see [Supporting characters](supporting-characters.md).
+
 Her own history becomes almost archaeological.
 
 The technical recovery problem and the identity problem should increasingly become the same problem.

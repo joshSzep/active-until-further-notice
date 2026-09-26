@@ -54,6 +54,7 @@ She understands that her later self would be a separate person, not a source of 
 - [Ship society](notes/ship-society.md)
 - [World building](notes/world-building.md)
 - [Protagonist](notes/protagonist.md)
+- [Supporting characters](notes/supporting-characters.md)
 - [Plot](notes/plot.md)
 - [Themes](notes/themes.md)
 - [Open questions](notes/open-questions.md)

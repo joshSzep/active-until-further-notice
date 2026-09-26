@@ -249,3 +249,17 @@ This log records decisions made through the question-and-answer development proc
 **Correction to earlier framing:** Replace suggestions that her arc depends on first treating Later Her as simply herself and then discovering branching. Any later ambivalence concerns the emotional and practical consequences of the meeting and coexistence. Historical entries remain as a record of development.
 
 **Still open:** The questions she wants answered; what she first learns about her later self; whether the meeting provides the understanding she seeks; how that desire changes as she builds a new life.
+
+## 2026-09-25 — 017: Four people reflect different aspects of Later Her
+
+**Question:** What first makes Later Her feel difficult to reconcile with herself?
+
+**Options offered:** Someone loves her; someone fears her; someone blames her; someone believes in her.
+
+**Author's answer:** "All of the above, all different people".
+
+**Decision:** Establish four separate supporting characters. One approaches with love, intimacy, and trust from a relationship Earlier Her has never experienced; one fears the power Later Her held; one was harmed by a decision Earlier Her cannot imagine making; one is a former revolutionary who expects conviction and courage Earlier Her does not recognize in herself.
+
+**Reasoning:** The author chose all four encounters, explicitly assigning them to different people. Together they provide distinct personal perspectives on who Later Her became.
+
+**Still open:** Their identities, exact relationships, shared histories, and current aims; the order of encounters; how each relationship develops with Earlier Her; what the responses establish about Later Her's actions and political role.

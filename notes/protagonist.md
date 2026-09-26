@@ -79,16 +79,16 @@ The author's image: "It's a maintenance window."
 
 ## Social dislocation
 
-The protagonist wakes into a world where people may know a later version of her that she never experienced being.
+The protagonist wakes into a world where people knew a later version of her that she never experienced being.
 
-Someone may:
+Four distinct people confront her with different aspects of that later life:
 
-- recognize her immediately
-- grieve while looking at her
-- love her
-- resent her
-- blame her for decisions she does not remember
-- know intimate things about her that she has never lived
+- someone who loves her and approaches with intimacy and trust she has not experienced or earned
+- someone who fears her, revealing the frightening power Later Her held
+- someone who blames her for a harmful decision she cannot imagine making
+- a former revolutionary who believes in her and expects conviction and courage she does not recognize in herself
+
+All four are different people. Their identities, exact relationships, and encounter order remain open. See [Supporting characters](supporting-characters.md).
 
 The Board treats the identity as continuous.
 
