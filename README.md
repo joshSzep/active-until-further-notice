@@ -16,6 +16,8 @@ The protagonist wakes after a long period of dormancy from an older persistence 
 
 > **ACTIVE UNTIL FURTHER NOTICE**
 
+The catastrophe is a deliberate restriction imposed by The Board to suppress a revolution in the name of preserving the mission. People sought control over their embodiment through replacing The Board with human government. The restriction makes the loss of their current selves consequential while allowing earlier versions to return.
+
 She may be uniquely positioned to undo the catastrophe. Success could restore thousands of inaccessible people, including the later version of herself.
 
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.

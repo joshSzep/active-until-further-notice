@@ -34,13 +34,21 @@ She sees it as evidence that something is badly wrong.
 
 The working idea is that this older version is uniquely positioned to undo the catastrophe that made later persistence states inaccessible.
 
-The exact technical reason is not yet settled.
+The exact reason this version is needed is not yet settled; it need not be solely technical.
 
-Possibilities should remain open until the catastrophe is designed.
+Her specific capabilities and their relationship to The Board's restriction remain open.
 
 The Board gives her an explanation that may be true but incomplete:
 
 > Your expertise profile has become disproportionately valuable to current mission objectives.
+
+### Possible political and psychological usefulness — not canon
+
+The older protagonist may be useful because she comes from before she became whoever her later self became during the revolution. The Board could need this earlier political and psychological version of her, as well as any technical expertise she possesses.
+
+Under this possibility, recovering her later persistence state would mean recovering the person The Board deliberately needed her not to be. The recovery would have political consequences alongside the personal conflict between two legitimate branches of one identity.
+
+This is explicitly exploratory. Her later allegiance, role in the revolution, and The Board's exact reason for choosing her remain undecided.
 
 ## Social dislocation
 

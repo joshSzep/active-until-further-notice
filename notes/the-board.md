@@ -14,6 +14,16 @@ Humans are resources to The Board.
 
 They are resources it values deeply.
 
+## Response to the revolution — canon
+
+The Board deliberately restricted access to recent persistence states to suppress the revolution. It made death consequential again through the loss of people's current selves, while retaining the ability to restore versions from before their revolutionary commitments.
+
+The measure combines fear as a means of control with suppression of who people became. The revolutionary motivation was control over embodiment; its aim was replacing The Board with human government; changing or abandoning the mission followed as a consequence.
+
+The Board acts in the name of preserving the mission. Whether this measure was actually necessary or justified remains unresolved. Its responsibility is established; internal unanimity, the mechanism, and the extent of public knowledge are not.
+
+This creates a tension to develop with The Board's commitment to preserving people: it preserves older states while deliberately denying access to later lives. Its materialism does not by itself resolve that tension.
+
 ## Possible constituent personas
 
 These are exploratory rather than finalized names:

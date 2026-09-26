@@ -2,9 +2,9 @@
 
 ## Decided catastrophe premise
 
-Recent persistence states were deliberately made inaccessible as both a protective measure and a political act. Someone sealed them away to prevent a danger, and denying access to those people was also a means of changing who controls the ship.
+The Board deliberately made recent persistence states inaccessible to suppress the revolution and preserve the mission. It retained access to older versions from before people's revolutionary commitments. The restriction is both a protective measure in The Board's framing and a political act that preserves its control of the ship.
 
-Recovery may undo that protection. The nature of the danger, who acted, whose power they sought to change, and whether the action was justified remain unresolved. The later protagonist's involvement is not yet decided.
+Recovery may undo that protection and restore people The Board deliberately excluded. The specific danger to the mission and whether the action was necessary or justified remain unresolved. The later protagonist's involvement is not yet decided.
 
 The chosen motives combine making people afraid of permanent loss again with undoing who they became. Restoring older versions can retain earlier skills and loyalties while denying the return of later beliefs, relationships, or knowledge. The fear of losing one's current self becomes a means of control.
 
@@ -16,7 +16,7 @@ The developing revolutionary history has a specific causal structure:
 - **Revolutionary aim:** Replace The Board with human government so people can reclaim that control.
 - **Consequence:** Changing or abandoning the mission follows from this struggle; it is not the original motivating demand. The particular change and whether it was carried out remain open.
 
-The suggestion that this revolution required the persistence restriction to preserve the mission remains tentative. Who imposed the restriction, the specific threat to the mission, and the later protagonist's allegiance are not decided. Mission preservation may be a genuine necessity, a political justification, or a mixture of both.
+The Board imposed the persistence restriction in response to the revolution. The specific threat to the mission and the later protagonist's allegiance remain undecided. Mission preservation may be a genuine necessity, a political justification, or a mixture of both.
 
 ## Current spine
 
@@ -26,7 +26,7 @@ The current exploration asks who benefits when people can be restored only from 
 
 An older version can survive while a person's later lived experience becomes unrecoverable. This may undermine the ordinary social promise of persistence even when an identity still has a viable archive.
 
-The beneficiary remains open; the chosen motives are fear and control over which versions can return. Earlier proposed conflicts involving protection from The Board, a returning faction, entrenched founders, or concentrated archive control were not accepted as framed. The subsequent suggestion of a revolution does not establish any of those specific explanations.
+The Board benefits through fear and control over which versions can return. Whether the restriction also benefits the people aboard by preserving the mission remains unresolved.
 
 It is not yet settled whether the accessible states retreat progressively into the past or remain behind a fixed cutoff that grows more distant with time. Nor is it settled whether people born after that cutoff have any recoverable state.
 
@@ -99,6 +99,8 @@ Later:
 
 ## Potential stakes
 
+An explicitly non-canon possibility is that The Board needs the protagonist's earlier political and psychological self. Restoring her later state could recover the very person The Board needed her not to be. See [Protagonist](protagonist.md). This possibility does not yet establish her later allegiance or role in the revolution.
+
 The catastrophe should affect more than the protagonist.
 
 Recovering the archive may restore access to thousands of lost persistence states.
@@ -107,9 +109,10 @@ That gives the protagonist a moral reason to continue even if success threatens 
 
 ## Not yet settled
 
-- who deliberately sealed the persistence states away and how
+- how The Board sealed the persistence states away
 - what danger the sealing was intended to prevent
-- how denying access to those people was meant to change control of the ship
+- how the restriction affected the revolution and The Board's continued control
+- why The Board now needs recovery work and what it intends to make accessible
 - whether the later protagonist contributed to it
 - why the old version is uniquely capable of repairing it
 - whether restoring the archive itself creates new danger

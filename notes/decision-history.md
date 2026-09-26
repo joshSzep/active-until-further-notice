@@ -61,3 +61,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** People's expectations formed under Earth's plentiful resources and taken-for-granted persistence. Human psychology is failing to accommodate the constraints of deep-space travel and the allocation of humans as resources. Missing Earth is central to the revolutionary motivation.
 
 **Still open:** The specific change to the mission and whether it occurs; the revolution's course and outcome; who imposes the persistence restriction; whether that restriction is necessary for mission preservation; the later protagonist's role.
+
+## 2026-09-25 — 005: The Board imposed the restriction; possible significance of the earlier protagonist
+
+**Question:** Who imposed the restriction on recent persistence states?
+
+**Options offered:** The Board; a divided Board; the new human government; human mission loyalists.
+
+**Author's answer:** "1" — The Board.
+
+**Decision — canon:** The Board imposed the restriction to suppress the revolution by making death consequential and restoring people from before their revolutionary commitments. Whether the measure was necessary to preserve the mission remains unresolved. The choice establishes institutional responsibility without deciding internal unanimity.
+
+**Author's additional possibility — explicitly not canon:** The older protagonist may be needed because she predates the political and psychological person her later self became during the revolution, not merely because of a forgotten technical skill. Recovering the later state could recover "the person The Board deliberately needed her not to be."
+
+**Reasoning:** This possibility links the selection of her earlier version to the political purpose of the restriction and gives recovery consequences beyond reclaiming her missing life. The author explicitly withheld canon status from this implication.
+
+**Still open:** The protagonist's later political identity; whether this possibility becomes canon; why The Board now needs recovery and what access it intends to allow; the restriction's mechanism, justification, and public visibility.

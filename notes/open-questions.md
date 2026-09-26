@@ -4,26 +4,28 @@ These are intentionally unresolved.
 
 ## The catastrophe
 
-The catastrophe is a deliberate sealing of persistence states with both protective and political purposes. See [Plot](plot.md) and [Decision history](decision-history.md).
+The Board deliberately sealed recent persistence states to suppress the revolution in the name of preserving the mission. See [Plot](plot.md) and [Decision history](decision-history.md).
 
-- Who sealed the states away, and by what mechanism?
-- What danger were they trying to prevent, and was that danger real?
-- Whose control of the ship were they trying to change, and in whose favor?
+- By what mechanism did The Board seal the states away?
+- What specific danger to the mission was The Board trying to prevent, and was that danger real?
+- How did the restriction preserve The Board's control in practice?
 - How are the protective and political purposes connected?
-- Who benefits from restoring increasingly old versions while recent versions cannot return?
+- Does preserving The Board's control also benefit the ship's people, and at what cost?
 - How does fear of losing one's current self change behavior aboard ship?
 - Which later beliefs, relationships, or knowledge does restoring older versions suppress?
-- Was there a revolution that prompted the restriction or required its continued enforcement to preserve the mission?
+- What stage of the revolution prompted the restriction, and why does it remain in force?
 - How does the revolution's demand for control over embodiment, pursued through replacing The Board with human government, lead to changing or abandoning the mission?
 - What specific mission change follows, and is it proposed, attempted, or carried out?
 - How does the conflict between human psychological needs and the ship's resource limits become a concrete threat to the mission?
-- Who imposed the restriction, and is mission preservation a genuine necessity, a justification, or both?
+- Is mission preservation a genuine necessity, a justification, or both?
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
 - Can new persistence states still be captured and restored?
 - Do people born after the affected boundary have any recoverable states?
 - Are the states physically intact but cryptographically or logically unreachable?
 - Why can the protagonist's old state be trusted while newer ones cannot?
 - Why is this protagonist uniquely positioned to repair the problem?
+- Does The Board need her earlier political and psychological self? This remains explicitly non-canon.
+- Why does The Board now need recovery work, and does it intend to permit full restoration or only limited access?
 - Did her later version know the catastrophe was coming?
 - Did her later version help cause it?
 

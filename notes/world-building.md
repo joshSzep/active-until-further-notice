@@ -115,7 +115,7 @@ Every embodied person consumes a closed-system budget:
 
 This is why a technology associated with practical immortality on Earth becomes a population-allocation system aboard ship.
 
-Human psychology is failing to accommodate this change. The loss of control over embodiment motivates a revolution whose aim is human government in place of The Board. Changing or abandoning the mission follows as a consequence. The specific mission change and the revolution's connection to the persistence restriction remain under development.
+Human psychology is failing to accommodate this change. The loss of control over embodiment motivates a revolution whose aim is human government in place of The Board. Changing or abandoning the mission follows as a consequence. The Board responds by restricting recent persistence states to suppress the revolution in the name of preserving the mission. The specific mission change and whether the restriction was necessary remain open.
 
 ## The generation ship
 
