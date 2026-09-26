@@ -106,6 +106,8 @@ The child cares about Earlier Her, but primarily wants her help recovering Later
 
 The elderly child understands that recovering suppressed experts could cost them continued embodiment and accepts that risk. Dormancy is not terrifying to them at this stage of their life. They still want their mother restored. How Earlier Her responds to this acceptance remains open.
 
+The child has moved beyond the revolution. Their wish to recover Later Her is personal: they want their mother back, without seeking to revive her political struggle. Their aims therefore differ from the believer's expectation that Earlier Her will finish the revolution.
+
 Later Her was a deeply present, patient, attentive mother. The child knew that care firsthand, even while other people experienced her as frightening or harmful. The specific memories that convey this side of her remain open.
 
 Earlier Her initially responds to the child with intense curiosity. She wants to know them partly for what they can reveal about Later Her. This response follows her private drive to understand who she became; the development of affection or maternal feelings remains open.

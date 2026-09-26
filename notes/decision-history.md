@@ -695,3 +695,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** Willingness to risk dormancy does not establish a wish to enter it or that recovery will actually end their allocation. Exact age and embodiment chronology remain open.
 
 **Still open:** How the child expresses this acceptance; Earlier Her's response; the child's actual allocation after recovery; the timing and circumstances of any reunion with Later Her.
+
+## 2026-09-26 — 046: The child has moved beyond the revolution
+
+**Question:** What does the child think of their mother's revolution now?
+
+**Options offered:** Still believes in it; loves her but disagrees; has moved beyond it; remains conflicted.
+
+**Author's answer:** "3" — has moved beyond it.
+
+**Decision:** The elderly child wants their mother back as a person, without seeking to revive her political struggle. Their current recovery motive is personal rather than a project to resume the revolution.
+
+**Reasoning:** The author selected a life that has moved beyond the struggle. This distinguishes the child's hope for reunion from the believer's expectation of renewed revolutionary action.
+
+**Scope:** This does not establish a judgment that the revolution was wrong, agreement with The Board, or how the child would react to Later Her's own choices after restoration.
+
+**Still open:** How the child expresses this outlook; how their aims interact with those of Earlier Her and the believer; their response if Later Her wants to resume the struggle.

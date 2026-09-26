@@ -12,6 +12,8 @@ The child understands persistence and the distinction between the two versions. 
 
 The child's primary hope is that Earlier Her will help recover Later Her. They care about Earlier Her, but desperately want their mother back: the woman with whom they shared their life. How directly they express this hope, and how it affects their developing relationship with Earlier Her, remain open.
 
+By this stage, the child has moved beyond the revolution. They want their mother back as a person and are not seeking to revive her political struggle. This is their present motivation, not an established judgment that the revolution was wrong or that Board governance is justified. How they would respond if a restored Later Her wanted to resume the struggle remains open.
+
 Later Her was a deeply present, patient, attentive mother. This is the child's lived experience of her and grounds their desire to recover her. Whatever others feared about Later Her, the child knew this care firsthand. Her maternal presence is established; it does not settle or invalidate the other characters' experiences of her.
 
 Motherhood was the main force undermining her earlier conviction in Board governance. Her child was on a trajectory not to be useful enough under the ship's allocation criteria, making the condition on their continued adult embodiment a concrete threat to their future. She could no longer accept it.
@@ -67,6 +69,7 @@ The believer responds to Earlier Her's initial refusal with patient certainty. T
 - Which person does she meet first?
 - How does the adult child express their wish for Earlier Her to recover Later Her?
 - How does their care for Earlier Her interact with their stronger wish to have their mother back?
+- How would the child respond if Later Her returned wanting to resume the political struggle they have moved beyond?
 - What does Earlier Her first seek to learn about Later Her through the child?
 - How does the child respond to being approached partly as a source of knowledge about their mother?
 - What specific memories and habits show Later Her's patience and attention as a mother?

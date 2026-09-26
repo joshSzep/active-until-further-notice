@@ -108,6 +108,7 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What are the adult child's skills, and how did suppression reduce the available expertise in that area enough to improve their embodiment prospects?
 - How does the elderly child feel about suppression having improved their embodiment prospects, beyond their established acceptance of the risk that recovery could end their active term?
 - How do they express that acceptance, and how does Earlier Her respond?
+- How would the child respond if Later Her wanted to resume the revolution they have moved beyond?
 - Does recovery actually change the child's embodiment allocation?
 - Who recognized that trajectory, how did Later Her learn of it, and how old was the child?
 - Was there a formal assessment or dormancy decision, or was the likely future apparent before either?
