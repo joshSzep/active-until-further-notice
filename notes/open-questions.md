@@ -127,7 +127,8 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - What specific memories and habits show the deeply present, patient, attentive mother the child knew?
 - How does the child express their primary wish for Earlier Her to recover their mother?
 - How does the child learn Earlier Her has been instantiated and make contact to request their first meeting?
-- How much does Earlier Her know about the child before that request, and where and when do they meet?
+- Where and when do they meet, and how does the elderly visitor reveal that they are her child?
+- Why was Earlier Her not told she had a child during orientation or in the meeting request?
 - What does Earlier Her first want to learn about Later Her through the child, and how does the child respond to her curiosity?
 - How does Earlier Her's curiosity develop into a relationship with the child in their own right?
 - Who exposed Later Her's work to The Board to protect their child, and what specific future did they fear losing for that child?

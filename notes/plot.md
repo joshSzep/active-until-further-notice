@@ -119,7 +119,7 @@ The protection the betrayer obtained was a guaranteed childhood: embodiment and 
 
 Her adult child primarily wants her help recovering Later Her. The child cares about Earlier Her but desperately wants their mother back. This initially aligns their aim with the protagonist's private desire to meet Later Her; whether and how those motives later come into conflict remain open.
 
-The child initiates their first meeting after learning Earlier Her has been instantiated, seeking her out and asking to meet. The route by which they learn of her return and the scene's timing and setting remain open.
+The child initiates their first meeting after learning Earlier Her has been instantiated, seeking her out and asking to meet. Earlier Her expects to meet someone who knew Later Her. During the encounter, she discovers that this elderly person is her child; she did not previously know she became a mother. The route by which the child learns of her return, the reason for the delayed disclosure, and the scene's timing, setting, and exact revelation remain open.
 
 The child has moved beyond the revolution and seeks their mother's return as a person, without a wish to revive her political struggle. The believer's political expectations and the child's personal hopes are distinct pressures on Earlier Her. Whether a restored Later Her would share either person's current aims remains open.
 

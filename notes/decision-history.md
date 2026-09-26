@@ -801,3 +801,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected the child's initiative without adding a rationale. This is consistent with their established hope that Earlier Her can help restore their mother.
 
 **Still open:** How the child hears the news and contacts her; what Earlier Her already knows about the child; the meeting's timing, setting, and opening exchange; its order relative to the other supporting-character encounters.
+
+## 2026-09-26 — 053: She learns she has a child during their meeting
+
+**Question:** When does Earlier Her learn she has a child?
+
+**Options offered:** During orientation; in the meeting request; at the meeting.
+
+**Author's answer:** "3" — at the meeting.
+
+**Decision:** Earlier Her agrees to meet someone who knew Later Her. During the encounter itself, she learns that the elderly person is her child. She was not informed of having a child during orientation or in the request.
+
+**Reasoning:** The author selected an in-person revelation without adding a rationale. Her curiosity about someone who knew Later Her becomes an encounter with a family relationship she did not know existed.
+
+**Scope:** The timing of the revelation is established, not the reasons for earlier nondisclosure or any intent to manipulate her.
+
+**Still open:** The setting and exact exchange; why the relationship was not disclosed earlier; what she notices before learning it; the child's expectations of the meeting.
