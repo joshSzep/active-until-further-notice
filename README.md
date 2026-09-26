@@ -26,6 +26,8 @@ After suppressing their creators, The Board incorporated these more productive s
 
 The Board can broadly reconnect the archive, but deliberately removed ordinary administrative access during suppression and cannot selectively retrieve individuals. Earlier Her is assigned to design a new retrieval mechanism because Later Her understood the revolutionary persistence architecture. Whether Later Her helped build or modify that architecture remains open. Recovery could ultimately restore thousands of inaccessible people, including that later self, beyond the access The Board intends to allow.
 
+Broad reconnection would also restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. That is why it insists on selective recovery.
+
 That creates the central problem: by the time she succeeds, the version who woke may have become a different person.
 
 ## Current core ideas

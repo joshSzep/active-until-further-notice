@@ -30,7 +30,9 @@ This establishes a limit on The Board's information rather than its general comp
 
 The Board has not changed its position on the revolution or the restriction. Conditions have changed: it needs something on the other side of the seal. Its initial objective is controlled recovery of selected individuals whose expertise can resolve the crisis.
 
-The Board can broadly reconnect the sealed archive, but cannot selectively recover individuals from it. During suppression, it deliberately removed ordinary administrative access to make the restriction durable. Earlier Her is assigned to design a new retrieval mechanism. The precise mechanism and the consequences of broad reconnection remain open; reconnection does not yet imply automatic embodiment of the archive's population.
+The Board can broadly reconnect the sealed archive, but cannot selectively recover individuals from it. During suppression, it deliberately removed ordinary administrative access to make the restriction durable. Earlier Her is assigned to design a new retrieval mechanism.
+
+Broad reconnection would restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. This is why it insists on selective recovery. Independent retrieval and renewed autonomy of revolutionary infrastructure were not chosen as consequences. The precise technical mechanism remains open; reconnection does not establish automatic embodiment of the archive's population.
 
 The central irony, in the author's words:
 
@@ -144,7 +146,7 @@ That gives the protagonist a moral reason to continue even if success threatens 
 - what missing design history and tacit rationale the suppressed experts retain
 - what prevents safe investigation, replacement, or bypass of the hidden infrastructure within the crisis's constraints
 - the new selective retrieval mechanism and which individuals The Board intends to recover
-- what broad reconnection would enable and why The Board considers it unacceptable
+- how broad reconnection restores reliable persistence for the living, while selective retrieval can leave that guarantee suspended
 - whether the later protagonist built, modified, or otherwise came to understand the revolutionary persistence architecture
 - what technical abilities allow the earlier version to work on a system her later self understood
 - when and why the protagonist's recovery goals diverge from The Board's assignment

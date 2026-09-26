@@ -19,7 +19,7 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - How does the conflict between human psychological needs and the ship's resource limits become a concrete threat to the mission?
 - Is mission preservation a genuine necessity, a justification, or both?
 - Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
-- Can new persistence states still be captured and restored?
+- Are new persistence states still captured during the restriction, and if so where are they held? Reliable persistence for the living is restored by broad reconnection; the current capture and recovery mechanics remain open.
 - Do people born after the affected boundary have any recoverable states?
 - What is the archive's physical and logical organization, and how does it prevent selective retrieval through the remaining access?
 - Why can the protagonist's old state be trusted while newer ones cannot?
@@ -44,7 +44,7 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - Are the hidden infrastructure and archive seal connected, and if so how?
 - What new retrieval mechanism can Earlier Her design to recover selected individuals?
 - Which individuals does The Board intend to recover, and how will it identify them?
-- What would broad reconnection enable, and why is it politically unacceptable to The Board?
+- How does broad reconnection restore reliable persistence for everyone living aboard, and how can selective retrieval avoid restoring that general guarantee?
 - Did Later Her build, modify, or otherwise come to understand the revolutionary persistence architecture?
 - How does Earlier Her bridge the experience she lacks to perform recovery?
 - What does The Board tell her about the restriction and its reasons for selecting her?

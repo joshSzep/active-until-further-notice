@@ -61,7 +61,9 @@ During suppression of the ship's revolution, The Board deliberately removed ordi
 
 Earlier Her's assignment is to design a new mechanism for selective retrieval. Later Her understood the revolutionary persistence architecture; her precise role in its development remains open.
 
-The technical form of the removed access and the new mechanism are undecided. Broad reconnection is not yet defined as automatic instantiation or embodiment; its operational and political consequences remain to be developed.
+Broad reconnection would restore reliable persistence for everyone living aboard. This would remove the fear of permanent loss that The Board uses to enforce compliance. It therefore seeks selective recovery without restoring that general guarantee.
+
+The technical form of the removed access and the new mechanism are undecided. Whether new states are still captured during the restriction, and what happens to them, remain open. Reconnection's chosen political consequence is restored reliable persistence; independent retrieval and renewed autonomy of revolutionary infrastructure were not selected. It does not establish automatic embodiment of the archive's population.
 
 ## Ship-specific pressure
 

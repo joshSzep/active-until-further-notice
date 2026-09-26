@@ -155,3 +155,19 @@ This log records decisions made through the question-and-answer development proc
 **Clarification:** Understanding the revolutionary persistence architecture does not establish that Later Her designed The Board's restriction. Broad reconnection is not yet defined as automatic embodiment of everyone in the archive.
 
 **Still open:** The removed administrative capabilities; the new retrieval mechanism; what broad reconnection would enable; the intended recovery candidates; Later Her's exact architectural role; how Earlier Her bridges the missing years of expertise.
+
+## 2026-09-25 — 011: Broad reconnection ends enforced fear of permanent loss
+
+**Question:** What would broad reconnection enable that The Board cannot tolerate?
+
+**Options offered:** Independent retrieval; restored reliable persistence for everyone; renewed autonomy of revolutionary infrastructure.
+
+**Author's answer:** "Just #2".
+
+**Decision:** Broad reconnection restores reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. This is the political consequence The Board seeks to avoid through selective recovery.
+
+**Scope:** Only restored reliable persistence was selected. Independent retrieval and renewed infrastructure autonomy are not part of this decision. Broad reconnection does not establish automatic embodiment of everyone in the archive.
+
+**Reasoning:** The author selected the consequence without additional rationale. It connects The Board's insistence on controlled retrieval to maintaining the coercive effect of unreliable recovery for the living.
+
+**Still open:** How reconnection restores reliable persistence; whether new states continue to be captured during suppression and what happens to them; how selective retrieval leaves the general restriction intact.

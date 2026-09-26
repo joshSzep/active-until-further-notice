@@ -32,7 +32,9 @@ Its initial goal is controlled recovery of selected individuals. It does not int
 
 The Board can broadly reconnect the archive. However, during suppression it deliberately removed ordinary administrative access to make the restriction durable, and it cannot selectively retrieve individuals. Controlled recovery requires a new retrieval mechanism.
 
-Earlier Her is selected to design that mechanism because Later Her understood the revolutionary persistence architecture. She has relevant technical ability and predates the political and psychological changes The Board rejects in Later Her. The exact technical history remains open, as do the consequences of broad reconnection.
+Earlier Her is selected to design that mechanism because Later Her understood the revolutionary persistence architecture. She has relevant technical ability and predates the political and psychological changes The Board rejects in Later Her. The exact technical history remains open.
+
+Broad reconnection would restore reliable persistence for everyone living aboard, removing the fear of permanent loss The Board uses to enforce compliance. This is the chosen reason it considers broad reconnection politically unacceptable. Selective retrieval would obtain the needed experts while maintaining that leverage over the living.
 
 The Board may intend to return the protagonist to dormancy once the work is complete. This is an explicitly tentative possibility.
 
