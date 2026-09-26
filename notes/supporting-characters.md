@@ -12,6 +12,8 @@ The child was an adolescent when Later Her was persisted and placed into compuls
 
 Their last interaction was an ordinary goodbye. Neither knew it would be their last for decades; they had no farewell understood as preparation for the coming separation. The setting, words, and how the child later learned of the compulsory dormancy remain open.
 
+After Later Her's removal, The Board appointed a guardian to care for the adolescent. The institution that removed their mother also arranged their subsequent upbringing. The guardian's identity, prior relationship to the family, quality of care, and present status remain open. This does not settle the existence or circumstances of another parent.
+
 The child understands persistence and the distinction between the two versions. Their emotional response does not depend on mistaking Earlier Her for the mother whose shared life they remember.
 
 The child's primary hope is that Earlier Her will help recover Later Her. They care about Earlier Her, but desperately want their mother back: the woman with whom they shared their life. How directly they express this hope, and how it affects their developing relationship with Earlier Her, remain open.

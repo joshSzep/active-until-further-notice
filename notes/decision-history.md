@@ -755,3 +755,19 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This does not establish that Later Her never contemplated becoming inaccessible, or what she learned between the goodbye and compulsory dormancy.
 
 **Still open:** The setting and words; how the child learned of the dormancy; what happened between the goodbye and suppression; how the child remembers the interaction decades later.
+
+## 2026-09-26 — 050: A Board-appointed guardian cared for the adolescent
+
+**Question:** Who cared for the adolescent after Later Her became inaccessible?
+
+**Options offered:** Their other parent; a close family friend; a communal household; a Board-appointed guardian.
+
+**Author's answer:** "4" — a Board-appointed guardian.
+
+**Decision:** The Board appointed a guardian to care for the adolescent after placing Later Her into compulsory dormancy.
+
+**Reasoning:** The author selected care arranged by the institution responsible for the mother's removal, without specifying the guardian or the nature of that care.
+
+**Scope:** This does not establish the guardian's identity, quality of care, or any prior relationship to the family. It does not settle the existence or circumstances of another parent or a general guardianship policy aboard ship.
+
+**Still open:** Who the guardian was; how the child experienced their care; what the guardian said about Later Her; the guardian's present status; effects on the child's later life.

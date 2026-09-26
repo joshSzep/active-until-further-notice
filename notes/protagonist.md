@@ -18,6 +18,8 @@ During suppression, Later Her was placed into compulsory dormancy. Her mental st
 
 Her last interaction with the child was an ordinary goodbye. Neither knew it would be their last for decades. This does not settle what she learned between that interaction and her compulsory dormancy.
 
+The Board appointed a guardian for her adolescent child after removing her from active life. The guardian's identity and relationship with the child remain open.
+
 ## Earlier political convictions
 
 Before the decades she cannot remember, she sincerely believed The Board's governance was the best way to preserve human life. Her support was conviction, not merely pragmatic acceptance or political disengagement.

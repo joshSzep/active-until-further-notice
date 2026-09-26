@@ -22,6 +22,8 @@ Later Her was placed into compulsory dormancy during suppression. Her state was 
 
 Mother and child last parted with an ordinary goodbye, unaware that it would be their last interaction for decades. They had no knowingly final farewell. The precise scene and how the child learned what followed remain open.
 
+The Board appointed a guardian to care for the adolescent after Later Her's compulsory dormancy. The nature of that care and its effect on the child's later life remain open.
+
 ## New mission crisis and controlled recovery — chosen direction
 
 Decades after the restriction, an ecological crisis threatens the mission. Independent food, water, and microbial life-support systems created during the revolution are failing. The suppressed generations deliberately built these undocumented, partially air-gapped modifications to support people outside The Board's allocations and escape its control. The specific ecological failure remains open.
