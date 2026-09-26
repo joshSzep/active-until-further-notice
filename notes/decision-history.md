@@ -787,3 +787,17 @@ This log records decisions made through the question-and-answer development proc
 **Scope:** This does not establish neglect, cruelty, or the guardian's political views. Their identity and reasons for maintaining distance remain open.
 
 **Still open:** The guardian's identity; how the child experienced this care; what they were told about Later Her; effects on their later relationships; the guardian's present status.
+
+## 2026-09-26 — 052: The child initiates the first meeting
+
+**Question:** How does Earlier Her first meet her elderly child?
+
+**Options offered:** The Board arranges the reunion; the child seeks her out; Earlier Her seeks the child out.
+
+**Author's answer:** "2" — the child seeks her out.
+
+**Decision:** After learning Earlier Her has been instantiated, the elderly child seeks her out and asks to meet. The child initiates their first encounter.
+
+**Reasoning:** The author selected the child's initiative without adding a rationale. This is consistent with their established hope that Earlier Her can help restore their mother.
+
+**Still open:** How the child hears the news and contacts her; what Earlier Her already knows about the child; the meeting's timing, setting, and opening exchange; its order relative to the other supporting-character encounters.
