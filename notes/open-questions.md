@@ -10,6 +10,11 @@ The catastrophe is a deliberate sealing of persistence states with both protecti
 - What danger were they trying to prevent, and was that danger real?
 - Whose control of the ship were they trying to change, and in whose favor?
 - How are the protective and political purposes connected?
+- Who benefits from restoring increasingly old versions while recent versions cannot return?
+- In what sense does this reintroduce death, and is that the intended outcome or a consequence?
+- Are accessible states becoming progressively older, or is there a fixed cutoff receding into the past?
+- Can new persistence states still be captured and restored?
+- Do people born after the affected boundary have any recoverable states?
 - Are the states physically intact but cryptographically or logically unreachable?
 - Why can the protagonist's old state be trusted while newer ones cannot?
 - Why is this protagonist uniquely positioned to repair the problem?

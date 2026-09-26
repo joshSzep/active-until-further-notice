@@ -8,6 +8,18 @@ Recovery may undo that protection. The nature of the danger, who acted, whose po
 
 ## Current spine
 
+### Developing the catastrophe: death returns
+
+The current exploration asks who benefits when people can be restored only from increasingly old persistence states, while recent versions cannot return. The author describes this as death being reintroduced into society.
+
+An older version can survive while a person's later lived experience becomes unrecoverable. This may undermine the ordinary social promise of persistence even when an identity still has a viable archive.
+
+The beneficiary and motive remain open. Proposed conflicts involving protection from The Board, a returning faction, entrenched founders, or concentrated archive control were not accepted. Do not treat any of those as the chosen explanation.
+
+It is not yet settled whether the accessible states retreat progressively into the past or remain behind a fixed cutoff that grows more distant with time. Nor is it settled whether people born after that cutoff have any recoverable state.
+
+### Working act structure
+
 This is a working plot shape, not locked canon.
 
 ### Act I: Waking
