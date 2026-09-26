@@ -42,6 +42,7 @@ That creates the central problem: by the time she succeeds, the version who woke
 - [Plot](notes/plot.md)
 - [Themes](notes/themes.md)
 - [Open questions](notes/open-questions.md)
+- [Decision history](notes/decision-history.md)
 - [Title history](notes/title-history.md)
 
 ## Status

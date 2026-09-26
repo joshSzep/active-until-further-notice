@@ -4,8 +4,12 @@ These are intentionally unresolved.
 
 ## The catastrophe
 
-- What exactly made recent persistence states inaccessible?
-- Accident, corruption, software failure, sabotage, attack, or something stranger?
+The catastrophe is a deliberate sealing of persistence states with both protective and political purposes. See [Plot](plot.md) and [Decision history](decision-history.md).
+
+- Who sealed the states away, and by what mechanism?
+- What danger were they trying to prevent, and was that danger real?
+- Whose control of the ship were they trying to change, and in whose favor?
+- How are the protective and political purposes connected?
 - Are the states physically intact but cryptographically or logically unreachable?
 - Why can the protagonist's old state be trusted while newer ones cannot?
 - Why is this protagonist uniquely positioned to repair the problem?

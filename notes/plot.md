@@ -1,5 +1,11 @@
 # Plot
 
+## Decided catastrophe premise
+
+Recent persistence states were deliberately made inaccessible as both a protective measure and a political act. Someone sealed them away to prevent a danger, and denying access to those people was also a means of changing who controls the ship.
+
+Recovery may undo that protection. The nature of the danger, who acted, whose power they sought to change, and whether the action was justified remain unresolved. The later protagonist's involvement is not yet decided.
+
 ## Current spine
 
 This is a working plot shape, not locked canon.
@@ -77,8 +83,9 @@ That gives the protagonist a moral reason to continue even if success threatens 
 
 ## Not yet settled
 
-- what caused the catastrophe
-- whether it was accidental, systemic, political, or deliberate
+- who deliberately sealed the persistence states away and how
+- what danger the sealing was intended to prevent
+- how denying access to those people was meant to change control of the ship
 - whether the later protagonist contributed to it
 - why the old version is uniquely capable of repairing it
 - whether restoring the archive itself creates new danger
