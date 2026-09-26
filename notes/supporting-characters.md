@@ -40,7 +40,11 @@ The offer, refusal, reasons, and this person's loss are established. The settlem
 
 ### The person who believes in her
 
-A former revolutionary expects conviction and courage that Earlier Her does not recognize in herself. Their exact relationship to Later Her and present political circumstances remain open.
+A former revolutionary expects conviction and courage that Earlier Her does not recognize in herself. Their faith combines desperate need with a promise from Later Her: she told them that an earlier version of herself could be trusted if she became inaccessible.
+
+They need someone to believe in and place expectations on Earlier Her that she may not deserve. Later Her's assurance gives that hope a specific foundation, but does not establish that Earlier Her will fulfill it.
+
+Their exact relationship to Later Her, present political circumstances, and the promise's wording and context remain open. The promise establishes that Later Her considered her own inaccessibility as a possibility; it does not establish foreknowledge of the precise suppression mechanism or a complete contingency plan.
 
 ## Development questions
 
@@ -58,6 +62,8 @@ A former revolutionary expects conviction and courage that Earlier Her does not 
 - Who comprises the dormant family, how long did the separation last, and has any of the family returned?
 - What skills kept the blaming character active, and how do they feel about the work that sustained their embodiment during separation?
 - How does the blaming character judge Later Her's commitment to others' independence in light of that separation?
+- What exactly did Later Her promise the former revolutionary, and why did she trust an earlier version of herself?
+- What does the believer need Earlier Her to do, and how does desperation shape their interpretation of the promise?
 - What specific shared history grounds the other characters' responses?
 - How does each person distinguish Earlier Her from Later Her in practice?
 - What does each want from her now?

@@ -511,3 +511,19 @@ This log records decisions made through the question-and-answer development proc
 **Reasoning:** The author selected needed expertise without adding a rationale. Their continued embodiment and years of separation are tied to The Board's allocation of useful people.
 
 **Still open:** Their profession and specific skills; their feelings about the work; family composition; duration of separation; whether their family has returned; their role in the present recovery effort.
+
+## 2026-09-26 — 034: Desperate faith reinforced by Later Her's promise
+
+**Question:** Why does the former revolutionary believe in Earlier Her?
+
+**Options offered:** Shared experience of Later Her's courage; a recognizable conviction in Earlier Her; desperate need; a promise from Later Her.
+
+**Author's answer:** "3 + 4".
+
+**Decision:** The former revolutionary desperately needs someone to believe in and places expectations on Earlier Her that she may not deserve. Their faith is reinforced by Later Her's promise that an earlier version of herself could be trusted if she became inaccessible.
+
+**Reasoning:** The author combines a personal need for hope with an assurance from the woman this character knew.
+
+**Scope:** The promise and the believer's desperation are established. The promise does not guarantee Earlier Her's choices or establish that Later Her foresaw the exact suppression or prepared a complete contingency plan.
+
+**Still open:** The promise's wording, context, and meaning; why Later Her trusted an earlier version; what the believer expects; their identity and relationship to Later Her; whether the faith is justified.

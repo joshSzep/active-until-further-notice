@@ -27,7 +27,7 @@ The Board deliberately sealed recent persistence states to suppress the revoluti
 - Why can the protagonist's old state be trusted while newer ones cannot?
 - Why is this protagonist uniquely positioned to repair the problem?
 - How does The Board assess the political acceptability of her earlier self, and how reliable is that assessment?
-- Did her later version know the catastrophe was coming?
+- Later Her contemplated becoming inaccessible and said an earlier version could be trusted. How much did she foresee about the actual suppression, and when did she make that promise?
 - Did her later version help cause it?
 
 ## The new mission crisis and controlled recovery
@@ -125,7 +125,9 @@ The Board needs expertise behind the seal to resolve ecological failure in indep
 - Who depended on the independent systems Later Her refused to surrender, and how did they view her decision?
 - How does Earlier Her respond to Later Her's commitment to freedom and responsibility toward those people?
 - Who is that person, and what relationship did they have with Later Her?
-- Who is the former revolutionary who believes in her, and what history grounds that belief?
+- Who is the former revolutionary whose desperate hope rests partly on Later Her's promise about an earlier version?
+- What was the promise's exact wording and context, and what did Later Her mean by "trusted"?
+- What does the believer expect Earlier Her to do, and are those expectations justified?
 - What does each want from Earlier Her now, and how do their new relationships develop?
 - Who is the first person to tell the waking protagonist something about herself she cannot emotionally accept?
 - What does she most desperately want to ask her later self about who she became?
